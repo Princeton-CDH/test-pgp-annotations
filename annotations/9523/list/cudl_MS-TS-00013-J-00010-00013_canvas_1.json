@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "test",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "http://localhost:8000/annotations/93f5c1b1-dfb6-4c05-8b36-c469ef5e4660/",
+      "type": "Annotation",
+      "created": "2022-09-16T18:28:04.032467+00:00",
+      "modified": "2022-09-16T18:28:04.032486+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<p>test backup from anno save</p>",
+          "format": "text/html",
+          "purpose": "transcribing"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00010-00013/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/9523/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:1153.022216796875,1710.876953125,1702.431396484375,1723.93408203125",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/22/",
+      "schema:position": 1
+    }
+  ]
+}
