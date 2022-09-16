@@ -7,11 +7,11 @@
       "id": "http://localhost:8000/annotations/93f5c1b1-dfb6-4c05-8b36-c469ef5e4660/",
       "type": "Annotation",
       "created": "2022-09-16T18:28:04.032467+00:00",
-      "modified": "2022-09-16T18:28:04.032486+00:00",
+      "modified": "2022-09-16T18:31:47.146690+00:00",
       "body": [
         {
           "type": "TextualBody",
-          "value": "<p>test backup from anno save</p>",
+          "value": "<p>test backup from anno save</p>\n<p>revising my test</p>",
           "format": "text/html",
           "purpose": "transcribing"
         }
@@ -32,17 +32,18 @@
         }
       },
       "dc:source": "https://geniza.princeton.edu/sources/22/",
+      "motivation": "supplementing",
       "schema:position": 1
     },
     {
       "id": "http://localhost:8000/annotations/4d62dd3a-458d-4470-b28f-493c1ac5195b/",
       "type": "Annotation",
       "created": "2022-09-16T18:28:55.175626+00:00",
-      "modified": "2022-09-16T18:28:55.175645+00:00",
+      "modified": "2022-09-16T18:33:49.151878+00:00",
       "body": [
         {
           "type": "TextualBody",
-          "value": "<p>new annotation rsk test</p>",
+          "value": "<p>new annotation rsk test</p>\n<p>testing testing</p>",
           "format": "text/html",
           "purpose": "transcribing"
         }
@@ -63,6 +64,7 @@
         }
       },
       "dc:source": "https://geniza.princeton.edu/sources/22/",
+      "motivation": "supplementing",
       "schema:position": 2
     }
   ]
