@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F27056%2Fiiif%2Fcanvas%2F3%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F27056%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/79bfe031-2f1e-4e57-9c50-9c40e69aaa90/",
+      "type": "Annotation",
+      "created": "2022-09-22T15:35:39.440862+00:00",
+      "modified": "2022-09-22T15:35:39.440879+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto, bottom right in a different pen from letter:",
+          "value": "<ol>\n<li>\u05d0\u05e6\u05e2\u05e7 \u05dc\u05da \u05d9\u05d9\u05d9 [</li>\n<li>\u05e9\u05de\u05e2 \u05e7\u05d5\u05dc\u05d9 [</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://geniza.princeton.edu/en/documents/27056/iiif/canvas/3/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/27056/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/35/",
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 3
+    }
+  ]
+}
