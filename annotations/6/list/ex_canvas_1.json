@@ -43,6 +43,27 @@
         }
       },
       "dc:source": "https://geniza.princeton.edu/sources/7/"
+    },
+    {
+      "id": "http://example.com/annotations/9147eb6a-c5dd-4ac2-b1c7-68bd602d6b17/",
+      "type": "Annotation",
+      "created": "2022-09-22T15:58:23.752452+00:00",
+      "modified": "2022-09-22T15:58:23.752487+00:00",
+      "baz": "qux",
+      "body": [
+        {
+          "value": "Test annotation"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "http://ex.co/iiif/canvas/1",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/6/iiif/manifest/"
+          }
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/7/"
     }
   ]
 }
