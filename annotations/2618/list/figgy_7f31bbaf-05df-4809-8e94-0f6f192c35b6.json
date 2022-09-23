@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Ffiggy.princeton.edu%2Fconcern%2Fscanned_resources%2F01e257d6-c3da-402b-b2d4-4ea114ee1a99%2Fmanifest%2Fcanvas%2F7f31bbaf-05df-4809-8e94-0f6f192c35b6&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F2618%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/2ea38fbc-f29f-4f04-a81e-ba27ed844c86/",
+      "type": "Annotation",
+      "created": "2022-09-23T21:51:36.444901+00:00",
+      "modified": "2022-09-23T21:51:36.444930+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso",
+          "value": "<p>\u05d0\u05dc\u05d0\u05db\u05ea \u05d0\u05dc\u05e2\u05d6\u05d9\u05d6\u05d4 \u05e1\u05ea \u05d0\u05dc\u05db\u05d9\u05e8 [</p>\n<p>\u05d0\u05dc\u05e9\u05e8\u05d0\u05d1\u05d9 \u05d5\u05e4\u05e7\u05d4 \u05d0\u05dc\u05dc\u05d4 \u05ea\u05e2 \u05d5\u05d0\u05dc.[</p>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://figgy.princeton.edu/concern/scanned_resources/01e257d6-c3da-402b-b2d4-4ea114ee1a99/manifest/canvas/7f31bbaf-05df-4809-8e94-0f6f192c35b6",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/2618/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/765/",
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
+    }
+  ]
+}
