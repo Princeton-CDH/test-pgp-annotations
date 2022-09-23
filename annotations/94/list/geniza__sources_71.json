@@ -1,0 +1,27 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://example.com/annotations/search/?uri=https%3A%2F%2Fgeniza.princeton.edu%2Fsources%2F71%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F94%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "http://example.com/annotations/30178ddf-1314-4161-85c1-5bc3382d9962/",
+      "type": "Annotation",
+      "created": "2022-09-23T15:47:20.628682+00:00",
+      "modified": "2022-09-23T15:47:20.628710+00:00",
+      "body": [
+        {
+          "value": "here is completely different transcription text"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://geniza.princeton.edu/sources/71/",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/94/iiif/manifest/"
+          }
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/71/"
+    }
+  ]
+}
