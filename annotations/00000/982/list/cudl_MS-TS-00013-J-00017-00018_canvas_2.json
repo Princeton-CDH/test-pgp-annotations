@@ -1,0 +1,187 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00013-J-00017-00018%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F982%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "http://localhost:8000/annotations/b15a6f7c-3a47-4e98-80cf-f8514b9ba923/",
+      "type": "Annotation",
+      "created": "2022-09-27T19:10:56.537311+00:00",
+      "modified": "2022-09-27T19:10:56.537326+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso",
+          "value": "<ol>\n<li>\u05d0\u05db\u05d9 \u05d5\u05e1\u05d9\u05d3\u05d9 \u05d0\u05d1\u05d5 \u05d9\u05d7\u05d9\u05d9 \u05d0\u05d8\u05d0\u05dc \u05d0\u05dc\u05dc\u05d4 \u05d1\u05e7\u05d0\u05d4 \u05de\u05df \u05de\u05e9\u05d4 \u05d1\u05d9\u05e8 \u05d9\u05e2\u05e7\u05d1 \u05e0\u05e2</li>\n<li>\u05d5\u05d0\u05d3\u05d0\u05dd \u05ea\u05d0\u05d9\u05d9\u05d3\u05d4</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00017-00018/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/982/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/16/",
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 3
+    },
+    {
+      "id": "http://localhost:8000/annotations/cac02020-122d-494a-96f7-2ada5def6951/",
+      "type": "Annotation",
+      "created": "2022-09-27T19:10:56.545134+00:00",
+      "modified": "2022-09-27T19:10:56.545147+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "#",
+          "value": "<p>\u064a\u0635\u0644 \u0627\u0644\u0641\u0633\u0637\u0627\u0637 [\u0627\u0646 \u0634\u0627\u0621] \u0627\u0644\u0644\u0647 \u062c\u0633\u0631 \u0627\u0644\u0645\u0639\u0627\u0631\u062c</p>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00017-00018/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/982/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/16/",
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 4
+    },
+    {
+      "id": "http://localhost:8000/annotations/cc1ceda8-7d99-44e5-b2b1-3187b19ea4f1/",
+      "type": "Annotation",
+      "created": "2022-09-27T19:10:56.547005+00:00",
+      "modified": "2022-09-27T19:10:56.547017+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "#",
+          "value": "<ol>\n<li>\u05e0\u05d4\u05e8\u05d0\u05d9 \u05d1\u05df \u05e0\u05e1\u05d9\u05dd \u05e0\u05e2 \u05d0\u05dc\u05dc\u05d4 \u05d5\u05dc\u05d9\u05d9\u05d4</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00017-00018/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/982/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/16/",
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 5
+    },
+    {
+      "id": "http://localhost:8000/annotations/e1e4af46-c630-4021-a85b-c90ef82018b6/",
+      "type": "Annotation",
+      "created": "2022-09-27T19:10:56.548934+00:00",
+      "modified": "2022-09-27T19:10:56.548948+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "#",
+          "value": "<ol>\n<li>\u0627\u0644\u062d\u0633\u064a\u0646 \u0628\u0646 \u0639\u0628\u062f \u0627\u0644\u0631\u062d\u0645\u0646 \u0646\u062c\u0627 \u0628\u0646 \u0627\u0644\u062d\u0633\u064a\u0646</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00017-00018/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/982/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/16/",
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 6
+    },
+    {
+      "id": "http://localhost:8000/annotations/7390b011-6f4c-4de1-8c5d-2e163f153969/",
+      "type": "Annotation",
+      "created": "2022-09-27T19:10:56.551108+00:00",
+      "modified": "2022-09-27T19:10:56.551122+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "#\nUpside-Down\n#",
+          "value": "<ol>\n<li>\u064a\u0635\u0644 \u0647\u0630\u0627 \u0627\u0644\u0643\u062a\u0627\u0628 \u0627\u0644\u0649 \u0646\u0647\u0631\u0627\u064a \u0628\u0646 \u0645\u0646 \u0646\u0633\u064a\u0645 \u0645\u0646 \u0645\u0648\u0633\u0649 \u0628\u0646 \u064a\u0639\u0642\u0648\u0628 \u062c\u0633\u0631</li>\n</ol>\n<p>\u0627\u0644\u0645\u0639\u0627\u0631\u064a\u062c</p>\n<ol>\n<li>\u0627\u0644\u0645\u063a\u0631\u0628\u064a \u0627\u0637\u0627\u0644 \u0627\u0644\u0644\u0647 \u0628\u0642\u0627\u0665</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00017-00018/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/982/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/16/",
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 7
+    }
+  ]
+}
