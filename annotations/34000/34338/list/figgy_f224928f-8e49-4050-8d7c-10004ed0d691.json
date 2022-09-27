@@ -34,6 +34,38 @@
       },
       "dc:source": "https://geniza.princeton.edu/sources/367/",
       "schema:position": 1
+    },
+    {
+      "id": "http://localhost:8000/annotations/78d1eba8-d659-43c3-ab67-cc6f3b66c3da/",
+      "type": "Annotation",
+      "created": "2022-09-27T20:32:57.006693+00:00",
+      "modified": "2022-09-27T20:32:57.006714+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "e",
+          "value": "<p>fe</p>",
+          "format": "text/html",
+          "purpose": "transcribing"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://figgy.princeton.edu/concern/scanned_resources/31cf88c2-9979-409a-a3fd-605659b88d1f/manifest/canvas/f224928f-8e49-4050-8d7c-10004ed0d691",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/34338/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:4421.09619140625,1802.5322265625,548.75927734375,374.0693359375",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/367/",
+      "schema:position": 2
     }
   ]
 }
