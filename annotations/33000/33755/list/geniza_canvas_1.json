@@ -1,0 +1,79 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F33755%2Fiiif%2Fcanvas%2F1%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F33755%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/41016b1a-a856-48a3-bb3d-6df1531e0db3/",
+      "type": "Annotation",
+      "created": "2022-09-27T21:43:55.831544+00:00",
+      "modified": "2022-09-27T21:43:55.831558+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso.\nArabic:",
+          "value": "<ol>\n<li>\u05d1\u05e1\u05dd \u05d0\u05dc\u05dc\u05d4 \u05d0\u05dc\u05e8[\u05d7\u05de\u05df \u05d0\u05dc\u05e8\u05d7\u05d9\u05dd</li>\n<li>\u05d0\u05dc\u05e9\u05d9]\u05da \u05d0\u05d1\u05d5 \u05d0\u05dc\u05e4\u05e8\u05d2 \u05d0\u05d1\u05df \u05d0\u05dc\u05e8\u05d9\u05e1 . \u05d0\u05d1\u05df \u05e2 . . \u05d3 \u05d7\u05e8\u05d2[</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://geniza.princeton.edu/en/documents/33755/iiif/canvas/1/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/33755/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/383/",
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/7d14e398-2aed-487c-9b45-e58b9a17b326/",
+      "type": "Annotation",
+      "created": "2022-09-27T21:43:55.837681+00:00",
+      "modified": "2022-09-27T21:43:55.837694+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Arabic\nAddress.",
+          "value": "<ol>\n<li>\u05d7\u05e6\u05e8\u05d4 \u05d0\u05dc\u05de\u05d5\u05dc\u05d0</li>\n<li>\u05d0\u05dc\u05d0\u05d2\u05dc \u05d0\u05dc\u05d3\u05d9\u05d9\u05df \u05d0\u05dc\u05d2\u05dc\u05d9\u05dc \u05e9\u05e6</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://geniza.princeton.edu/en/documents/33755/iiif/canvas/1/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/33755/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/383/",
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 3
+    }
+  ]
+}
