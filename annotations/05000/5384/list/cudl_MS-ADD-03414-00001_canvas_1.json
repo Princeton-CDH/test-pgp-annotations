@@ -70,6 +70,41 @@
         "transcribing"
       ],
       "schema:position": 2
+    },
+    {
+      "id": "http://localhost:8000/annotations/4c89704d-4d81-408a-bc59-def77b32b7a4/",
+      "type": "Annotation",
+      "created": "2022-09-28T19:11:15.745804+00:00",
+      "modified": "2022-09-28T19:11:15.745824+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "test",
+          "value": "<p>he</p>",
+          "format": "text/html"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-ADD-03414-00001/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/5384/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:3741.845947265625,1233.9263916015625,417.254150390625,529.0938720703125",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/796/",
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
     }
   ]
 }
