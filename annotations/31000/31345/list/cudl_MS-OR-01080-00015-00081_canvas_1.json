@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-OR-01080-00015-00081%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F31345%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/e60c0b09-899f-4a82-9cd5-5883e20fb8e5/",
+      "type": "Annotation",
+      "created": "2022-09-28T18:22:29.846226+00:00",
+      "modified": "2022-09-28T18:22:29.846251+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05e7\u05d7\u05dc\u05e8\u05e7</li>\n<li>\u05d0\u05d7\u05e8\u05dc\u05d0</li>\n<li>'\u05dc\u05d7\u05e7\u05e8'\u05d0</li>\n<li>\u05e8\u05d0\u05dc\u05da\u05e7</li>\n</ol>",
+          "format": "text/html",
+          "purpose": "transcribing"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-OR-01080-00015-00081/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/en/documents/31345/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:1257.4530029296875,3250.6982421875,1433.7086181640625,1376.6455078125",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/22/",
+      "schema:position": 1
+    }
+  ]
+}
