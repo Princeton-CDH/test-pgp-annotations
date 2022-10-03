@@ -4,10 +4,10 @@
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/225073e9-14e3-4e65-9102-628f702949f4/",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/8ddede4e-753c-42eb-aac7-11dee432b27c/",
       "type": "Annotation",
-      "created": "2022-09-29T20:21:46.937137+00:00",
-      "modified": "2022-09-29T20:21:46.937151+00:00",
+      "created": "2022-10-03T22:23:11.331626+00:00",
+      "modified": "2022-10-03T22:23:11.331646+00:00",
       "body": [
         {
           "type": "TextualBody",
@@ -38,42 +38,6 @@
         "transcribing"
       ],
       "schema:position": 2
-    },
-    {
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/696b45c4-90d2-4e26-a8ad-e1f509612d88/",
-      "type": "Annotation",
-      "created": "2022-09-29T21:41:58.262135+00:00",
-      "modified": "2022-09-29T21:41:58.262149+00:00",
-      "body": [
-        {
-          "type": "TextualBody",
-          "label": "Verso:",
-          "value": "<ol>\n<li>\u05d7\u05e6\u05e8\u05d4 \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05dc\u05d2\u05dc\u05d9\u05dc \u05d0\u05d1\u05d5 \u05e1\u05e2\u05d9\u05d3 \u05de\u05d5\u05dc\u05d0\u05d9 \u05d0\u05d3\u05d0\u05dd \u05d0\u05dc\u05dc\u05d4 \u05e2\u05d6\u05d4</li>\n</ol>",
-          "format": "text/html",
-          "TextInput": "rtl"
-        }
-      ],
-      "target": {
-        "source": {
-          "id": "https://geniza.princeton.edu/en/documents/9083/iiif/canvas/2/",
-          "type": "Canvas",
-          "partOf": {
-            "id": "https://geniza.princeton.edu/en/documents/9083/iiif/manifest/",
-            "type": "Manifest"
-          }
-        },
-        "selector": {
-          "type": "FragmentSelector",
-          "value": "xywh=percent:1,1,98,98",
-          "conformsTo": "http://www.w3.org/TR/media-frags/"
-        }
-      },
-      "dc:source": "https://geniza.princeton.edu/sources/708/",
-      "motivation": [
-        "sc:supplementing",
-        "transcribing"
-      ],
-      "schema:position": 3
     }
   ]
 }
