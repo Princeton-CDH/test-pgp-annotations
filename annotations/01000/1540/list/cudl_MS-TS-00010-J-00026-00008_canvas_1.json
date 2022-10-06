@@ -1,13 +1,13 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00010-J-00026-00008%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F1540%2Fiiif%2Fmanifest%2F",
+  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00010-J-00026-00008%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F1540%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "http://localhost:8000/annotations/f37dd2a9-a069-4cb3-af96-953b772dc5c9/",
+      "id": "http://localhost:8000/annotations/0db382e8-8811-4921-9982-3e128e525d6b/",
       "type": "Annotation",
-      "created": "2022-09-27T19:08:07.543030+00:00",
-      "modified": "2022-09-27T19:08:07.543053+00:00",
+      "created": "2022-10-06T21:38:51.604014+00:00",
+      "modified": "2022-10-06T21:38:51.604035+00:00",
       "body": [
         {
           "type": "TextualBody",
@@ -21,7 +21,7 @@
           "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00010-J-00026-00008/canvas/1",
           "type": "Canvas",
           "partOf": {
-            "id": "https://geniza.princeton.edu/en/documents/1540/iiif/manifest/",
+            "id": "https://geniza.princeton.edu/documents/1540/iiif/manifest/",
             "type": "Manifest"
           }
         },
