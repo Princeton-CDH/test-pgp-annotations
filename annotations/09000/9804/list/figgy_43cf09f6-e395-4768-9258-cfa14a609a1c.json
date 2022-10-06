@@ -1,13 +1,13 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Ffiggy.princeton.edu%2Fconcern%2Fscanned_resources%2F733e9966-c25c-4149-a5b1-ad8f88e45675%2Fmanifest%2Fcanvas%2F43cf09f6-e395-4768-9258-cfa14a609a1c&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F9804%2Fiiif%2Fmanifest%2F",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Ffiggy.princeton.edu%2Fconcern%2Fscanned_resources%2F733e9966-c25c-4149-a5b1-ad8f88e45675%2Fmanifest%2Fcanvas%2F43cf09f6-e395-4768-9258-cfa14a609a1c&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F9804%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/dbabc692-3a34-4dd4-967e-e71a7928268f/",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/a82bed45-1301-4a29-9a9e-f33ac7423a84/",
       "type": "Annotation",
-      "created": "2022-10-03T23:08:54.570117+00:00",
-      "modified": "2022-10-03T23:08:54.570135+00:00",
+      "created": "2022-10-06T21:22:47.966822+00:00",
+      "modified": "2022-10-06T21:22:47.966841+00:00",
       "body": [
         {
           "type": "TextualBody",
@@ -21,7 +21,7 @@
           "id": "https://figgy.princeton.edu/concern/scanned_resources/733e9966-c25c-4149-a5b1-ad8f88e45675/manifest/canvas/43cf09f6-e395-4768-9258-cfa14a609a1c",
           "type": "Canvas",
           "partOf": {
-            "id": "https://geniza.princeton.edu/en/documents/9804/iiif/manifest/",
+            "id": "https://geniza.princeton.edu/documents/9804/iiif/manifest/",
             "type": "Manifest"
           }
         },
@@ -32,42 +32,6 @@
         }
       },
       "dc:source": "https://geniza.princeton.edu/sources/16/",
-      "motivation": [
-        "sc:supplementing",
-        "transcribing"
-      ],
-      "schema:position": 1
-    },
-    {
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/0e9b83ec-b28d-493b-ad1f-bd5233ebf4aa/",
-      "type": "Annotation",
-      "created": "2022-10-03T23:37:10.152654+00:00",
-      "modified": "2022-10-03T23:37:10.152673+00:00",
-      "body": [
-        {
-          "type": "TextualBody",
-          "label": "Address (verso)",
-          "value": "<ol>\n<li>. . . . . \u05dc\u05e4\u05e0\u05d9 \u05e9\u05e2\u05e8 \u05d1\u05ea \u05e8\u05d1\u05d9\u05dd . . \u05d5\u05e8\u05d4 \u05d0[\u05d3\u05d5]\u05e0\u05d9\u05e0\u05d5 [\u05d0\u05d3\u05d9\u05e8\u05d9\u05e0\u05d5 \u05e0\u05e9\u05d9\u05d0\u05d9\u05e0\u05d5]</li>\n<li>. . . \u05dc\u05e8\u05d1\u05d9\u05dd \u05dc\u05de\u05d5\u05e9\u05d1 \u05d4\u05e0\u05d7\u05e9\u05d1 \u05db[\u05d7\u05e9\u05d1 \u05d0]\u05d3\u05d9\u05e8\u05d9\u05e0\u05d5 \u05d3\u05d5\u05d9\u05d3 \u05d4\u05e0[\u05e9\u05d9\u05d0 \u05dc\u05d1\u05d9\u05ea \u05d3\u05d5\u05d9\u05d3]</li>\n<li>. . . \u05d4\u05e0\u05e9\u05d9[\u05d0] . . \u05d9\u05e9 . \u05d4\u05d5\u05d0 \u05db\u05d1 \u05d2\u05d3\u05d5 \u05e7[\u05d3\u05d5]\u05e9\u05ea \u05d1\u05df \u05d0\u05d3\u05d5\u05e0\u05d9\u05e0\u05d5 \u05d9\u05d7[\u05e7\u05d9\u05d4\u05d5 \u05e8\u05d0\u05e9]</li>\n<li>[\u05d4[\u05d2\u05d5\u05dc[\u05d4] \u05e0\u05e9[\u05d9\u05d0 \u05d0\u05dc\u05d4\u05d9\u05dd]</li>\n</ol>",
-          "format": "text/html",
-          "TextInput": "rtl"
-        }
-      ],
-      "target": {
-        "source": {
-          "id": "https://figgy.princeton.edu/concern/scanned_resources/733e9966-c25c-4149-a5b1-ad8f88e45675/manifest/canvas/43cf09f6-e395-4768-9258-cfa14a609a1c",
-          "type": "Canvas",
-          "partOf": {
-            "id": "https://geniza.princeton.edu/en/documents/9804/iiif/manifest/",
-            "type": "Manifest"
-          }
-        },
-        "selector": {
-          "type": "FragmentSelector",
-          "value": "xywh=percent:1,1,98,98",
-          "conformsTo": "http://www.w3.org/TR/media-frags/"
-        }
-      },
-      "dc:source": "https://geniza.princeton.edu/sources/24/",
       "motivation": [
         "sc:supplementing",
         "transcribing"
