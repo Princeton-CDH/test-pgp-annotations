@@ -1,13 +1,13 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Ffiggy.princeton.edu%2Fconcern%2Fscanned_resources%2F793c1b6d-781f-4c01-95b3-054fe2c8953c%2Fmanifest%2Fcanvas%2F56cf6525-4bc7-4eaa-a856-de227d493a8e&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F2712%2Fiiif%2Fmanifest%2F",
+  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Ffiggy.princeton.edu%2Fconcern%2Fscanned_resources%2F793c1b6d-781f-4c01-95b3-054fe2c8953c%2Fmanifest%2Fcanvas%2F56cf6525-4bc7-4eaa-a856-de227d493a8e&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F2712%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "http://localhost:8000/annotations/6e99529b-ff24-40dc-b384-e07bfc52a5de/",
+      "id": "http://localhost:8000/annotations/0b812379-52eb-46f9-b932-58ea1c050bfd/",
       "type": "Annotation",
-      "created": "2022-09-27T19:07:49.034549+00:00",
-      "modified": "2022-09-27T19:07:49.034565+00:00",
+      "created": "2022-10-06T21:38:04.009504+00:00",
+      "modified": "2022-10-06T21:38:04.009521+00:00",
       "body": [
         {
           "type": "TextualBody",
@@ -22,7 +22,7 @@
           "id": "https://figgy.princeton.edu/concern/scanned_resources/793c1b6d-781f-4c01-95b3-054fe2c8953c/manifest/canvas/56cf6525-4bc7-4eaa-a856-de227d493a8e",
           "type": "Canvas",
           "partOf": {
-            "id": "https://geniza.princeton.edu/en/documents/2712/iiif/manifest/",
+            "id": "https://geniza.princeton.edu/documents/2712/iiif/manifest/",
             "type": "Manifest"
           }
         },
