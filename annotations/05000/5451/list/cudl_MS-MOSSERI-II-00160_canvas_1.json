@@ -1,0 +1,79 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-MOSSERI-II-00160%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F5451%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "http://localhost:8000/annotations/839e84f4-644e-40b9-bf1a-f5215f17a707/",
+      "type": "Annotation",
+      "created": "2022-10-06T21:26:55.268260+00:00",
+      "modified": "2022-10-06T21:26:55.268278+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "II, 9\nVerso:",
+          "value": "<ol>\n<li>[\u05de\u05d5\u05dc]\u05d0\u05d9 \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d5 \u05d0\u05dc\u05de\u05e4\u05e6\u05dc \u05e9\u05d0\u05db\u05e8 \u05ea\u05e4\u05e6\u05dc\u05d4 \u05db\u05d9\u05d0\u05e8 \u05d1\u05df \u05d9\u05e2\u05e7\u05d1</li>\n<li>[\u05d4\u05d1]\u05ea \u05d0\u05dc\u05dc\u05d4 \u05d1\u05df \u05d7\u05e1\u05d9\u05df [[\u05d1\u05df \u05d9]]\u05e0\u05e2 \u05e0\u05e2</li>\n<li>[\u05d0\u05d8]\u05d0\u05dc \u05d0\u05dc\u05dc\u05d4 \u05d1\u05e7\u05d0\u05d4 \u05d5\u05d0\u05d3\u05d0\u05dd \u05e2\u05d6\u05d4</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-MOSSERI-II-00160/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5451/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/1/",
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "id": "http://localhost:8000/annotations/cc95b722-0244-4cae-acb3-613e94d91043/",
+      "type": "Annotation",
+      "created": "2022-10-06T21:26:55.269853+00:00",
+      "modified": "2022-10-06T21:26:55.269867+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Postscript:",
+          "value": "<p>(1) \u05d5\u05e0\u05d7\u05d1 \u05d9\u05d0 \u05de\u05d5\u05dc\u05d0\u05d9 \u05ea\u05e2\u05e8\u05e4\u05e0\u05d9 \u05d0\u05e9 \u05e1\u05de\u05e2\u05ea \u05de\u05df \u05e4\u05e8\u05d2 //\u05e2\u05df \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d5 \u05d0\u05dc\u05e4\u05e8\u05d2 \u05e0\u05e1\u05d9\u05dd// (2) \u05d0\u05dc \u05d5\u05d0\u05e6\u05dc \u05de\u05df \u05e2\u05e0\u05d3\u05d4 \u05d5\u05de\u05df \u05d2\u05d9\u05e8\u05d4 \u05de\u05df \u05d0\u05dc \u05d4\u05e0\u05d3 \u05dc\u05e2\u05dc \u05de\u05e0\u05d4 (3) [\u05d0\u05d5 \u05de\u05df \u05d0\u05dc\u05d5\u05d0\u05e6\u05dc\u05d9\u05df] \u05d2\u05d9\u05e8\u05d4 \u05d5\u05ea\u05e2\u05e8\u05e4\u05e0\u05d9 \u05d1\u05d3\u05dc\u05da \u05e4\u05d9 \u05db\u05ea\u05d0\u05d1\u05da \u05d5\u05e9\u05dc\u05dd</p>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-MOSSERI-II-00160/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5451/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/1/",
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
+    }
+  ]
+}
