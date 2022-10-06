@@ -1,13 +1,13 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F525%2Fiiif%2Fcanvas%2F1%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F525%2Fiiif%2Fmanifest%2F",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fprincetongenizalab.github.io%2Fiiif%2Fbodleian%2Fc%2Fcanvas%2Fms-heb-c-13-12%2F1.json&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F525%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/6e0b3382-060e-4af8-80ba-7ad27f5de6c2/",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/6e8a4c15-dd13-4c3b-95f5-3fbc200a200d/",
       "type": "Annotation",
-      "created": "2022-10-03T23:03:48.435900+00:00",
-      "modified": "2022-10-03T23:03:48.435918+00:00",
+      "created": "2022-10-06T21:17:46.124491+00:00",
+      "modified": "2022-10-06T21:17:46.124507+00:00",
       "body": [
         {
           "type": "TextualBody",
@@ -18,10 +18,10 @@
       ],
       "target": {
         "source": {
-          "id": "https://geniza.princeton.edu/en/documents/525/iiif/canvas/1/",
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/c/canvas/ms-heb-c-13-12/1.json",
           "type": "Canvas",
           "partOf": {
-            "id": "https://geniza.princeton.edu/en/documents/525/iiif/manifest/",
+            "id": "https://geniza.princeton.edu/documents/525/iiif/manifest/",
             "type": "Manifest"
           }
         },
