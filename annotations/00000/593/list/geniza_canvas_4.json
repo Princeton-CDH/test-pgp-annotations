@@ -1,28 +1,28 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F593%2Fiiif%2Fcanvas%2F4%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F593%2Fiiif%2Fmanifest%2F",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F593%2Fiiif%2Fcanvas%2F4%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F593%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/3bffb5da-0f1c-448e-a81e-813e88c3e20b/",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/64106c58-8bae-4299-bc08-b675216d9a7a/",
       "type": "Annotation",
-      "created": "2022-10-03T21:24:18.699641+00:00",
-      "modified": "2022-10-03T21:24:18.699653+00:00",
+      "created": "2022-10-06T19:38:23.277960+00:00",
+      "modified": "2022-10-06T19:38:23.277973+00:00",
       "body": [
         {
           "type": "TextualBody",
-          "label": "Verso, in the same hand, mostly illegible and possibly unrelated to the letter:",
-          "value": "<ol>\n<li>\u05d0 . . . \u05e4\u05d9 \u05d0\u05dc\u05e1\u05e0\u05d4 \u05d3\u05d9\u05d5\u05d0\u05d3 (?) \u05d5\u05d9\u05d5 . . \u05da \u05d5\u05d9\u05d0\u05d8\u05de\u05dd (?)</li>\n</ol>",
+          "label": "Verso, date, upside down:",
+          "value": "<ol>\n<li>\u05e8\u05d0\u05e9 \u05d7\u05d5\u05d3\u05e9 \u05e1\u05d9\u05d5\u05df \u05d0\u05ea\u05db\u05d2</li>\n</ol>",
           "format": "text/html",
           "TextInput": "rtl"
         }
       ],
       "target": {
         "source": {
-          "id": "https://geniza.princeton.edu/en/documents/593/iiif/canvas/4/",
+          "id": "https://geniza.princeton.edu/documents/593/iiif/canvas/4/",
           "type": "Canvas",
           "partOf": {
-            "id": "https://geniza.princeton.edu/en/documents/593/iiif/manifest/",
+            "id": "https://geniza.princeton.edu/documents/593/iiif/manifest/",
             "type": "Manifest"
           }
         },
@@ -37,7 +37,7 @@
         "sc:supplementing",
         "transcribing"
       ],
-      "schema:position": 4
+      "schema:position": 6
     }
   ]
 }
