@@ -1,13 +1,13 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F9096%2Fiiif%2Fcanvas%2F2%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F9096%2Fiiif%2Fmanifest%2F",
+  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F9096%2Fiiif%2Fcanvas%2F2%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F9096%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "http://localhost:8000/annotations/de7cedd4-bed8-4db1-80c1-06af88c91493/",
+      "id": "http://localhost:8000/annotations/ae8b814c-a2dd-460a-9986-5b155e56cfc0/",
       "type": "Annotation",
-      "created": "2022-09-27T19:06:52.076175+00:00",
-      "modified": "2022-09-27T19:06:52.076189+00:00",
+      "created": "2022-10-06T21:20:10.427368+00:00",
+      "modified": "2022-10-06T21:20:10.427382+00:00",
       "body": [
         {
           "type": "TextualBody",
@@ -19,10 +19,10 @@
       ],
       "target": {
         "source": {
-          "id": "https://geniza.princeton.edu/en/documents/9096/iiif/canvas/2/",
+          "id": "https://geniza.princeton.edu/documents/9096/iiif/canvas/2/",
           "type": "Canvas",
           "partOf": {
-            "id": "https://geniza.princeton.edu/en/documents/9096/iiif/manifest/",
+            "id": "https://geniza.princeton.edu/documents/9096/iiif/manifest/",
             "type": "Manifest"
           }
         },
@@ -32,7 +32,7 @@
           "conformsTo": "http://www.w3.org/TR/media-frags/"
         }
       },
-      "dc:source": "https://geniza.princeton.edu/sources/13/",
+      "dc:source": "https://geniza.princeton.edu/sources/141/",
       "motivation": [
         "sc:supplementing",
         "transcribing"
