@@ -1,13 +1,13 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F5248%2Fiiif%2Fcanvas%2F1%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F5248%2Fiiif%2Fmanifest%2F",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fluna.manchester.ac.uk%2Fluna%2Fservlet%2Fiiif%2Fm%2FManchesterDev~95~2~18573~111307%2Fcanvas%2Fc1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F5248%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/bd88e78d-36ef-4226-a274-71ff747df04c/",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/df242d88-c084-41a2-90bd-8871c4cdc515/",
       "type": "Annotation",
-      "created": "2022-10-03T22:26:32.806564+00:00",
-      "modified": "2022-10-03T22:26:32.806583+00:00",
+      "created": "2022-10-06T20:40:32.219158+00:00",
+      "modified": "2022-10-06T20:40:32.219178+00:00",
       "body": [
         {
           "type": "TextualBody",
@@ -18,10 +18,10 @@
       ],
       "target": {
         "source": {
-          "id": "https://geniza.princeton.edu/en/documents/5248/iiif/canvas/1/",
+          "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~95~2~18573~111307/canvas/c1",
           "type": "Canvas",
           "partOf": {
-            "id": "https://geniza.princeton.edu/en/documents/5248/iiif/manifest/",
+            "id": "https://geniza.princeton.edu/documents/5248/iiif/manifest/",
             "type": "Manifest"
           }
         },
