@@ -1,13 +1,13 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F610%2Fiiif%2Fcanvas%2F1%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fen%2Fdocuments%2F610%2Fiiif%2Fmanifest%2F",
+  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F610%2Fiiif%2Fcanvas%2F1%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F610%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "http://localhost:8000/annotations/463ca9c9-28a1-4d10-bdff-1618b63c4b9e/",
+      "id": "http://localhost:8000/annotations/0d1ba845-bddc-470e-8e16-e80af38b452d/",
       "type": "Annotation",
-      "created": "2022-09-27T19:06:50.588309+00:00",
-      "modified": "2022-09-27T19:06:50.588336+00:00",
+      "created": "2022-10-06T21:20:07.079119+00:00",
+      "modified": "2022-10-06T21:20:07.079141+00:00",
       "body": [
         {
           "type": "TextualBody",
@@ -19,10 +19,10 @@
       ],
       "target": {
         "source": {
-          "id": "https://geniza.princeton.edu/en/documents/610/iiif/canvas/1/",
+          "id": "https://geniza.princeton.edu/documents/610/iiif/canvas/1/",
           "type": "Canvas",
           "partOf": {
-            "id": "https://geniza.princeton.edu/en/documents/610/iiif/manifest/",
+            "id": "https://geniza.princeton.edu/documents/610/iiif/manifest/",
             "type": "Manifest"
           }
         },
@@ -40,10 +40,10 @@
       "schema:position": 1
     },
     {
-      "id": "http://localhost:8000/annotations/a6caac72-effb-4772-935e-d5093c05c20e/",
+      "id": "http://localhost:8000/annotations/20be956e-6022-469f-88dd-cb796d9c3d98/",
       "type": "Annotation",
-      "created": "2022-09-27T19:06:50.592903+00:00",
-      "modified": "2022-09-27T19:06:50.592917+00:00",
+      "created": "2022-10-06T21:20:07.081933+00:00",
+      "modified": "2022-10-06T21:20:07.081950+00:00",
       "body": [
         {
           "type": "TextualBody",
@@ -55,10 +55,10 @@
       ],
       "target": {
         "source": {
-          "id": "https://geniza.princeton.edu/en/documents/610/iiif/canvas/1/",
+          "id": "https://geniza.princeton.edu/documents/610/iiif/canvas/1/",
           "type": "Canvas",
           "partOf": {
-            "id": "https://geniza.princeton.edu/en/documents/610/iiif/manifest/",
+            "id": "https://geniza.princeton.edu/documents/610/iiif/manifest/",
             "type": "Manifest"
           }
         },
