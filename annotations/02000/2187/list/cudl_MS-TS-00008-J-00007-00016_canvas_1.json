@@ -37,6 +37,41 @@
         "transcribing"
       ],
       "schema:position": 1
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/67ce554f-5d58-4dc8-b084-1f3388794fe2/",
+      "type": "Annotation",
+      "created": "2022-12-05T15:20:53.561722+00:00",
+      "modified": "2022-12-05T15:20:53.561751+00:00",
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "test",
+          "value": "<p>1234</p>",
+          "format": "text/html"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-J-00007-00016/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/2187/iiif/manifest/",
+            "type": "Manifest"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:2798.644775390625,240.46095275878906,581.081787109375,459.7528533935547",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "dc:source": "https://geniza.princeton.edu/sources/737/",
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
     }
   ]
 }
