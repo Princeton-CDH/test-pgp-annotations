@@ -36,6 +36,40 @@
         "transcribing"
       ],
       "schema:position": 1
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/10a635a3-be44-4b29-b766-c330cceaa8e0/",
+      "type": "Annotation",
+      "created": "2023-01-25T19:40:09.738215+00:00",
+      "modified": "2023-01-25T19:40:09.738235+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/890/",
+      "target": {
+        "source": {
+          "id": "https://geniza.princeton.edu/documents/30961/iiif/canvas/1/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/30961/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:0,11.249940872192383,827.8845825195312,496.2500591278076",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "\u05e1\u05ea\u05d5\u05e4\u05e4",
+          "value": "<p>\u05d0\u05e0\u05d3</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
     }
   ]
 }
