@@ -1,17 +1,17 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fprincetongenizalab.github.io%2Fiiif%2Fbodleian%2Fa%2Fcanvas%2Fms-heb-a-2-1%2F1.json&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F6317%2Fiiif%2Fmanifest%2F",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fprincetongenizalab.github.io%2Fiiif%2Fbodleian%2Fa%2Fcanvas%2Fms-heb-a-2-1%2F2.json&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F6317%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/f514c35e-3d03-43c6-a201-1f7dcf05a892/",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/b37c945a-b095-49e3-9f7e-b813e27884df/",
       "type": "Annotation",
-      "created": "2023-02-08T15:51:39.924989+00:00",
-      "modified": "2023-02-08T15:51:39.925025+00:00",
+      "created": "2023-02-08T15:52:04.955290+00:00",
+      "modified": "2023-02-08T15:52:04.955317+00:00",
       "dc:source": "https://geniza.princeton.edu/sources/796/",
       "target": {
         "source": {
-          "id": "https://princetongenizalab.github.io/iiif/bodleian/a/canvas/ms-heb-a-2-1/1.json",
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/a/canvas/ms-heb-a-2-1/2.json",
           "type": "Canvas",
           "partOf": {
             "id": "https://geniza.princeton.edu/documents/6317/iiif/manifest/"
@@ -19,15 +19,15 @@
         },
         "selector": {
           "type": "FragmentSelector",
-          "value": "xywh=pixel:1264.8076171875,574.9535522460938,425.4388427734375,2442.8235473632812",
+          "value": "xywh=pixel:871.5960083007812,553.6529541015625,1237.3898315429688,1518.1373291015625",
           "conformsTo": "http://www.w3.org/TR/media-frags/"
         }
       },
       "body": [
         {
           "type": "TextualBody",
-          "label": "lalala",
-          "value": "<p>hello</p>",
+          "label": "hello!",
+          "value": "<p>i am blank!</p>",
           "format": "text/html"
         }
       ],
