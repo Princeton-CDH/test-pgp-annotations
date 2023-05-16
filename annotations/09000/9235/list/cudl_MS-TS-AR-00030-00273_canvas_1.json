@@ -1,0 +1,111 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AR-00030-00273%2Fcanvas%2F1&manifest=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F9235%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "http://localhost:8000/annotations/d947caac-a383-41ba-9416-18736f4bce0a/",
+      "type": "Annotation",
+      "created": "2022-11-06T18:06:01.710495+00:00",
+      "modified": "2022-11-06T18:06:01.710509+00:00",
+      "dc:source": "http://localhost:8000/sources/135/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00030-00273/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "http://localhost:8000/documents/9235/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:321.6482849121094,240.0897216796875,3671.2286682128906,9051.801879882812",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "<ol>\n<li>\n<p>\u0627\u0644\u0639\u0628\u062f \u0627\u0644\u0645\u0645\u0644\u0648\u0643</p>\n</li>\n<li>\n<p>\u0645\u0648\u0633\u0649 \u0628\u0646 \u0635\u062f\u0642\u0629 \u0627\u0644\u062a\u0627\u062c\u0631 \u0627\u0644\u064a\u0647\u0648\u062f\u064a</p>\n</li>\n<li>\n<p>\u0628\u0633\u0645 \u0627\u0644\u0644\u0647 \u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u0631\u062d\u064a\u0645</p>\n</li>\n<li>\n<p>\u0635\u0644\u0648\u0627\u062a \u0627\u0644\u0644\u0647 \u0648\u0628\u0631\u0643\u0627\u062a\u0647 \u0648\u0646\u0648\u0627\u0645\u0649 \u0632\u0643\u0648\u0627\u062a\u0647 \u0648\u0627\u0641\u0636\u0644 \u0633\u0644\u0627\u0645\u0647 \u0648\u062a\u062d\u064a\u0627\u062a\u0647 \u0639\u0644\u0649 \u0645\u0648\u0644\u0627\u0646\u0627</p>\n</li>\n<li>\n<p>\u0648\u0633\u064a\u062f\u0646\u0627 \u0648\u0627\u0645\u0627\u0645 \u0639\u0635\u0631\u0646\u0627 \u0648\u0632\u0645\u0627\u0646\u0646\u0627 \u0627\u0644\u0627\u0645\u0627\u0645 \u0627\u0644\u0627\u0645\u0631 \u0628\u0627\u062d\u0643\u0627\u0645 \u0627\u0644\u0644\u0647 \u0627\u0645\u064a\u0631 \u0627\u0644\u0645\u0648\u0645\u0646\u064a\u0646 \u0648\u0639\u0644\u0649</p>\n</li>\n<li>\n<p>\u0627\u0628\u0627\u0626\u0647 \u0627\u0644\u0637\u0627\u0647\u0631\u064a\u0646 \u0648\u0627\u0628\u0646\u0627\u0649\u0647 \u0627\u0644\u0627\u0643\u0631\u0645\u064a\u0646 \u0635\u0644\u0627\u0629 [\u0628\u0627\u0642\u064a\u0629] \u0627\u0644\u0649 \u064a\u0648\u0645 \u0627\u0644\u062f\u064a\u0646 \u0627\u0644\u0645\u0645\u0644\u0648\u0643 \u064a\u0642\u0628\u0644 \u0627\u0644\u0627\u0631\u0636</p>\n</li>\n<li>\n<p>\u0627\u0645\u0627\u0645 \u0627\u0644\u0645\u0642\u0627\u0645 \u0627\u0644\u0646\u0628\u0648\u064a \u0627\u0644\u0637\u0627\u0647\u0631 \u0627\u0644\u0634\u0631\u064a\u0641 \u0636\u0627\u0639\u0641 \u0627\u0644\u0644\u0647 \u0627\u0646\u0648\u0627\u0631\u0647 \u0648\u0627\u0633\u0646\u0649</p>\n</li>\n<li>\n<p>\u0645\u0646\u0627\u0631\u0647 \u0648\u0646\u0635\u0631 \u062c\u064a\u0648\u0634\u0647 \u0648\u0627\u0639\u0644\u0627\u0645\u0647 \u0648\u0627\u0646\u0635\u0627\u0631\u0647 \u0648\u064a\u0646\u0647\u0649</p>\n</li>\n<li>\n<p>\u0627\u0646\u0647 \u0648\u0635\u0644 \u0645\u0646 \u0627\u0644\u0647\u0646\u062f \u0648\u0627\u0644\u064a\u0645\u0646 \u0628\u062a\u062c\u0627\u0631\u0629 \u0648\u0642\u0631\u0627\u0636 \u0645\u0639\u0647&nbsp;</p>\n</li>\n<li>\n<p>\u0641\u0639\u064a\u0642 \u0628\u0634\u0628\u0647\u0629 \u0644\u0645 \u062a\u062c\u0648\u0632 \u0627\u0639\u0627\u0642\u062a\u0647 \u0628\u0647 \u0648\u0642\u062f \u0627\u062b\u0628\u062a \u0627\u0644\u0645\u0645\u0644\u0648\u0643</p>\n</li>\n<li>\n<p>\u0641\u064a \u0645\u062c\u0644\u0633 \u0627\u0644\u0642\u0627\u0636\u0649 \u062c\u0644\u0627\u0644 \u0627\u0644\u0645\u0644\u0643&nbsp; \u062a\u0627\u062c \u0627\u0644\u0627\u062d\u0643\u0627\u0645 \u0627\u0632\u0627\u0644\u0629 [\u0644\u0644\u0627\u0639\u062a\u0631\u0627\u0636 \u0639\u0646\u0647]</p>\n</li>\n<li>\n<p>\u0627\u0644\u0645\u0645\u0644\u0648\u0643 \u064a\u0633\u0644 \u0648 \u064a\u0636\u0631\u0639 \u0628\u0627\u0644\u0627\u0646\u0639\u0627\u0645 \u0639\u0644\u064a\u0647 [\u0648]\u0627\u0644\u0627\u062d\u0633\u0627\u0646&nbsp;</p>\n</li>\n<li>\n<p>\u0625\u0644\u064a\u0647 \u0628\u062e\u0631\u0648\u062c \u0627\u0644\u062a\u0648\u0642\u064a\u0639 \u0627\u0644\u0639\u0627\u0644\u0649 \u0632\u0627\u062f\u0647 \u0627\u0644\u0644\u0647 \u0646\u0641\u0627\u0630\u0627 \u0648 \u0634\u0631\u0641\u0627&nbsp;</p>\n</li>\n<li>\n<p>\u0627\u0644\u0649 \u0627\u0644\u0642\u0627\u0636\u064a \u062c\u0644\u0627\u0644 \u0627\u0644\u0645\u0644\u0643 \u062a\u0627\u062c \u0627\u0644\u0627\u062d\u0643\u0627\u0645 \u0628\u0630\u0643\u0631 \u0645\u0627 \u0627\u062b\u0628\u062a \u0627\u0644\u0645\u0645\u0644\u0648\u0643</p>\n</li>\n<li>\n<p>\u0639\u0646\u062f\u0647 \u0644\u064a\u0643\u0648\u0646 \u0630\u0644\u0643 \u0633\u0628\u0628\u0627 \u0644\u0627\u064a\u0635\u0627\u0644\u0647 \u0627\u0644\u0649 \u062d\u0642\u0647 \u0631\u0627\u0641\u0629&nbsp;</p>\n</li>\n<li>\n<p>\u0644\u0647 \u0648\u062d\u0646\u0648\u0627 \u0639\u0644\u064a\u0647 \u0648\u0644\u0645\u0648\u0644\u0627\u0646\u0627 \u0633\u0644\u0627\u0645 \u0627\u0644\u0644\u0647 \u0639\u0644\u0649 \u0630\u0643\u0631\u0647&nbsp;</p>\n</li>\n<li>\n<p>[\u0627\u0644\u0631\u0627\u0649] \u0627\u0644\u0627\u0639\u0644\u0627 \u0641\u064a \u0630\u0644\u0643 \u0625\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647 \u0639\u0632 \u0648\u062c\u0644</p>\n</li>\n<li>\n<p>\u0648\u0627\u0644\u062d\u0645\u062f \u0644\u0644\u0647 \u0648\u062d\u062f\u0647</p>\n</li>\n<li>\n<p>\u0648\u0635\u0644\u0648\u0627\u062a \u0627\u0644\u0644\u0647 \u0639\u0644\u0649 \u0633\u064a\u062f\u0646\u0627 \u0645\u062d\u0645\u062f \u0627\u0644\u0646\u0628\u064a \u0648\u0627\u0644\u0647 \u0648\u0633\u0644\u0627\u0645\u0647&nbsp;</p>\n</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "id": "http://localhost:8000/annotations/8c542f75-c8c7-46f2-9792-f41ef4f6c019/",
+      "type": "Annotation",
+      "created": "2023-03-31T17:35:32.793249+00:00",
+      "modified": "2023-03-31T17:35:32.793276+00:00",
+      "dc:source": "http://localhost:8000/sources/135/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00030-00273/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "http://localhost:8000/documents/9235/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "<ol>\n<li>\u2026the servant and slave</li>\n<li>\u2026M\u016bs\u0101 ibn \u1e62adaqa, the Jewish merchant</li>\n<li>In the name of God, the merciful and compassionate.</li>\n<li>The benefactions of God and his blessings, his increasing benefactions and most excellent peace and greetings be upon our master</li>\n<li>and lord, the \u2018im\u0101m of our era and time, the \u2018imam al-'\u0100mir bi\u2019A\u1e25k\u0101m All\u0101h, commander of the faithful, and upon </li>\n<li>his pure ancestors and most noble sons, enduring benedictions that last until the day of judgement. The slave kisses the ground</li>\n<li>before the prophetic and pure noble presence, may God double its light and exalt</li>\n<li>its beacon, and give victory to its armies, banners and helpers, and reports</li>\n<li>That he arrived from India and Yemen with merchandise and (goods or money) in commenda</li>\n<li>but it was detained by a pretext on which it was not lawful for it to be detained The slave had registered (documents)</li>\n<li>in the court of the q\u0101\u1e0d\u012b Jal\u0101l al-Mulk T\u0101j al-\u2019A\u1e25k\u0101m in order to prevent any obstruction.</li>\n<li>The slave humbly asks for a kindness to be bestowed upon him and a benefaction granted</li>\n<li>to him by the issuing of an exalted rescript, may God increase its efficacy and nobility,</li>\n<li>To the q\u0101\u1e0d\u012b Jal\u0101l al-Mulk T\u0101j al-\u2019A\u1e25k\u0101m (instructing him) to indicate what the slave has registered</li>\n<li>with him, in order that this be a means of restoring his right to him, out of compassion</li>\n<li>and commiseration for him. To our lord, the peace of God be upon his name,</li>\n<li>belongs the exalted resolution in this, if God, the mighty and glorious, wills.  </li>\n<li>Praise be to God alone.</li>\n<li>The blessings and peace of God be upon our lord Mu\u1e25ammad the prophet and his family.</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "ltr"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "id": "http://localhost:8000/annotations/d3f8d147-f08f-4532-b4fb-2ee3ad88bdb8/",
+      "type": "Annotation",
+      "created": "2023-04-12T21:00:01.871794+00:00",
+      "modified": "2023-04-12T21:00:01.871817+00:00",
+      "dc:source": "http://localhost:8000/sources/255/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00030-00273/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "http://localhost:8000/documents/9235/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "<ol>\n<li>\u2026the servant and slave</li>\n<li>\u2026M\u016bs\u0101 ibn \u1e62adaqa, the Jewish merchant</li>\n<li>In the name of God, the merciful and compassionate.</li>\n<li>The benefactions of God and his blessings, his increasing benefactions and most excellent peace and greetings be upon our master</li>\n<li>and lord, the \u2018im\u0101m of our era and time, the \u2018imam al-'\u0100mir bi\u2019A\u1e25k\u0101m All\u0101h, commander of the faithful, and upon </li>\n<li>his pure ancestors and most noble sons, enduring benedictions that last until the day of judgement. The slave kisses the ground</li>\n<li>before the prophetic and pure noble presence, may God double its light and exalt</li>\n<li>its beacon, and give victory to its armies, banners and helpers, and reports</li>\n<li>That he arrived from India and Yemen with merchandise and (goods or money) in commenda</li>\n<li>but it was detained by a pretext on which it was not lawful for it to be detained The slave had registered (documents)</li>\n<li>in the court of the q\u0101\u1e0d\u012b Jal\u0101l al-Mulk T\u0101j al-\u2019A\u1e25k\u0101m in order to prevent any obstruction.</li>\n<li>The slave humbly asks for a kindness to be bestowed upon him and a benefaction granted</li>\n<li>to him by the issuing of an exalted rescript, may God increase its efficacy and nobility,</li>\n<li>To the q\u0101\u1e0d\u012b Jal\u0101l al-Mulk T\u0101j al-\u2019A\u1e25k\u0101m (instructing him) to indicate what the slave has registered</li>\n<li>with him, in order that this be a means of restoring his right to him, out of compassion</li>\n<li>and commiseration for him. To our lord, the peace of God be upon his name,</li>\n<li>belongs the exalted resolution in this, if God, the mighty and glorious, wills.  </li>\n<li>Praise be to God alone.</li>\n<li>The blessings and peace of God be upon our lord Mu\u1e25ammad the prophet and his family.</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "ltr"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
