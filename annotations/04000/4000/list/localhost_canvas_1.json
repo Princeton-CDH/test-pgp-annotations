@@ -1,0 +1,41 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://geniza.princeton.edu/annotations/search/?uri=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F4000%2Fiiif%2Fcanvas%2F1%2F&manifest=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F4000%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "http://geniza.princeton.edu/annotations/89380fd1-d2b0-4071-ac7a-ed5dc01b63e0/",
+      "type": "Annotation",
+      "created": "2023-05-22T15:06:49.860315+00:00",
+      "modified": "2023-05-22T15:06:49.860334+00:00",
+      "dc:source": "http://localhost:8000/sources/979/",
+      "target": {
+        "source": {
+          "id": "http://localhost:8000/documents/4000/iiif/canvas/1/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "http://localhost:8000/documents/4000/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "<ol><li>[An a]ccount of proceedings that took [place before u]s\u2014we, the permanent court in Fus\u1e6d\u0101\u1e6d Egypt, appointed by his Excellency [\u2026]</li><li>[M]evorakh, Champion of Wisdom, Sage of the Academy, great Sanhed[rin, Prince] of Princes and Nagid\u00a0of [Negidim\u00a0\u2026 Lamp of]</li><li>[the] West, Standard of the Sages, may his resting place be honor beneath the thro[ne of h]onor, and (appointed) by the mouth of his Excellency, Bea[uty of] Honor [\u2026]</li><li>and their glory, Prince of Princes and Nagid\u00a0of the Negidim, and the strength of the entire house of Israel, \u201cMordecai\u201d of the time, Standard of the Sage[s\u2026]</li><li>[\u2026] the Elder Ab\u016b al-Sur\u016br (our) tea(cher) and m(aster) Pera\u1e25ya, the beloved, (may his) Ro(ck) pr(eserve him) b. (his) h(onor,) g(reatness, and) h(oliness, our) tea(cher) and m(aster) Manasseh</li><li>[\u2026] the honored (who) r(ests) in E(den) came before the court, concerning the assets which were in his hand which he had employed in the trade of money-exchange. His mother, known as Nas[ab bt. \u2026]</li><li>[\u2026] our teacher and our master Joseph ha-Kohen the righteous, Head of the Court of all Israel, (may his) m(emory be) f(or a blessing), came (to the court), and she took upon herself [\u2026]</li><li>[\u2026 and she wrote] a weighty agreement, a present debt concerning herself after she placed a pledge with him according to that document [\u2026]</li><li>[\u2026] upon him in accordance with his will, without condition upon it. The complete qinyan\u00a0took place concerning tha[t\u2026]</li><li>[\u2026 was] established in accordance with her will and preference. This interpretation and the rest of what it contains are upon him from beginning [to end \u2026]</li><li>[\u2026 testimony] which was before us\u2014we, the court, and whoever signs with us below\u2014thus: [on \u2026]</li><li>[\u2026] to which we are accustomed, in Fus\u1e6d\u0101\u1e6d Egypt, situated on the Nile River, the Elder [\u2026]</li><li>[\u2026 Ab\u016b] al-\u1e24asan (our) tea(cher) and m(aster) Eli the youth b. (our) tea(cher) and m(aster) Ma\u1e63lia\u1e25 the honored Elder (who) r(ests in) E(den,) and his mother, called Nas[ab \u2026] </li><li>[\u2026] our teacher [\u2026] came to us \u2026 [\u2026]</li><li>[\u2026] \u2026 [\u2026]</li><li>[\u2026] \u2026 [\u2026] </li></ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
