@@ -1,0 +1,41 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://geniza.princeton.edu/annotations/search/?uri=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F4143%2Fiiif%2Fcanvas%2F1%2F&manifest=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F4143%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "http://geniza.princeton.edu/annotations/726c91c5-1459-426e-bddb-01f5b0a57942/",
+      "type": "Annotation",
+      "created": "2023-05-22T15:03:37.257411+00:00",
+      "modified": "2023-05-22T15:03:37.257432+00:00",
+      "dc:source": "http://localhost:8000/sources/979/",
+      "target": {
+        "source": {
+          "id": "http://localhost:8000/documents/4143/iiif/canvas/1/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "http://localhost:8000/documents/4143/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "<ol><li>Record of testimony which took place before us\u2014we, the cou[rt]</li><li>(in the) year 4974 of [creation \u2026]</li><li>here (in) Fus\u1e6d\u0101\u1e6d [Egy]pt, jurisdiction of our lord [the Nagid Abraham, the outstanding Rav, the mighty hammer, light]</li><li>[of the W]est, standard of the Sages, inimitable of the generation and its wonder, from East of the Sun to its West \u2026]</li><li>\u201cFrom East to West\u201d \u2026 [\u2026]</li><li>\u201cRenew them in these years\u201d \u201cMay the Lord guard him and preserve him\u201d [\u2026]</li><li>Saadiah b. (his) honor, g(reatness, and) h(oliness, ou)r master Nathan \u2026 [\u2026]</li><li>language of claims, write and sign and give to [him \u2026]</li><li>my understanding, in accordance with the desire of my soul, without duress and without [\u2026]</li><li>from him, 80 Fus\u1e6d\u0101\u1e6d dinars, golden dinars, 49 \u2026 [\u2026]</li><li>silk, to transact with it, to buy and to \u2026 [\u2026]</li><li>\u201c(If you come with us,) we will extend to you to the same bounty that the Lord [grants us\u201d \u2026]</li><li>and he has 12 dirhems \u2026 in all \u2026 [\u2026]</li><li>\u2026 [\u2026]</li></ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
