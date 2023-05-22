@@ -1,0 +1,41 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://geniza.princeton.edu/annotations/search/?uri=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F2717%2Fiiif%2Fcanvas%2F1%2F&manifest=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F2717%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "http://geniza.princeton.edu/annotations/0fad8eea-c7f5-487e-bd84-1fbc98af1cd3/",
+      "type": "Annotation",
+      "created": "2023-05-22T15:05:07.582239+00:00",
+      "modified": "2023-05-22T15:05:07.582259+00:00",
+      "dc:source": "http://localhost:8000/sources/979/",
+      "target": {
+        "source": {
+          "id": "http://localhost:8000/documents/2717/iiif/canvas/1/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "http://localhost:8000/documents/2717/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto ",
+          "value": "<ol><li>He wrote a partnership (shirka)\u00a0agreement</li><li>for 160 din(ars), of which Ab\u016b</li><li>al-Faraj b. Ghil\u0101th handed over 150</li><li>to Tam\u012bm al-Sukkar\u012b, who adde[d]</li><li>ten thereto; he (Tam\u012bm) will travel</li><li>with the total to Upper Egypt.</li><li>He may buy what he wishes.</li><li>The profit will be (divided into) halves, exactly,</li><li>and he receives a surplus (over his partner)</li><li>by a half a din(ar.)</li></ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
