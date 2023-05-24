@@ -1,20 +1,20 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AR-00030-00273%2Fcanvas%2F1&manifest=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F9235%2Fiiif%2Fmanifest%2F",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AR-00030-00273%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F9235%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "http://localhost:8000/annotations/d947caac-a383-41ba-9416-18736f4bce0a/",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/d947caac-a383-41ba-9416-18736f4bce0a/",
       "type": "Annotation",
       "created": "2022-11-06T18:06:01.710495+00:00",
       "modified": "2022-11-06T18:06:01.710509+00:00",
-      "dc:source": "http://localhost:8000/sources/135/",
+      "dc:source": "https://geniza.princeton.edu/sources/135/",
       "target": {
         "source": {
           "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00030-00273/canvas/1",
           "type": "Canvas",
           "partOf": {
-            "id": "http://localhost:8000/documents/9235/iiif/manifest/"
+            "id": "https://geniza.princeton.edu/documents/9235/iiif/manifest/"
           }
         },
         "selector": {
@@ -38,17 +38,17 @@
       "schema:position": 1
     },
     {
-      "id": "http://localhost:8000/annotations/8c542f75-c8c7-46f2-9792-f41ef4f6c019/",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/6c259951-f30c-4f77-b1c1-14e44d67b00b/",
       "type": "Annotation",
-      "created": "2023-03-31T17:35:32.793249+00:00",
-      "modified": "2023-03-31T17:35:32.793276+00:00",
-      "dc:source": "http://localhost:8000/sources/135/",
+      "created": "2023-05-15T21:15:04.585335+00:00",
+      "modified": "2023-05-24T15:37:00.861148+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/135/",
       "target": {
         "source": {
           "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00030-00273/canvas/1",
           "type": "Canvas",
           "partOf": {
-            "id": "http://localhost:8000/documents/9235/iiif/manifest/"
+            "id": "https://geniza.princeton.edu/documents/9235/iiif/manifest/"
           }
         },
         "selector": {
@@ -61,42 +61,7 @@
         {
           "type": "TextualBody",
           "label": "Recto",
-          "value": "<ol>\n<li>\u2026the servant and slave</li>\n<li>\u2026M\u016bs\u0101 ibn \u1e62adaqa, the Jewish merchant</li>\n<li>In the name of God, the merciful and compassionate.</li>\n<li>The benefactions of God and his blessings, his increasing benefactions and most excellent peace and greetings be upon our master</li>\n<li>and lord, the \u2018im\u0101m of our era and time, the \u2018imam al-'\u0100mir bi\u2019A\u1e25k\u0101m All\u0101h, commander of the faithful, and upon </li>\n<li>his pure ancestors and most noble sons, enduring benedictions that last until the day of judgement. The slave kisses the ground</li>\n<li>before the prophetic and pure noble presence, may God double its light and exalt</li>\n<li>its beacon, and give victory to its armies, banners and helpers, and reports</li>\n<li>That he arrived from India and Yemen with merchandise and (goods or money) in commenda</li>\n<li>but it was detained by a pretext on which it was not lawful for it to be detained The slave had registered (documents)</li>\n<li>in the court of the q\u0101\u1e0d\u012b Jal\u0101l al-Mulk T\u0101j al-\u2019A\u1e25k\u0101m in order to prevent any obstruction.</li>\n<li>The slave humbly asks for a kindness to be bestowed upon him and a benefaction granted</li>\n<li>to him by the issuing of an exalted rescript, may God increase its efficacy and nobility,</li>\n<li>To the q\u0101\u1e0d\u012b Jal\u0101l al-Mulk T\u0101j al-\u2019A\u1e25k\u0101m (instructing him) to indicate what the slave has registered</li>\n<li>with him, in order that this be a means of restoring his right to him, out of compassion</li>\n<li>and commiseration for him. To our lord, the peace of God be upon his name,</li>\n<li>belongs the exalted resolution in this, if God, the mighty and glorious, wills.  </li>\n<li>Praise be to God alone.</li>\n<li>The blessings and peace of God be upon our lord Mu\u1e25ammad the prophet and his family.</li>\n</ol>",
-          "format": "text/html",
-          "TextInput": "ltr"
-        }
-      ],
-      "motivation": [
-        "sc:supplementing",
-        "translating"
-      ],
-      "schema:position": 1
-    },
-    {
-      "id": "http://localhost:8000/annotations/d3f8d147-f08f-4532-b4fb-2ee3ad88bdb8/",
-      "type": "Annotation",
-      "created": "2023-04-12T21:00:01.871794+00:00",
-      "modified": "2023-04-12T21:00:01.871817+00:00",
-      "dc:source": "http://localhost:8000/sources/255/",
-      "target": {
-        "source": {
-          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00030-00273/canvas/1",
-          "type": "Canvas",
-          "partOf": {
-            "id": "http://localhost:8000/documents/9235/iiif/manifest/"
-          }
-        },
-        "selector": {
-          "type": "FragmentSelector",
-          "value": "xywh=percent:1,1,98,98",
-          "conformsTo": "http://www.w3.org/TR/media-frags/"
-        }
-      },
-      "body": [
-        {
-          "type": "TextualBody",
-          "label": "Recto",
-          "value": "<ol>\n<li>\u2026the servant and slave</li>\n<li>\u2026M\u016bs\u0101 ibn \u1e62adaqa, the Jewish merchant</li>\n<li>In the name of God, the merciful and compassionate.</li>\n<li>The benefactions of God and his blessings, his increasing benefactions and most excellent peace and greetings be upon our master</li>\n<li>and lord, the \u2018im\u0101m of our era and time, the \u2018imam al-'\u0100mir bi\u2019A\u1e25k\u0101m All\u0101h, commander of the faithful, and upon </li>\n<li>his pure ancestors and most noble sons, enduring benedictions that last until the day of judgement. The slave kisses the ground</li>\n<li>before the prophetic and pure noble presence, may God double its light and exalt</li>\n<li>its beacon, and give victory to its armies, banners and helpers, and reports</li>\n<li>That he arrived from India and Yemen with merchandise and (goods or money) in commenda</li>\n<li>but it was detained by a pretext on which it was not lawful for it to be detained The slave had registered (documents)</li>\n<li>in the court of the q\u0101\u1e0d\u012b Jal\u0101l al-Mulk T\u0101j al-\u2019A\u1e25k\u0101m in order to prevent any obstruction.</li>\n<li>The slave humbly asks for a kindness to be bestowed upon him and a benefaction granted</li>\n<li>to him by the issuing of an exalted rescript, may God increase its efficacy and nobility,</li>\n<li>To the q\u0101\u1e0d\u012b Jal\u0101l al-Mulk T\u0101j al-\u2019A\u1e25k\u0101m (instructing him) to indicate what the slave has registered</li>\n<li>with him, in order that this be a means of restoring his right to him, out of compassion</li>\n<li>and commiseration for him. To our lord, the peace of God be upon his name,</li>\n<li>belongs the exalted resolution in this, if God, the mighty and glorious, wills.  </li>\n<li>Praise be to God alone.</li>\n<li>The blessings and peace of God be upon our lord Mu\u1e25ammad the prophet and his family.</li>\n</ol>",
+          "value": "<ol>\n<li>The servant and slave</li>\n<li>M\u016bs\u0101 ibn \u1e62adaqa, the Jewish merchant</li>\n<li>In the name of God, the merciful and compassionate.</li>\n<li>The benefactions of God and his blessings, his increasing benefactions and most excellent peace and greetings be upon our master</li>\n<li>and lord, the &lsquo;im\u0101m of our era and time, the &lsquo;imam al-'\u0100mir bi&rsquo;A\u1e25k\u0101m All\u0101h, commander of the faithful, and upon</li>\n<li>his pure ancestors and most noble sons, enduring benedictions that last until the day of judgement. The slave kisses the ground</li>\n<li>before the prophetic and pure noble presence, may God double its light and exalt</li>\n<li>its beacon, and give victory to its armies, banners and helpers, and reports</li>\n<li>That he arrived from India and Yemen with merchandise and (goods or money) in commenda</li>\n<li>but it was detained by a pretext on which it was not lawful for it to be detained The slave had registered (documents)</li>\n<li>in the court of the q\u0101\u1e0d\u012b Jal\u0101l al-Mulk T\u0101j al-&rsquo;A\u1e25k\u0101m in order to prevent any obstruction.</li>\n<li>The slave humbly asks for a kindness to be bestowed upon him and a benefaction granted</li>\n<li>to him by the issuing of an exalted rescript, may God increase its efficacy and nobility,</li>\n<li>To the q\u0101\u1e0d\u012b Jal\u0101l al-Mulk T\u0101j al-&rsquo;A\u1e25k\u0101m (instructing him) to indicate what the slave has registered</li>\n<li>with him, in order that this be a means of restoring his right to him, out of compassion</li>\n<li>and commiseration for him. To our lord, the peace of God be upon his name,</li>\n<li>belongs the exalted resolution in this, if God, the mighty and glorious, wills.</li>\n<li>Praise be to God alone.</li>\n<li>The blessings and peace of God be upon our lord Mu\u1e25ammad the prophet and his family.</li>\n</ol>",
           "format": "text/html",
           "TextInput": "ltr"
         }
