@@ -1,20 +1,20 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AR-00007-00038%2Fcanvas%2F2&manifest=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F18932%2Fiiif%2Fmanifest%2F",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AR-00007-00038%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F18932%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "http://localhost:8000/annotations/3d232095-d0ec-40e0-ada7-d3049bd6ea23/",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/3d232095-d0ec-40e0-ada7-d3049bd6ea23/",
       "type": "Annotation",
       "created": "2022-11-06T16:01:50.998334+00:00",
       "modified": "2022-11-06T16:01:50.998347+00:00",
-      "dc:source": "http://localhost:8000/sources/135/",
+      "dc:source": "https://geniza.princeton.edu/sources/135/",
       "target": {
         "source": {
           "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00007-00038/canvas/2",
           "type": "Canvas",
           "partOf": {
-            "id": "http://localhost:8000/documents/18932/iiif/manifest/"
+            "id": "https://geniza.princeton.edu/documents/18932/iiif/manifest/"
           }
         },
         "selector": {
@@ -38,17 +38,17 @@
       "schema:position": 1
     },
     {
-      "id": "http://localhost:8000/annotations/79d90b64-f82b-420b-a90b-8442bc831fd1/",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/a8316895-6012-48e2-b45c-06d7ab59f628/",
       "type": "Annotation",
-      "created": "2023-03-31T17:50:04.143181+00:00",
-      "modified": "2023-03-31T17:50:04.143200+00:00",
-      "dc:source": "http://localhost:8000/sources/135/",
+      "created": "2023-05-15T21:15:05.256827+00:00",
+      "modified": "2023-06-13T00:31:09.162755+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/135/",
       "target": {
         "source": {
           "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00007-00038/canvas/2",
           "type": "Canvas",
           "partOf": {
-            "id": "http://localhost:8000/documents/18932/iiif/manifest/"
+            "id": "https://geniza.princeton.edu/documents/18932/iiif/manifest/"
           }
         },
         "selector": {
@@ -61,7 +61,7 @@
         {
           "type": "TextualBody",
           "label": "Recto",
-          "value": "<ol>\n<li>\u2026 all the silver, copper, wooden vessels </li>\n<li>and marble that are in it. All of this amounts to a large quantity. He broke them down </li>\n<li>and with their proceeds built an enclosure designed to contain a press and shops. </li>\n<li>He is enjoying income from them and in addition to all this he is receiving large sums from their rent.</li>\n<li>When the exalted command and mighty documents were issued </li>\n<li>(enjoining) the return of the remaining churches to their owners, constraining them (the dispossessors)</li>\n<li>by law and disallowing them (to have any claims on) them (the churches) by the hand of authority (he did not heed the decree) and it has remained in his possession </li>\n<li>until now, as the slave has explained. </li>\n<li>The slave of our master, the benedictions of God be upon him, would like </li>\n<li>an exalted rescript to be issued to the Bureau of Reclaimed Fiefs, </li>\n<li>(instructing) the aforementioned sum to be paid to the slave within four years, </li>\n<li>the first (installment) being (paid in) the khar\u0101j\u012b year 421,</li>\n<li>amounting to 24 dinars, at a rate of six dinars every [year],</li>\n<li>or its return to the Christians of the district. To our master,</li>\n<li>the benedictions of God be upon him, belongs the exalted resolution regarding what the slave has requested. </li>\n<li>May God fulfil his promise for our master, may he cause his reign to be eternal and his army to be victorious. May he praise </li>\n<li>Muhammad the prophet, his ancestor, and save him.</li>\n</ol>",
+          "value": "<ol>\n<li>&hellip; all the silver, copper, wooden vessels</li>\n<li>and marble that are in it. All of this amounts to a large quantity. He broke them down</li>\n<li>and with their proceeds built an enclosure designed to contain a press and shops.</li>\n<li>He is enjoying income from them and in addition to all this he is receiving large sums from their rent.</li>\n<li>When the exalted command and mighty documents were issued</li>\n<li>(enjoining) the return of the remaining churches to their owners, constraining them (the dispossessors)</li>\n<li>by law and disallowing them (to have any claims on) them (the churches) by the hand of authority (he did not heed the decree) and it has remained in his possession</li>\n<li>until now, as the slave has explained. HE DID IT NOW OMG.</li>\n<li>The slave of our master, the benedictions of God be upon him, would like TO DO THIS AS</li>\n<li>an exalted rescript to be issued to the Bureau of Reclaimed Fiefs,</li>\n<li>(instructing) the aforementioned sum to be paid to the slave within four years,</li>\n<li>the first (installment) being (paid in) the khar\u0101j\u012b year 421,</li>\n<li>amounting to 24 dinars, at a rate of six dinars every [year],</li>\n<li>or its return to the Christians of the district. To our master,</li>\n<li>the benedictions of God be upon him, belongs the exalted resolution regarding what the slave has requested.</li>\n<li>May God fulfil his promise for our master, may he cause his reign to be eternal and his army to be victorious. May he praise</li>\n<li>Muhammad the prophet, his ancestor, and save him.</li>\n</ol>",
           "format": "text/html",
           "TextInput": "ltr"
         }
