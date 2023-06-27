@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://geniza.princeton.edu/annotations/search/?uri=https%3A%2F%2Ffiggy.princeton.edu%2Fconcern%2Fscanned_resources%2F520c05f2-6276-440e-be10-1aa8a7b9b8ec%2Fmanifest%2Fcanvas%2F5dd0bfe8-c2f8-4a5b-9c8b-0d50cb93e25f&manifest=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F2432%2Fiiif%2Fmanifest%2F",
+  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Ffiggy.princeton.edu%2Fconcern%2Fscanned_resources%2F520c05f2-6276-440e-be10-1aa8a7b9b8ec%2Fmanifest%2Fcanvas%2F5dd0bfe8-c2f8-4a5b-9c8b-0d50cb93e25f&manifest=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F2432%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "http://geniza.princeton.edu/annotations/301292fb-9ff7-4f64-9a88-80d9b6b8cb36/",
+      "id": "http://localhost:8000/annotations/301292fb-9ff7-4f64-9a88-80d9b6b8cb36/",
       "type": "Annotation",
       "created": "2022-10-07T01:11:31.359845+00:00",
       "modified": "2022-10-07T01:11:31.359865+00:00",
@@ -38,10 +38,10 @@
       "schema:position": 1
     },
     {
-      "id": "http://geniza.princeton.edu/annotations/2186f81e-ff6c-4248-8e9a-d021aed823c5/",
+      "id": "http://localhost:8000/annotations/07ad843e-e05e-400d-9274-3bf00a61e832/",
       "type": "Annotation",
-      "created": "2023-06-09T15:39:39.193164+00:00",
-      "modified": "2023-06-09T15:39:39.193188+00:00",
+      "created": "2023-06-27T17:59:58.455403+00:00",
+      "modified": "2023-06-27T17:59:58.455424+00:00",
       "dc:source": "http://localhost:8000/sources/979/",
       "target": {
         "source": {
