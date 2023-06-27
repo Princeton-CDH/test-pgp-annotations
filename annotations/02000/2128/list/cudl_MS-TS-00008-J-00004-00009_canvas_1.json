@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://geniza.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00008-J-00004-00009%2Fcanvas%2F1&manifest=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F2128%2Fiiif%2Fmanifest%2F",
+  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00008-J-00004-00009%2Fcanvas%2F1&manifest=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F2128%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "http://geniza.princeton.edu/annotations/9c275410-cc00-4452-bd8c-53386d57fd18/",
+      "id": "http://localhost:8000/annotations/9c275410-cc00-4452-bd8c-53386d57fd18/",
       "type": "Annotation",
       "created": "2022-10-07T01:50:46.662260+00:00",
       "modified": "2022-10-07T01:50:46.662280+00:00",
@@ -38,10 +38,10 @@
       "schema:position": 1
     },
     {
-      "id": "http://geniza.princeton.edu/annotations/20a22446-3cc3-4aaa-b886-4cf18239a8fd/",
+      "id": "http://localhost:8000/annotations/14852a3f-ff72-4253-820a-7f5f0e25bd6d/",
       "type": "Annotation",
-      "created": "2023-06-09T15:39:52.027160+00:00",
-      "modified": "2023-06-09T15:39:52.027178+00:00",
+      "created": "2023-06-27T18:00:12.585791+00:00",
+      "modified": "2023-06-27T18:00:12.585807+00:00",
       "dc:source": "http://localhost:8000/sources/979/",
       "target": {
         "source": {
