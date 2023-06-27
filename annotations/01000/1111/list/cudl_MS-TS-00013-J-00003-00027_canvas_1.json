@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://geniza.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00013-J-00003-00027%2Fcanvas%2F1&manifest=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F1111%2Fiiif%2Fmanifest%2F",
+  "@id": "http://localhost:8000/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00013-J-00003-00027%2Fcanvas%2F1&manifest=http%3A%2F%2Flocalhost%3A8000%2Fdocuments%2F1111%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "http://geniza.princeton.edu/annotations/8fd1e9f4-d943-4901-8672-213c610f266e/",
+      "id": "http://localhost:8000/annotations/8fd1e9f4-d943-4901-8672-213c610f266e/",
       "type": "Annotation",
       "created": "2022-10-07T00:55:39.608202+00:00",
       "modified": "2022-10-07T00:55:39.608222+00:00",
@@ -38,10 +38,10 @@
       "schema:position": 1
     },
     {
-      "id": "http://geniza.princeton.edu/annotations/8ccef0d4-1535-4e2c-a225-e00659b301ab/",
+      "id": "http://localhost:8000/annotations/6102a58c-d080-407a-82fb-c4713fc297d4/",
       "type": "Annotation",
-      "created": "2023-06-09T15:41:30.158134+00:00",
-      "modified": "2023-06-09T15:41:30.158151+00:00",
+      "created": "2023-06-27T18:01:53.761798+00:00",
+      "modified": "2023-06-27T18:01:53.761819+00:00",
       "dc:source": "http://localhost:8000/sources/979/",
       "target": {
         "source": {
@@ -72,10 +72,10 @@
       "schema:position": 1
     },
     {
-      "id": "http://geniza.princeton.edu/annotations/4bc746d1-58d3-4268-879f-cd168a8e7037/",
+      "id": "http://localhost:8000/annotations/64ede7db-6136-4bc9-8d36-df9321e3adcb/",
       "type": "Annotation",
-      "created": "2023-06-09T15:41:30.163789+00:00",
-      "modified": "2023-06-09T15:41:30.163811+00:00",
+      "created": "2023-06-27T18:01:53.767101+00:00",
+      "modified": "2023-06-27T18:01:53.767115+00:00",
       "dc:source": "http://localhost:8000/sources/979/",
       "target": {
         "source": {
