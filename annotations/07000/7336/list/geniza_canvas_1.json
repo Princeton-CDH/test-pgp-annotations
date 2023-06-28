@@ -1,0 +1,41 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F7336%2Fiiif%2Fcanvas%2F1%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F7336%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/6aa28eba-6cf2-49f0-a79f-15f92d676d27/",
+      "type": "Annotation",
+      "created": "2023-06-28T17:34:49.017861+00:00",
+      "modified": "2023-06-28T17:34:49.017879+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/979/",
+      "target": {
+        "source": {
+          "id": "https://geniza.princeton.edu/documents/7336/iiif/canvas/1/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7336/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "<ol><li>With good luck.</li><li>Record //of testimony// which took place before us\u2014we, the</li><li>undersigned witnesses, on Thursday</li><li>the twenty-fourth day</li><li>of the month of Tammuz of the year one thousand two hundred</li><li>and ninety-eight years of the count</li><li>(of the Era) of Documents, which we regularly employ</li><li>in Fus\u1e6d\u0101\u1e6d Egypt,</li><li>situated on the great Nile River</li><li>//and four// Thus: Joseph b. Jacob</li><li>and \u2018Al\u012b b. Q\u012bmo\u012b said to us: \u201cBe</li><li>witnesses on our behalf, perform a qinyan with us</li><li>effective immediately, write and sign</li><li>on our behalf, using all the language of claims,</li><li>that we have collaborated (in a partnership), placing</li><li>in a (single) purse four silver coins,</li><li>from which each of us (contributed)</li><li>two silver coins. Both of them</li><li>will buy and sell,</li><li>purchase and transact</li><li>with them in whatever sort</li></ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
