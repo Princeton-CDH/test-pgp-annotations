@@ -1,0 +1,75 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00010-J-00028-00010%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F2985%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/6d0073f2-698a-4c46-a6fe-b4087a4e6ee4/",
+      "type": "Annotation",
+      "created": "2022-10-07T01:34:58.994497+00:00",
+      "modified": "2022-10-07T01:34:58.994517+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/762/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00010-J-00028-00010/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/2985/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>. . . . . . . . . . . . . . . . \u05d9\u05e4]\u05ea \u05d1\u05e8 \u05de \u05d9\u05d7\u05d9\u05d9\u05d4 \u05e1\u05d8 \u05e7\u05e0\u05d9\u05df \u05d2\u05de\u05d5\u05e8</li>\n<li>. . . . . . . . . . . . . . . . . . ]\u05e2\u05db\u05e9\u05d5 \u05d1\u05d1\u05d9\u05d8\u05d5\u05dc \u05db\u05dc \u05de\u05d5\u05d3\u05e2\u05d9</li>\n<li>. . . . . . . . . . . . . . . . . \u05d3]\u05de\u05ea\u05d4 \u05d5\u05db\u05d0\u05dc\u05e5 \u05de\u05d0\u05dc\u05d4 \u05dc\u05de</li>\n<li>\u05d9\u05d5\u05e1\u05e3 \u05d4\u05dc\u05d5\u05d9 \u05d1\u05e8 [ . . . . . . . . . . . ]\u05da \u05de\u05df \u05d0\u05dc\u05e2\u05d9\u05df \u05d0\u05dc\u05d5\u05d0\u05d6\u05df \u05d0\u05dc\u05d2\u05d9\u05d9\u05d3</li>\n<li>\u05d0\u05dc\u05de\u05d7\u05e7\u05e7 \u05e2\u05e9\u05e8\u05d4 \u05d3\u05e0\u05d0\u05e0\u05d9\u05e8 \u05d3\u05d4\u05d1\u05d0 \u05e2\u05d9\u05e0\u05d0 \u05de\u05ea\u05d0\u05e7\u05d9\u05dc\u05d0</li>\n<li>\u05d5\u05d0\u05d6\u05e0\u05d4 \u05d2\u05d9\u05d0\u05d3\u05d0 \u05d7\u05d5\u05d1 \u05d2\u05de\u05d5\u05e8 \u05d5\u05de\u05dc\u05d5\u05d4 \u05d6\u05e7\u05d5\u05e4\u05d4 \u05d9\u05e7\u05d5\u05dd</li>\n<li>\u05dc\u05d4 \u05d1\u05d3\u05dc\u05da \u05e2\u05e0\u05d3 \u05d0\u05e0\u05ea\u05d4\u05d0 \u05de\u05d3\u05d4 \u05d0\u05dc\u05e9\u05e8\u05db\u05d4 \u05d0\u05dc\u05ea\u05d9</li>\n<li>\u05d1\u05d9\u05e0\u05d4\u05de\u05d0 \u05d5\u05d4\u05d9 \u05e1\u05e0\u05d4 \u05db\u05d0\u05de\u05dc\u05d4 \u05de\u05df \u05de\u05d1\u05d3\u05d0 \u05d0\u05d3\u05e8 \u05e9[\u05e0\u05d9</li>\n<li>\u05e9\u05e0\u05ea \u05d0\u05ea\u05de\u05d5 \u05dc\u05e9\u05d8\u05e8\u05d5\u05ea \u05d5\u05d3\u05dc\u05da \u05d7\u05e1\u05d1 \u05de\u05d0 \u05d9\u05e1\u05ea\u05e7\u05e8</li>\n<li>\u05d1\u05d9\u05e0\u05d4\u05de\u05d0 \u05d3\u05dc\u05da \u05d0\u05dc\u05d5\u05e7\u05ea \u05d5\u05d9\u05e7\u05ea\u05e6\u05d9 \u05d7\u05d0\u05dc\u05d4 \u05d5\u05de\u05e2\u05d9\u05e9\u05ea\u05d4</li>\n<li>\u05d5\u05d0\u05d7\u05e8\u05d9\u05d5\u05ea \u05d4\u05d3\u05d0 \u05d0\u05dc\u05d7\u05d5\u05d1 \u05e2\u05dc(!) \u05d9\u05e4\u05ea \u05d3\u05e0\u05df \u05d5\u05e2\u05dc\u05d9 \u05d5\u05e8\u05d0\u05ea\u05d4</li>\n<li>\u05d1\u05e2\u05d3 \u05d5\u05e4\u05d0\u05ea\u05d4 \u05d3\u05de\u05d2\u05d1\u05d0 \u05dc\u05d9\u05d4 \u05de\u05db\u05dc \u05e9\u05e4\u05e8 \u05d0\u05e8\u05d2 \u05e0\u05db\u05e1\u05d9\u05df \u05e7\u05e0\u05d9\u05df</li>\n<li>. . . .\u05d3\u05d0\u05d9\u05ea ] \u05dc\u05d9\u05d4 \u05d5\u05d3\u05d9\u05d4\u05d5\u05d9 \u05dc\u05d9\u05d4 \u05ea\u05d7\u05d5\u05ea \u05db\u05dc \u05e9[\u05de\u05d9]\u05d0 \u05d1\u05d1\u05d9\u05ea\u05d0</li>\n<li>. . \u05d5\u05d1\u05d1\u05e8\u05d0 \u05de]\u05de\u05e7\u05e8\u05e7\u05e2\u05d9 \u05d5\u05de\u05de\u05d8\u05dc\u05d8\u05dc\u05d9 \u05d5\u05d0\u05e4\u05d9\u05dc\u05d5 \u05de\u05d2\u05dc\u05d9\u05de\u05d0 \u05d3\u05e2\u05dc</li>\n<li>[\u05db\u05ea]\u05e4[\u05d9]\u05d4 \u05d3\u05dc\u05d0 \u05db\u05d0\u05e1[\u05de\u05db]\u05ea\u05d0 \u05d5\u05d3\u05dc\u05d0 \u05db\u05d8\u05d5\u05e4\u05e1\u05d9 \u05d3\u05e9\u05d8\u05e8\u05d9 \u05d0\u05dc\u05d0</li>\n<li>\u05db\u05d7\u05d5[\u05d6\u05e7 \u05db\u05dc \u05e9\u05d8\u05e8\u05d9 \u05d7\u05d5\u05d1 [\u05d3\u05ea\u05e7\u05d9]\u05e0\u05d5 \u05e8\u05d1\u05e0\u05df \u05d5\u05e0\u05d4\u05d2\u05d9\u05df \u05d1\u05e2\u05dc\u05de\u05d0 \u05de\u05d9\u05d5\u05de\u05d0</li>\n<li>[\u05d3\u05e0\u05df] \u05d5\u05dc[\u05e2\u05dc\u05dd \u05ea]\u05dd \u05d0\u05e7\u05e0\u05d9\u05e0\u05d0 \u05d0\u05d9\u05e6\u05d0 \u05de\u05df \u05de \u05d9\u05d5\u05e1\u05e3 \u05d4\u05dc\u05d5\u05d9 [ . . . . . . . . . . . . . . .</li>\n<li>. . . . . . ] \u05d1\u05d0\u05dc\u05e6\u05d1\u05e8 \u05e2\u05dc\u05d9 \u05d9\u05e4\u05ea \u05d0\u05dc\u05de\u05d3\u05db\u05d5\u05e8 [ . . . . . . . . . . . .</li>\n<li>\u05d0\u05dc\u05d5\u05e7\u05ea \u05d0\u05dc\u05de\u05d3\u05db\u05d5\u05e8 \u05d5\u05d0\u05e0\u05d4 \u05e7\u05d1\u05e6\u05d4 [ . . . . . . . . . . . .</li>\n<li>. . ] \u05d5\u05de\u05d0 \u05ea\u05e6\u05dc \u05d0\u05dc\u05d9\u05d4 \u05e7\u05d3 \u05e8\u05ea\u05d4 [ . . . . . . . . . . . . . . . . . . . .</li>\n<li>. . . ] \u05de\u05df \u05ea\u05e9\u05e8\u05d9 \u05de\u05df \u05d0\u05dc\u05e1\u05e0\u05d4 \u05d0\u05dc\u05de\u05d3\u05db\u05d5\u05e8\u05d4 [ . . . . . . . . . . . . . . .</li>\n<li>. . . . . . . ]\u05d0 \u05d1\u05d0\u05dc\u05e7\u05d0\u05d4\u05e8\u05d4 \u05d0\u05dc\u05de\u05e2[\u05d6\u05d9\u05d4 . . . . . . . . . . . . .</li>\n<li>. . . . ] \u05d9\u05e9\u05d9\u05d1\u05ea \u05d2\u05d0\u05d5\u05df \u05d9\u05e2\u05e7\u05d1 \u05d9\u05db\u05d5\u05df \u05db\u05e1\u05d0\u05d5 [ . . . . . . . . . . . .</li>\n<li>. . . . . . ] \u05d9\u05d3\u05d9\u05d4 [ . . . . . . . . . . . . . . . . . . . . . . . . . .</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/d977f0ae-10b9-4464-a30a-50c78abe1531/",
+      "type": "Annotation",
+      "created": "2023-06-28T17:32:48.620237+00:00",
+      "modified": "2023-06-28T17:32:48.620282+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/979/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00010-J-00028-00010/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/2985/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "<ol><li>[\u2026 Japhe]th b. M(r.) Ya\u1e25y\u0101 (may his) e(nd be) g(ood,) a complete qinyan</li><li>[\u2026] now on, nullifying all secret dispositions</li><li>[\u2026 he owes him, and has in] his possession and in his free control for M(r.)</li><li>Joseph ha-Levi b. [\u2026] in terms of good, precise, weighed specie</li><li>ten gold dinars, weighed specie</li><li>of excellent weight, as a complete debt and an outstanding loan, which he will pay</li><li>him at the end of the period of the partnership\u00a0(shirka)\u00a0which </li><li>was between the two of them, which is a complete year from the beginning of Adar I[I]</li><li>of the year 1446 (of the Era) of Documents; and that was according to what was fixed</li><li>between the two of them at that time, and what his situation and maintenance will require.</li><li>Responsibility for this debt is upon this Japheth and upon his heirs</li><li>after his death that it would be taken from the best and choice of (his) possessions, and acquisition(s) </li><li>[and] his [wealth] and that which he will have under all the He[av]ens, in (his) house</li><li>[and outside, from] land and from movable property, and even the cloak from upon</li><li>hi[s b]ac[k,] for this is not like pr[omi]ses and not like formularies, but rather</li><li>[it bears the wei]ght of all documents of debt [which] the Sages [decre]ed, and are universally employed, from now</li><li>on. Then we also performed a qinyan\u00a0with \u00a0M(r.) Joseph ha-Levi //\u2026// [\u2026]</li><li>[\u2026] waiting for the aforementioned Japheth [\u2026]</li><li>the aforementioned time, and he received it [\u2026]</li><li>[\u2026] and as for that which will come to him, I have designated it [\u2026]</li><li>[\u2026] from Tishri of the aforementioned year [\u2026]</li><li>[\u2026] in Cairo [\u2026]</li><li>[\u2026 head of] the academy of the Gaon Jacob, may his seat [be established forever \u2026]</li><li>[\u2026] his hand [\u2026]</li></ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
