@@ -36,6 +36,39 @@
         "transcribing"
       ],
       "schema:position": 1
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/576229e1-6a59-4a35-a3a3-6f1cac98439f/",
+      "type": "Annotation",
+      "created": "2023-08-14T01:40:53.529693+00:00",
+      "modified": "2023-08-14T01:40:53.529734+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/488/",
+      "target": {
+        "source": {
+          "id": "https://test-geniza.cdh.princeton.edu/documents/26617/iiif/textblock/1/canvas/1/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/26617/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:-379.6406555175781,-193.69630432128906,748.1250610351562,391.1250305175781",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d3\u05d7\u05d7\u05d7\u05dc\u05d2</li>\n<li>\\\u05d7\u05dc\u05db\u05d7\u05dc\u05d9\u05d2\u05d7\u05dc</li>\n<li>\u05d3\u05d9\u05e0\u05de\u05d7\u05d2\u05e3\u05dc</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
     }
   ]
 }
