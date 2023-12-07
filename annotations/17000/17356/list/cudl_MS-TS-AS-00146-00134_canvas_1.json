@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AS-00146-00134%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F17356%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/43dedd58-bb0b-471d-a5d5-25fcb042ce93/",
+      "type": "Annotation",
+      "created": "2023-12-07T17:38:35.766535+00:00",
+      "modified": "2023-12-07T17:38:35.766562+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00134/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/17356/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1585.0919 228.5405 1650.3892 249.7622 1596.5189 293.8378 1609.5784 336.2811 1890.3568 391.7838 1934.4324 563.1892 2042.173 620.3243 2086.2486 728.0649 2042.173 1062.7135 1934.4324 1196.573 1967.0811 1250.4432 1944.227 1727.1135 1999.7297 1860.973 1988.3027 2162.973 1661.8162 2228.2703 914.1622 2270.7135 768.8757 2383.3514 845.6 2469.8703 801.5243 2546.5946 845.6 2662.4973 759.0811 2750.6486 541.9676 2739.2216 331.3838 2747.3838 452.1838 1812.0 470.1405 1653.6541 275.8811 1593.2541 251.3946 1581.827 197.5243 1555.7081 205.6865 1461.027 184.4649 1327.1676 217.1135 1065.9784 282.4108 987.6216 238.3351 878.2486 293.8378 780.3027 261.1892 303.6324 334.6486 205.6865\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>]\u05db\u05ea\u05d1 \u05d9\u05ea.\u05dc\u05d5 \u05d1\u05dc</li>\n<li>]\u05e9\u05e8\u05d9\u05ea \u05d4\u05d3\u05d4 \u05d0\u05dc\u05d2\u05d3\u05e7[</li>\n<li>\u05e7\u05e7\u05e6\u05d9\u05d0\u05d2\u05d3 \u05d9\u05e2\u05dc\u05d5\u05d9\u05d3 \u05d0\u05dc\u05de[</li>\n<li>\u05db\u05dc \u05d0\u05dc\u05de\u05d0\u05db\u05d3\u05df \u05e7\u05e6\u05dc \u05d4\u05d0\u05e7\u05de\u05d5\u05e5</li>\n<li>\u05ea\u05d7\u05ea\u05d0\u05e0\u05d9\u05d9 \u05d0\u05d3\u05d0</li>\n<li>]\u05d4 \u05d9\u05db\u05d5\u05df \u05de\u05df \u05e4\u05d9 \u05d0\u05de\u05d0\u05e0[</li>\n<li>\u05d0\u05dc\u05d7\u05e7</li>\n<li>\u05d3\u05e8\u05d4\u05dd \u05d5\u05d0\u05db\u05d0\u05df \u05de\u05e1\u05e8\u05d5\u05e8</li>\n<li>] \u05e1\u05e8\u05d7\u05d4 \u05e4\u05d9\u05d9 \u05d5\u05e0\u05e4\u05d3\u05d4</li>\n<li>]\u05dc\u05d9 \u05d9\u05d3 \u05de\u05e0\u05e6\u05d5 \u05de\u05db\u05d4\u05d0\u05db\u05e1</li>\n<li>\u05d0\u05e8\u05d9\u05d3 \u05d0\u05dc\u05d2\u05d5\u05d9 [ ]\u05e6\u05d5\u05dc\u05d4\u05d0</li>\n<li>\u05d7\u05e0\u05d0</li>\n<li>]\u05dd \u05d0\u05dc</li>\n<li>\u05d4</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/d8b96917-3278-41ed-bb13-4f52369b6654/",
+      "type": "Annotation",
+      "created": "2023-12-07T17:38:35.904406+00:00",
+      "modified": "2023-12-07T17:38:35.904434+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00134/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/17356/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"212.2162 1567.1351 189.3622 2719.6324 316.6919 2719.6324 494.627 1642.227\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d5\u05dc\u05d0 \u05ea\u05e8\u05d0\u05dc\u05e4\u05d0\u05e0\u05d0</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
