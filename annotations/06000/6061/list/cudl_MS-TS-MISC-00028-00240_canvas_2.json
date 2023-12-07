@@ -1,0 +1,137 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-MISC-00028-00240%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F6061%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/cdb51c74-9b07-453e-8737-54eefe16c063/",
+      "type": "Annotation",
+      "created": "2023-02-15T18:50:39.607921+00:00",
+      "modified": "2023-02-15T18:50:39.607936+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/13/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00240/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/6061/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:716.2445678710938,592.10107421875,3388.6216430664062,530.6341552734375",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso",
+          "value": "<ol>\n<li>\n<p>\u05e9\u05d9\u05db\u05d9 \u05d5\u05e8\u05d9\u05e1\u05d9 \u05d0\u05d1\u05d9 \u05e2\u05de\u05e8\u05d0\u05df \u05de\u05d5\u05e1\u05d9 \u05d1\u05df \u05d9\u05d7\u05d9\u05d9 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \u05de\u05df \u05d1\u05e8\u05d4\u05d5\u05df \u05d1\u05df \u05e6\u05d0\u05dc\u05d7 \u05e0\u05e0 \u05ea\u05d9\u05d4\u05e8\u05ea\u05d9</p>\n</li>\n<li>\n<p>\u05d0\u05d8\u05d0\u05dc \u05d0\u05dc\u05dc\u05d4 \u05d1\u05e7\u05d0\u05d4 \u05d5\u05d0\u05d3\u05d0\u05dd \u05e1\u05dc\u05d0\u05de\u05ea\u05d4 \u05d5\u05e0\u05e2\u05de\u05ea\u05d4</p>\n</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/93c9d2b4-8a15-4f0b-99f1-153393b477d8/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:54:06.759558+00:00",
+      "modified": "2023-12-07T16:54:06.759586+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00240/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/6061/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"4139.3496 519.6432 4235.448 640.656 4210.5336 989.4576 4043.2512 1131.8256 2413.1376 1156.74 900.4776 1035.7272 569.472 872.004 569.472 662.0112 783.024 544.5576 2135.52 498.288\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05e9\u05d9\u05d3\u05d9 \u05d5\u05db\u05d9\u05e4\u05d9 \u05d0\u05d1\u05d9 \u05e2\u05de\u05e8\u05d0\u05df \u05de\u05d5\u05e1\u05d9 \u05d1\u05df \u05d9\u05d7\u05d9\u05e0\u05d9 \u05de\u05df \u05d1\u05e8\u05d4\u05d5\u05df \u05d1\u05df \u05d8\u05dc\u05d7 \u05e0\u05e0 \u05d4\u05e8\u05d4\u05e8\u05d5\u05ea</li>\n<li>\u05d0\u05d8\u05d0\u05dc \u05d0\u05dc\u05dc\u05d4 \u05d1\u05e7\u05d0\u05d4 \u05d9\u05d0\u05d3\u05d0\u05dd \u05e1\u05dc\u05d0\u05de\u05ea\u05d4 \u05d5\u05e0\u05e2\u05ea\u05d0\u05d4</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/b89124f0-4618-467d-b85c-edde07eafb10/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:54:06.962259+00:00",
+      "modified": "2023-12-07T16:54:06.962282+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00240/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/6061/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"4089.5208 5392.188 2744.1432 5331.6816 2722.788 5004.2352 2911.4256 4957.9656 3879.528 5029.1496 4135.7904 5185.7544\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d4\u05d0\u05e8\u05e5</li>\n<li>\u05d1\u05e8\u05d0\u05e9\u05d9\u05ea \u05d1\u05e8\u05d0 \u05d0 \u05dc\u05d0\u05d9\u05dd \u05d9\u05ea \u05d4\u05e9\u05de\u05d9\u05dd \u05d5\u05d6\u05d5\u05ea</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/c46e93bf-443e-453f-ad1a-df8125e9aad8/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:54:07.144252+00:00",
+      "modified": "2023-12-07T16:54:07.144277+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00240/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/6061/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"355.92 4594.9272 348.8016 4360.02 750.9912 4363.5792 800.82 4594.9272\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d5\u05d4\u05d0\u05e8\u05e5</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
