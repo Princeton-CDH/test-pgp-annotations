@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AS-00146-00153%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F17362%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/dba108c5-e1ca-4dc6-8ded-542b42c0880a/",
+      "type": "Annotation",
+      "created": "2023-12-07T17:38:42.086664+00:00",
+      "modified": "2023-12-07T17:38:42.086694+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00153/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/17362/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"989.7628 98.6111 858.2814 275.7457 967.8492 303.1377 969.6754 352.4432 1101.1568 365.2261 995.2412 385.3136 933.1528 511.3166 1256.3779 571.5789 1256.3779 604.4492 1092.0261 640.9719 1150.4623 677.4945 1051.8513 750.5397 1316.6402 814.4543 1269.1608 863.7598 1329.4231 924.0221 1353.1628 1082.8955 1316.6402 1347.6844 679.3206 1776.8251 219.1357 1371.4241 193.5698 960.5447 133.3075 823.5849 169.8302 730.4523 120.5246 668.3638 206.3528 507.6643 157.0472 449.2281 96.7849 381.6613 206.3528 328.7035 255.6583 242.8754 312.2683 82.1759\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>][</li>\n<li>\u05e4\u05e8\u05d2\u05d9 \u05d1\u05d4 \u05d5[</li>\n<li>\u05ea\u05de\u05d0\u05e0\u05d9\u05df \u05d3\u05d9[</li>\n<li>\u05d4\u05d3\u05d0 \u05ea\u05e4\u05e6[</li>\n<li>\u05e2\u05dc\u05d9 \u05d1\u05d5\u05ea \u05db\u05dc\u05e3</li>\n<li>\u05d7\u05e6\u05dc</li>\n<li>\u05d1\u05df \u05de\u05d7\u05d4\u05d5\u05d1</li>\n<li>\u05d0[</li>\n<li>\u05de</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
