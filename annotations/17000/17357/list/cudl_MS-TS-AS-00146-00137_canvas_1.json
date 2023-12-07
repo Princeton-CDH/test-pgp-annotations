@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AS-00146-00137%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F17357%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/dd0ca4d5-e2b6-4573-a855-626ec2d6eac5/",
+      "type": "Annotation",
+      "created": "2023-12-07T17:38:37.121645+00:00",
+      "modified": "2023-12-07T17:38:37.121666+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00137/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/17357/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2890.688 839.232 2983.936 720.192 3063.296 710.272 3099.008 704.32 3224.0 761.856 3650.56 751.936 3789.44 791.616 3952.128 795.584 3844.992 904.704 3777.536 982.08 3912.448 1005.888 3884.672 1041.6 3968.0 1263.808 3874.752 1448.32 3835.072 1418.56 3539.456 1398.72 3837.056 1446.336 3472.0 1499.904 3456.128 1807.424 3186.304 1616.96 3227.968 1660.608 3093.056 1759.808 2299.456 1785.6 156.736 1900.672 7.936 678.528 2731.968 837.248\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d0\u05e0\u05d5\u05d5\u05e0\u05de[</li>\n<li>\u05d4\u05de\u05d5\u05dc\u05d0 \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05dc\u05d0\u05d2\u05dc\u05d0\u05d1 \u05d0\u05e1\u05d7\u05d0\u05e7[ ] \u05e2\u05e0\u05d3\u05d4\u05d0 \u05d5\u05e9\u05d0\u05db\u05e8</li>\n<li>\u05d9\u05d7\u05de\u05d3\u05ea \u05d4\u05d9\u05e9\u05d9\u05d1\u05d4</li>\n<li>\u05d0\u05d0</li>\n<li>\u05db\u05e6\u05d9\u05d1 \u05d1 \u05de\u05d0\u05e4\u05e7 \u05e0\u05e2</li>\n<li>[ ]\u05d4\u05e9\u05e8\u05d9\u05e0</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
