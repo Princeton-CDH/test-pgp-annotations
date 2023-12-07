@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-MISC-00025-00133%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F6053%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/de01e88e-3b9f-44d5-b520-dbb67657ddbc/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:55:15.013005+00:00",
+      "modified": "2023-12-07T16:55:15.013035+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00025-00133/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/6053/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"4552.5825 1651.545 4634.4375 3852.0 4634.4375 4473.135 4586.2875 4552.5825 4155.345 4538.1375 4140.9 1988.595 4220.3475 1776.735 4155.345 1685.25 4220.3475 1651.545\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d9\u05e1\u05d5\u05d0\u05d4 \u05d5\u05d0\u05e0\u05d0 \u05d0\u05e1\u05ea\u05d8\u05d9\u05e2 \u05d0\u05df \u05e0\u05e9\u05ea\u05e8\u05d9 \u05d1\u05e1\u05e4\u05d0\u05ea\u05d2</li>\n<li>\u05e4\u05e1\u05e6\u05e8 \u05d0\u05e0\u05e1\u05d0\u05df \u05d0\u05df \u05d9\u05e4\u05e8\u05d2 \u05e2\u05e0\u05d9 \u05db\u05e8\u05d2 \u05d8\u05e8\u05d5\u05d0\u05df \u05d5\u05e1\u05d0\u05dc\u05ea\u05d4</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/4f2d722f-dc03-4a23-ade2-4709ce28bebd/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:55:15.183505+00:00",
+      "modified": "2023-12-07T16:55:15.183550+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00025-00133/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/6053/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1247.085 255.195 1295.235 1119.4875 1615.4325 1235.0475 1697.2875 1408.3875 1812.8475 1492.65 2022.3 1555.245 2578.4325 1555.245 3269.385 1540.8 3526.9875 1458.945 4119.2325 1572.0975 4167.3825 4504.4325 255.195 4521.285 192.6 3830.3325 272.0475 2337.6825 288.9 1025.595 240.75 977.445 288.9 801.6975 560.9475 657.2475 240.75 604.2825 223.8975 385.2 272.0475 272.0475 866.7 192.6\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05e0\u05e7\u05e2\u05d4[</li>\n<li>.\u05ea\u05d4 \u05d0\u05dc.\u05d7\u05e0\u05d4</li>\n<li>]\u05e7\u05e1\u05d8 \u05d0\u05dc\u05d9\u05de\u05db\u05d9</li>\n<li>\u05d0\u05dc\u05d9 \u05de\u05d2\u05d9 \u05d0\u05dc\u05de\u05d5.[</li>\n<li>]\u05d2\u05e2\u05ea \u05e2\u05d8\u05d9\u05de\u05d4</li>\n<li>] \u05dc\u05d9 \u05ea\u05e4\u05e6\u05e8 \u05d0\u05dc[ ] \u05d1\u05d5\u05e7\u05d9 \u05d0\u05dc\u05de\u05d5\u05ea \u05de\u05e8\u05d4</li>\n<li>\u05de\u05db\u05e8\u05d5\u05d4 \u05e4\u05d0\u05dc\u05e0\u05e2\u05de\u05d4</li>\n<li>\u05d5\u05d0\u05d7\u05d3\u05d4 \u05e0\u05d0\u05e0\u05d0 \u05dc\u05d9 \u05d0\u05dc\u05d9\u05d5\u05dd \u05d9 \u05e1\u05e0\u05d9\u05df \u05e0\u05dc\u05d0\u05d5\u05ea \u05de\u05d5\u05d7\u05d0\u05ea \u05db\u05d0\u05df \u05d9\u05d1\u05e4\u05d9\u05e0\u05d9 \u05e8\u05d5\u05d0\u05e7</li>\n<li>\u05d0\u05df \u05e8\u05e7\u05ea \u05d9\u05d5\u05de\u05d9\u05df \u05d1\u05e2\u05d3 \u05d0\u05dc\u05e4\u05e1\u05d7 \u05dc\u05d5 \u05d0\u05d8\u05dc\u05ea \u05dc\u05e6\u05e8\u05d1 \u05d0\u05dc\u05e2\u05d5\u05e7 \u05de\u05d0 \u05e0\u05d3\u05d5\u05e7 \u05d0\u05e2\u05d0\u05dd</li>\n<li>\u05de\u05df \u05d3\u05dc\u05da \u05d0\u05dc\u05d9 \u05d0\u05df \u05d2\u05d0\u05e0\u05d9 \u05de\u05d0 \u05e0\u05e1\u05d0\u05e0\u05d9 \u05d1\u05dc\u05d4\u05dd \u05d5\u05d9\u05d7\u05dc\u05d0 \u05e2\u05e0\u05d3\u05d9 \u05d0\u05dc\u05de\u05d5\u05ea \u05d5\u05dc\u05d0</li>\n<li>\u05e0\u05e9\u05d4\u05d3 \u05de\u05d0 \u05e9\u05d0\u05d4\u05d3\u05ea \u05e4\u05d9 \u05e2\u05e8\u05d5\u05e1 \u05d0\u05d1\u05df \u05d9\u05d5 \u05e1\u05e0\u05d4 \u05dc\u05d7\u05e7\u05e0\u05d9 \u05d0\u05dc\u05dc\u05d4 \u05d1\u05d4 \u05e7\u05e8\u05d9\u05d1</li>\n<li>\u05d5\u05db\u05e8\u05d2 \u05e1\u05dc\u05d9\u05de\u05df \u05de\u05df \u05d4\u05d5\u05e0\u05d0 \u05d5\u05dc\u05dd \u05d2\u05e2\u05d5\u05ea\u05d4 \u05d0\u05df \u05e0\u05d7\u05e6\u05e8\u05da \u05d0\u05dc\u05d0 \u05d0\u05e0\u05d4 \u05dc\u05de\u05d0 \u05d9\u05e8\u05d0\u05db\u05d9</li>\n<li>\u05d5\u05d9\u05e2\u05e8\u05e3 \u05de\u05e0\u05e7\u05e4\u05d9 \u05dc\u05dd \u05d9\u05d6\u05dc \u05db\u05d9 \u05d0\u05dc\u05d9 \u05d0\u05df \u05d3\u05db\u05dc\u05ea \u05e4\u05d9 \u05de\u05d0 \u05d3\u05db\u05dc\u05ea \u05e4\u05d9\u05d4 \u05d5\u05e0\u05e2\u05dc\u05dd</li>\n<li>\u05d0\u05df \u05e4\u05d0\u05d9\u05d3 \u05dc\u05d9\u05e1 \u05d5\u05d0\u05dc\u05dc\u05d4 \u05d9\u05de\u05d5\u05dc\u05d0\u05d9 \u05d5\u05d7\u05e7 \u05e0\u05d9\u05e8\u05d0\u05df \u05e4\u05d9 \u05e7\u05d1\u05d9 \u05d0\u05df \u05d5\u05e6\u05dc \u05d4\u05d3\u05d4</li>\n<li>\u05d0\u05dc\u05e1\u05e0\u05d4 \u05d5\u05e7\u05d9\u05d0 \u05d0\u05dc\u05d0 \u05de\u05d0 \u05d9\u05e6\u05dc \u05de\u05df \u05e2\u05e0\u05d3\u05d9 \u05d5\u05dc\u05e2\u05dc \u05e7\u05d3\u05e8 \u05e0 \u05e8\u05d8\u05dc \u05d2\u05d5\u05d1\u05d9\u05e2\u05ea</li>\n<li>\u05e4\u05d9 \u05d0\u05dc\u05d1\u05dc\u05d3 \u05dc\u05de\u05df \u05d9\u05ea\u05e6\u05e8\u05e3 \u05e4\u05d9\u05d4\u05d0 \u05d5\u05e6\u05d7\u05d4 \u05e7\u05d5\u05dc\u05d9 \u05d0\u05e0\u05e6\u05e8\u05d5 \u05d0\u05dc\u05d0\u05e1\u05db\u05e0\u05d3\u05e8\u05d0\u05e0\u05d9\u05df</li>\n<li>\u05d0\u05dc\u05d3\u05d9 \u05e8\u05e1\u05de\u05d4\u05dd \u05d0\u05df \u05d9\u05e2\u05ea\u05e8\u05d5\u05d4 \u05d0\u05df \u05db\u05d0\u05df \u05d5\u05e6\u05dc \u05d0\u05dc\u05d9\u05db\u05dd \u05d5\u05e7\u05d9\u05d0 \u05d5\u05dc\u05d5 \u05d0\u05df \u05dc\u05e9\u05d9 \u05d0\u05dc\u05d3\u05d9</li>\n<li>\u05d7\u05d0\u05dc \u05e1\u05dc\u05d9\u05de\u05df \u05d3\u05d9\u05df \u05d9\u05d3\u05d9 \u05d5\u05d0\u05de\u05de\u05d0\u05e1\u05d9\u05df \u05d0\u05df \u05d9\u05e6\u05d1\u05e8\u05d5 \u05e2\u05dc\u05d9 \u05d0\u05dc\u05e8\u05d5\u05dd \u05dc\u05d1\u05d9\u05e2\u05ea\u05d4</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
