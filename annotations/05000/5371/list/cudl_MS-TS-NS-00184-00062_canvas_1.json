@@ -1,0 +1,72 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-NS-00184-00062%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F5371%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/5a43057d-7aa7-49a2-b07f-c63f638a0105/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:54:18.867938+00:00",
+      "modified": "2023-12-07T16:54:18.867962+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-00184-00062/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5371/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2527.8602 774.3308 2621.6133 1434.0745 2562.5836 2704.9493 2274.3797 2751.8259 717.0373 2739.6727 243.0635 2796.9662 196.187 2948.0128 251.7443 2557.3751 265.6337 2230.9755 265.6337 809.0542 322.9272 682.3139\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>]\u05e0\u05d9\u05dd \u05d1\u05e4\u05e1\u05d8\u05d0\u05d8 \u05de\u05e6\u05e8\u05d9\u05dd \u05d5\u05de\u05d0\u05df \u05d3\u05d7\u05ea\u05d9\u05dd \u05e2\u05d9\u05de\u05e0\u05d0</li>\n<li>\u05e8\u05d5\u05e8 \u05d0\u05d1\u05e8\u05d4\u05dd \u05d4\u05d9\u05e7\u05e8 \u05d9\u05e9 \u05e6\u05d5 \u05d1\u05e8 \u05db\u05d2\u05e7 \u05de\u05e8\u05d5\u05e8 \u05d9\u05e6\u05d7\u05e7</li>\n<li>].\u05d4 \u05d4\u05d6\u05e7\u05df \u05d1\u05e8 \u05de\u05e8 \u05d5\u05e8 \u05e0\u05e1\u05d9\u05dd \u05d4\u05d6\u05e7\u05df \u05e0\u05e2 \u05d5\u05de\u05e8\u05d5\u05e8 \u05d9\u05d5\u05e1\u05e3 \u05d1\u05e8</li>\n<li>\u05d1\u05d9\u05df \u05d9\u05d3\u05d9\u05e0\u05d0 \u05e9\u05d4\u05d0\u05d3\u05d4 \u05d5\u05d0\u05d7\u05d3\u05d4 \u05de\u05ea\u05e4\u05e7\u05d4 \u05d5\u05e7\u05d0\u05dc\u05d0 \u05dc\u05e0\u05d0</li>\n<li>]\u05d4 \u05d7\u05e6\u05e8 \u05d0\u05dc\u05d9\u05e0\u05d0 \u05d5\u05e7\u05d0\u05dc \u05dc\u05e0\u05d0 \u05de\u05d0 \u05d9\u05db\u05e4\u05d0 \u05e2\u05e0\u05db\u05dd \u05d0\u05e0\u05e0\u05d9</li>\n<li>\u05db\u05d0\u05dc\u05d9 \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d5 \u05d9\u05e2\u05e7\u05d5\u05d1 \u05d3\u05d9\u05d3\u05d9\u05e2 \u05d0\u05dc\u05dc\u05d1\u05d3\u05d9 \u05e0\u05e2 \u05d5\u05db\u05d0\u05df</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/6cfc54ce-7ec9-45a0-89c0-b90acc5cf396/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:54:19.127458+00:00",
+      "modified": "2023-12-07T16:54:19.127488+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-00184-00062/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5371/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>]\u05e0\u05d0 \u05d0\u05d5\u05ea\u05e8 \u05de\u05df \u05d1\u05d9\u05ea \u05d3\u05d9\u05df \u05d0\u05e1\u05ea\u05de\u05d0\u05e2\u05d4\u05d0 \u05d5\u05d0\u05ea\u05d1\u05d0\u05ea\u05d4\u05d0</li>\n<li>\u05d0\u05dc\u05d7\u05d9\u05d0\u05d4 \u05d5\u05d0\u05dc\u05d9\u05d5\u05dd \u05e7\u05d3 \u05d1\u05e7\u05d9\u05ea \u05d5\u05d7\u05d9\u05d3 \u05d5\u05de\u05d0 \u05dc\u05d9 \u05d5\u05d2\u05d4 \u05d0\u05dc\u05d9 \u05d0\u05dc</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}

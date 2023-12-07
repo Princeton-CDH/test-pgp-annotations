@@ -1,0 +1,72 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-NS-00184-00074%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F5371%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/0371f5e0-3e74-44d1-a48b-bf82e291a7b7/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:54:40.263254+00:00",
+      "modified": "2023-12-07T16:54:40.263301+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-00184-00074/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5371/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1288.815 668.4975 1282.7925 706.64 1883.035 829.0975 1788.6825 903.375 2031.59 971.63 1941.2525 1055.945 1961.3275 1102.1175 2579.6375 1244.65 2675.9975 1339.0025 3051.4 1443.3925 3129.6925 1527.7075 3212.0 1555.8125 3214.0075 1612.0225 3382.6375 1622.06 3418.7725 1838.87 3390.6675 2535.4725 3173.8575 2571.6075 2846.635 2563.5775 2740.2375 2497.33 2392.94 2469.225 2212.265 2392.94 706.64 2176.13 505.89 2043.635 188.705 2005.4925 188.705 1887.05 122.4575 1836.8625 74.2775 1565.85 102.3825 1563.8425 84.315 1479.5275 196.735 1383.1675 178.6675 1234.6125 206.7725 1132.23 283.0575 1100.11 206.7725 1061.9675 206.7725 979.66 393.47 943.525 385.44 877.2775 471.7625 817.0525 451.6875 762.85 660.4675 638.385 640.3925 556.0775 877.2775 499.8675 1204.5 566.115 1288.815 668.4975\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d1\u05e0, \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d5 h\u05e2\u05e7\u05d5\u05d1 \u05dbt\u05dc\u05d4 \u05e0\u05e2 \u05e2\u05dc \u05e9\u05dd \u05e7\u05d9[</li>\n<li>]\u05dc. \u05d1\u05de\u05ea\u05e0\u05d4 \u05d5\u05d0\u05e6\u05d0\u05e3 \u05d0\u05dc\u05d9 \u05d3\u05dc\u05da [</li>\n<li>]\u05d1\u05d9\u05d8\u05d5\u05dc \u05db\u05dc \u05de\u05d5\u05d3\u05e2\u05d9\u05df \u05d5[</li>\n<li>\u05dc\u05e0\u05d0 \u05de</li>\n<li>\u05d1\u05d4\u05d3\u05d4 \u05d0\u05dc\u05db\u05de\u05e1\u05d4 \u05d3\u05e0\u05d0\u05e0\u05d9\u05e8 \u05d5\u05d0\u05dc\u05d3\u05d9[</li>\n<li>\u05db\u05ea\u05d5\u05e8\u05d4 \u05d5\u05db[</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/9de1e47e-355e-4630-b94e-cc5c13c6a28d/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:54:40.565603+00:00",
+      "modified": "2023-12-07T16:54:40.565625+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-00184-00074/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5371/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>]\u05e1\u05e8 \u05d5\u05db\u05d0\u05ea\u05de\u05d9\u05df \u05db\u05d0\u05ea\u05dd \u05d3\u05d4\u05d1 \u05d5\u05db\u05d0\u05ea\u05dd \u05e4\u05e6\u05d4 \u05d5\u05d1\u05e2\u05d3 \u05d3\u05dc\u05da \u05e8[</li>\n<li>]\u05d0\u05d1\u05e2\u05d3 \u05e6\u05d7\u05d4 \u05de\u05e2\u05e8\u05e4\u05ea\u05e0\u05d0 \u05d1\u05d4\u05d0 \u05d1\u05d7\u05e6\u05e8\u05d4 \u05d5\u05d0\u05dc\u05d3\u05ea\u05d4\u05d0 \u05d5\u05e8\u05e6\u05d0\u05d4\u05d0 \u05d5\u05d1\u05d7\u05e6[</li>\n<li>\u05d0\u05d9\u05e6\u05d0 \u05d1\u05e7\u05e0\u05d9\u05df \u05d2\u05de\u05d5\u05e8 \u05d7\u05de\u05d5\u05e8 \u05d1\u05db\u05dc\u05d9 \u05d4\u05db\u05e9\u05e8 \u05dc\u05e7\u05e0\u05d5\u05ea \u05d1\u05d5 \u05de\u05e2\u05db\u05e9\u05d5 \u05d1\u05d1[</li>\n<li>\u05de\u05dc\u05db\u05ea \u05e0\u05e4\u05e1\u05d4\u05d0 \u05dc\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d5 \u05d0\u05e1\u05d7\u05e7 \u05d3\u05e0\u05df \u05d5\u05e7\u05dc\u05e0\u05d0 \u05dc[</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
