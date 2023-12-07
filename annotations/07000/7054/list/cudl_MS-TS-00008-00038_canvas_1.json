@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00008-00038%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F7054%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/1a09159b-2666-43be-82d2-b94fdb5c9d4f/",
+      "type": "Annotation",
+      "created": "2023-01-09T22:38:49.773229+00:00",
+      "modified": "2023-01-09T22:38:49.773241+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/953/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-00038/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7054/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:229.2784423828125,116.68550872802734,2997.6046142578125,3697.6694717407227",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto:",
+          "value": "<ol>\n<li>\u05e9\u05dc\u05d5\u05dd \u05e8\u05d1 \u05dc\u05d0\u05d5\u05d4\u05d1\u05d9 \u05ea\u05d5\u05e8\u05ea\u05d9\u05da \u05d5\u05d2\u05d5</li>\n<li>\u05d0\u05d8\u05d0\u05dc \u05d0\u05dc\u05dc\u05d4 \u05d1\u05e7\u05d0\u05da \u05d5\u05d0\u05d3\u05d0\u05dd \u05e2\u05d6\u05da \u05d5\u05ea\u05d0\u05d9\u05d3\u05da \u05d5\u05e1\u05e2\u05d0\u05d3\u05ea\u05da \u05d5\u05e1\u05dc\u05d0\u05de\u05ea\u05da</li>\n<li>\u05e7\u05d3 \u05e2\u05dc\u05dd //\u05d0\u05dc\u05dc\u05d4// \u05db\u05ea\u05e8\u05d4 \u05e9\u05d5\u05e7\u05e0\u05d0 \u05d0\u05dc\u05d9\u05da \u05d5\u05db\u05ea\u05e8\u05ea \u05d3\u05d5\u05e2\u05d0\u05e0\u05d0 \u05dc\u05da \u05d0\u05e8\u05d2\u05d5 \u05d0\u05dc\u05dc\u05d4</li>\n<li>\u05d9\u05e1\u05ea\u05d2\u05d9\u05d1 \u05de\u05e0\u05d0 \u05d5\u05d2\u05de\u05e0\u05d0 \u05d2\u05dd \u05e2\u05e6\u05d9\u05dd \u05d0\u05d3 \u05dc\u05dd \u05e0\u05e1\u05de\u05e2 \u05dc\u05da \u05db\u05d1\u05e8 \u05e4\u05d0\u05e8\u05d2\u05d5</li>\n<li>\u05d9\u05db\u05d5\u05df \u05dc\u05db\u05d9\u05e8 \u05d5\u05d0\u05e1\u05d0\u05e2\u05d4 \u05d0\u05dc\u05dc\u05d4 //\u05d0\u05dc\u05dc\u05d4// \u05e1\u05d0\u05e2\u05d4 [\u05ea]\u05e7\u05e8\u05d0 \u05db\u05ea\u05d0\u05d1\u05e0\u05d0 \u05d5\u05d2\u05d4</li>\n<li>\u05d0\u05dc\u05d9\u05e0\u05d0 \u05d1\u05db\u05d1\u05e8\u05da \u05d5\u05d0\u05e2\u05dc\u05de\u05da \u05d0\u05df \u05d0\u05e8\u05d3[\u05e0\u05d0] \u05e0\u05e2\u05d9\u05d3 \u05e2\u05e0\u05d3\u05db\u05dd \u05d5\u05dc\u05dd \u05d9\u05e1\u05ea\u05d5\u05d9</li>\n<li>\u05dc\u05e0\u05d0 \u05d5\u05d0\u05df \u05d5\u05d2\u05d3\u05ea \u05dc\u05dc\u05d2\u05d5\u05d1\u05df \u05e1\u05d5\u05e7 \u05e4\u05d0\u05d1\u05d9\u05e2\u05d4 \u05d5\u05dc\u05d0 \u05ea\u05d3\u05e2\u05d4 \u05d5\u05e7\u05e8\u05e6\u05d9\u05df</li>\n<li>\u05d2\u05d5\u05d1\u05df \u05d0\u05d9\u05e6\u05d0 \u05d5\u05d2\u05d4\u05e0\u05d0 \u05de\u05e2 \u05e8 \u05d9\u05d5\u05e1\u05e3 [. . .] \u05d9 \u05d0\u05e7\u05d1\u05e6\u05d4\u05dd</li>\n<li>\u05d5\u05d0\u05d1\u05d9\u05e2\u05d4\u05dd \u05d5\u05d0\u05df \u05db\u05d0\u05df \u05e0\u05e4\u05d3\u05ea \u05d3\u05d9\u05da [\u05d0\u05dc]\u05d7\u05d0\u05d2\u05d4 \u05e4\u05d5\u05d2\u05d4 \u05d0\u05dc\u05d9\u05e0\u05d0</li>\n<li>\u05d1\u05e9\u05e8\u05d7 \u05d3\u05d0\u05dc\u05da \u05d5\u05d5\u05d2\u05d4 \u05d0\u05dc\u05d9\u05e0\u05d0 \u05d1\u05d2\u05de[\u05d9\u05e2] \u05de\u05d0 \u05e0\u05d7\u05ea\u05d0\u05d2</li>\n<li>\u05d0\u05df \u05ea\u05db\u05d1[\u05e8\u05e0\u05d0 \u05d1]\u05e2\u05dc\u05de\u05d4 [. . . . . .] \u05d1\u05d4 \u05d5\u05e8\u05d1</li>\n<li>\u05d0\u05dc\u05e2\u05d0\u05dc\u05de\u05d9\u05df [\u05d9]\u05e6\u05d9\u05e3 \u05dc\u05da \u05d0\u05dc[\u05d0\u05d2\u05e8] \u05d5\u05d0\u05dc\u05d2\u05d6\u05d0</li>\n<li>\u05d5\u05d0\u05e8\u05d3]\u05e0\u05d0 \u05d0\u05df \u05e0\u05e2\u05de\u05dc \u05d0\u05dc\u05e4\u05e1\u05d7 \u05e4\u05d9 \u05d0\u05e1\u05db\u05e0\u05d3\u05e8\u05d9\u05d4</li>\n<li>] . \u05d5 \u05d0\u05e0\u05d0 . . . \u05ea\u05db\u05ea\u05d1 \u05d0\u05d9\u05e6\u05d0 \u05d1\u05d0\u05db\u05d1\u05d0\u05e8 . .&nbsp;</li>\n<li>] . \u05da \u05d1\u05d0\u05dc\u05e1\u05dc\u05d0\u05dd \u05d5\u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05d9\u05d1\u05dc\u05d2\u05da \u05d0\u05e4\u05e6\u05dc</li>\n<li>[\u05d0\u05dc\u05e1\u05dc\u05d0\u05dd]</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/a4be401a-4ca0-4c92-98b6-28caaa582a02/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:54:41.542609+00:00",
+      "modified": "2023-12-07T16:54:41.542643+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-00038/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7054/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1859.0268 195.3554 2375.7732 321.3911 2558.525 420.119 2617.3417 531.4506 3089.9756 699.4982 3062.6679 1901.0387 2978.644 2237.1339 2951.3363 2306.4536 2909.3244 2295.9506 2837.9042 2783.2887 2810.5964 2852.6083 2795.8923 2795.8923 2768.5845 2837.9042 2701.3655 2795.8923 2684.5607 2852.6083 2533.3179 2894.6202 2531.2173 2951.3363 2337.9625 2978.644 2333.7613 3104.6798 2249.7375 3188.7036 1302.369 3245.4196 504.1429 3146.6917 420.119 3077.372 237.3673 1760.2988 180.6512 390.7107 336.0952 264.675 850.7411 237.3673 1146.925 153.3435\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05e9\u05dc\u05d5\u05dd \u05e8\u05d1 \u05dc\u05d0\u05d5\u05d4\u05d1\u05d9 \u05ea\u05d5\u05e8\u05ea\u05d9\u05da \u05d5\u05d2\u05d9</li>\n<li>\u05d0\u05d8\u05d0\u05dc \u05d0\u05dc\u05dc\u05d4 \u05d1\u05e7\u05d0\u05da \u05d5\u05d0\u05d3\u05d0\u05dd \u05e2\u05d6\u05da \u05d5\u05ea\u05d0\u05d9\u05d3\u05da \u05d5\u05e1\u05e2\u05d0\u05d3\u05ea\u05da \u05d5\u05e1\u05dc\u05d0\u05de\u05ea\u05da</li>\n<li>\u05de\u05da \u05e2\u05dc\u05dd \u05db\u05ea\u05e8\u05d4 \u05e9\u05d5\u05e7\u05e0\u05d0 \u05d0\u05dc\u05d9\u05da \u05d5\u05db\u05ea\u05e8\u05ea \u05d3\u05d5\u05e2\u05d0\u05e0\u05d0 \u05dc\u05da \u05d6\u05e8\u05d2\u05d5 \u05d0\u05dc\u05dc\u05d4</li>\n<li>\u05d0\u05dc\u05d4</li>\n<li>\u05e1\u05ea\u05d2\u05e8\u05d1 \u05de\u05d9\u05e0\u05d0 \u05d5\u05d2\u05de\u05e0\u05d0 \u05d2\u05dd \u05e2\u05d8\u05d9\u05dd \u05d0\u05da \u05dc\u05dd \u05e0\u05e1\u05de\u05e2 \u05dc\u05da \u05db\u05d1\u05e8 \u05e4\u05d0\u05e8\u05d2</li>\n<li>\u05d9\u05db\u05d5\u05df \u05dc\u05db\u05d9\u05e8 \u05d5\u05d0\u05e1\u05d0\u05e2\u05d4 \u05d0\u05dc\u05d9\u05d4 \u05e1\u05d0\u05e2\u05d4 [ ]\u05e8\u05d0 \u05e4\u05ea\u05d0\u05d1\u05e0\u05d3 \u05d5\u05d2\u05d4</li>\n<li>]\u05dc\u05d9\u05e0\u05d0 \u05d1\u05db\u05d1\u05e8\u05da \u05d5\u05d0\u05e2\u05dc\u05de\u05da \u05d0\u05df \u05d0\u05e8\u05d3[ ]\u05e0\u05e2\u05d9\u05d3 \u05e2\u05e0\u05d3\u05db\u05dd \u05d5\u05d9\u05e1\u05d9\u05e1\u05ea</li>\n<li>\u05dc\u05e0\u05d0 \u05d5\u05d0\u05df \u05d5\u05d2\u05d3\u05ea \u05dc\u05dc\u05d2\u05d5\u05d1\u05df \u05e1\u05d5\u05e7 \u05e4\u05d0\u05d1\u05d9\u05e2\u05de\u05de\u05dc\u05d0 \u05ea\u05d3\u05e2\u05d4 \u05d5\u05e7\u05e8\u05e6\u05d9\u05df</li>\n<li>\u05d2\u05d5\u05d1\u05df \u05d0\u05d9\u05e6\u05d0 \u05d5\u05d2\u05d4\u05e0\u05d0 \u05de\u05e2 \u05e8 \u05d9\u05d5\u05e1\u05e3 [ ]\u05d9 \u05d0\u05e7\u05d1\u05e6\u05d4\u05dd</li>\n<li>\u05d5\u05d0\u05d1\u05d9\u05e2\u05d4\u05dd \u05d5\u05d0\u05df \u05db\u05d0\u05df \u05e0\u05e4\u05d3\u05ea \u05d3\u05d9\u05df [ ]\u05d0\u05d2\u05d4 \u05e4\u05d5\u05d2\u05d4 \u05d0\u05dc\u05d9\u05e0\u05d0</li>\n<li>\u05d1\u05e9\u05e8\u05d7 \u05d3\u05d0\u05dc\u05da \u05e2\u05e0\u05d4 \u05d0\u05dc\u05d9\u05e0\u05d0 \u05d1\u05d2\u05de[ ] \u05de\u05d0 \u05e0\u05d7\u05ea\u05d0\u05df</li>\n<li>\u05df \u05ea\u05db\u05d1[ ]\u05e2\u05dc\u05de\u05d4 [ ]\u05d1\u05d4 \u05d5[</li>\n<li>\u05d0\u05dc\u05e2\u05d0\u05dc\u05de\u05d9\u05df [ ]\u05e0\u05e3\u05dc\u05da [ ] \u05d0\u05dc\u05d2\u05d6\u05d0</li>\n<li>\u05d5\u05d0\u05d1\u05d5 \u05d0\u05dc\u05d2\u05e1\u05df \u05d0\u05e2\u05d6\u05d4 \u05d0\u05dc\u05dc\u05d4 [ ]\u05e8\u05d4 \u05d0\u05e9\u05d0\u05e8\u05d5</li>\n<li>]\u05e0\u05d0[ ]\u05df \u05e0\u05e2\u05d0\u05dc \u05e6\u05e4\u05e8\u05d7 \u05e4\u05d0\u05dc\u05d0\u05e1\u05db\u05e0\u05d3\u05e8\u05d9\u05d4</li>\n<li>]\u05dc\u05d5\u05d0\u05e0\u05d0 [ ] \u05d3\u05db\u05e8\u05d1 [ ]\u05de\u05d0 \u05d1\u05d0\u05e8\u05d1\u05d0</li>\n<li>]\u05e8 \u05d1\u05d0\u05dc\u05e1\u05dc\u05d0\u05dd \u05d5\u05d1\u05e0\u05d9 \u05de\u05df \u05d9\u05d1\u05dc\u05d2\u05da \u05d0\u05e0\u05e6\u05dc</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
