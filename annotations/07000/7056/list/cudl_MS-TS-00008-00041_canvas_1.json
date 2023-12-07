@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00008-00041%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F7056%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/27f2ddd7-cfb9-4773-825a-31ac8d12f077/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:54:47.335191+00:00",
+      "modified": "2023-12-07T16:54:47.335216+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-00041/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7056/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1538.838 410.7285 1622.4705 687.645 2137.275 704.3715 3464.244 641.1825 3438.225 130.095 1970.01 165.4065\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d1</li>\n<li>\u05d2\u05de\u05d9\u05e2</li>\n<li>\u05dc\u05e0\u05d0</li>\n<li>.\u05dc\u05d4</li>\n<li>\u05e7\u05e8</li>\n<li>\u05e2\u05dc\u05d9 \u05d1\u05d5..\u05d9\u05dd</li>\n<li>\u05d0\u05dc.\u05d5.\u05d4</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/d3401940-5376-400e-bb5c-f11a94c4a0f9/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:54:47.496580+00:00",
+      "modified": "2023-12-07T16:54:47.496609+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-00041/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7056/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3495.8385 1628.046 3497.697 3029.355 1880.802 3120.4215 1564.857 3096.261 1418.0355 2473.6635 1282.365 2217.1905 1176.4305 2140.992 1102.0905 1910.538 992.439 1834.3395 869.778 1787.877 366.1245 1626.1875 170.982 1490.517 133.812 1343.6955 139.3875 581.7105 360.549 637.4655 1096.515 691.362 3256.092 585.4275 3527.433 620.739\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05db\u05ea\u05d0\u05d1\u05d4 \u05d0\u05dc\u05d9\u05da \u05d9\u05d0\u05db\u05d9\u05d3 \u05d0\u05e9\u05e2\u05dc \u05d0\u05dc\u05dc\u05d4 \u05d1\u05e7\u05d0\u05da \u05d5\u05d0\u05d3\u05d0\u05d3\u05d8 [</li>\n<li>.\u05d0... .. \u05d2\u05d4 \u05d9\u05e2 \u05e9\u05d5\u05d4 \u05d0\u05d9\u05e8 \u05e9\u05d3\u05d9\u05e8</li>\n<li>\u05dc.... \u05e2\u05dc\u05d9 \u05d0\u05e1\u05e8 ...... \u05d5\u05db\u05e8 .....\u05d4 \u05d5\u05dc\u05d9 \u05d3\u05dc\u05da .\u05d0\u05d3..</li>\n<li>]..... \u05d0\u05e2\u05e8\u05e4\u05da [ \u05d9\u05d3\u05d9 \u05d0\u05df \u05d7\u05d0\u05dc\u05da \u05d0\u05dc\u05dd [</li>\n<li>] \u05d0\u05dc\u05e7\u05e8\u05e1\u05d4\u05d5 \u05d5\u05d5\u05dc\u05d3\u05d4 \u05d5\u05e7\u05d3 \u05d3\u05e4\u05e8 \u05d0\u05df \u05dc\u05d0 \u05db[</li>\n<li>\u05e2\u05e0\u05e9\u05d9 \u05d0\u05db\u05d3\u05ea\u05d4 \u05dc\u05d9 \u05d0\u05dc\u05e7\u05d0\u05e8 \u05de[</li>\n<li>] \u05d5\u05d7\u05d5\u05d0\u05dc\u05d9\u05d3 \u05d5\u05d0[ ] [</li>\n<li>\u05e4\u05e7 \u05d0\u05dc. \u05dc \u05ea\u05dc\u05e4\u05d9\u05e8\u05d9</li>\n<li>\u05d0\u05df .\u05d0</li>\n<li>\u05dc\u05da \u05d0.[</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
