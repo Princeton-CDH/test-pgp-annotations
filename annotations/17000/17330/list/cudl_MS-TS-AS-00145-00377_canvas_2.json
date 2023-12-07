@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AS-00145-00377%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F17330%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/733950fd-d408-4e6c-962a-fd6545af8e07/",
+      "type": "Annotation",
+      "created": "2023-12-07T17:38:04.079665+00:00",
+      "modified": "2023-12-07T17:38:04.079692+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00145-00377/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/17330/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2040.102 1548.396 1223.424 1637.604 1002.528 1068.372 366.39 994.032 192.222 580.914 272.934 224.082 1585.566 121.068 1823.454 614.898\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>[</li>\n<li>\u05d0 \u05ea\u05dc\u05de\u05d3\u05d9\u05de\u05dc\u05dc \u05de\u05dc\u05d0[</li>\n<li>  \u05d5 </li>\n<li>[</li>\n<li>]</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}

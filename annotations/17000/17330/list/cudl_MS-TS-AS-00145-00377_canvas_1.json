@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AS-00145-00377%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F17330%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/b8422fbc-63f0-4c6b-9421-e9989eb3cff2/",
+      "type": "Annotation",
+      "created": "2023-12-07T17:38:03.519286+00:00",
+      "modified": "2023-12-07T17:38:03.519308+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00145-00377/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/17330/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"901.361 139.165 1105.8265 58.8775 1423.765 14.987 1782.3825 13.9165 1959.015 264.4135 1957.9445 457.1035 1956.874 533.109 1925.8295 771.8305 1840.1895 990.2125 1140.0825 942.04 846.7655 1599.327 410.0015 1637.865 96.345 1388.4385 302.9515 642.3 502.0645 402.508 529.8975 313.6565 634.8065 264.4135\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li></li>\n<li>\u05d0\u05dc\u05e1</li>\n<li> [</li>\n<li>  </li>\n<li>\u05d0[</li>\n<li></li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
