@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AS-00146-00180%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F17367%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/f8cebcf3-6866-4daf-99a6-41a3078efcb0/",
+      "type": "Annotation",
+      "created": "2023-12-07T17:38:49.689403+00:00",
+      "modified": "2023-12-07T17:38:49.689425+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00180/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/17367/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"570.969 5.985 859.446 23.94 1062.936 51.471 1483.083 29.925 1599.192 0.0 1588.419 208.278 1641.087 201.096 2087.568 201.096 2117.493 557.802 2237.193 529.074 2234.799 608.076 2213.253 617.652 2221.632 717.003 2263.527 892.962 2021.733 888.174 1945.125 858.249 1945.125 959.994 1984.626 1059.345 2019.339 1059.345 2021.733 1015.056 2057.643 1015.056 2079.189 977.949 2124.675 1072.512 2079.189 1095.255 1984.626 1072.512 1908.018 1139.544 910.917 1162.287 878.598 1132.362 648.774 1116.801 701.442 1036.602 627.228 1006.677 708.624 998.298 717.003 977.949 671.517 955.206 357.903 1096.452 310.023 1001.889 178.353 855.855 171.171 798.399 126.882 774.459 126.882 685.881 59.85 183.141 275.31 223.839 355.509 96.957 402.192 208.278 502.74 9.576\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li> \u05e4</li>\n<li>\u05e9\u05de\u05df \u05d9\u05d1\u05d9\u05d5\u05df \u05e8\u05e8 \u05ea\u05d1\u05d5\u05e7\u05dd</li>\n<li>\u05d5\u05e2\u05e7\u05d1 \u05e8\u05d6\u05e7\u05df \u05e8\u05d8\u05e8 \u05d0\u05e8\u05d9 \u05e8\u05df[</li>\n<li>\u05e8\u05d0\u05e9 \u05d4\u05e1\u05d3\u05e8</li>\n<li>\u05e9\u05dc\u05d5\u05dd \u05dc\u05e2\u05d5\u05d3\u05e3 \u05d5\u05d1\u05e8\u05db\u05d5\u05ea \u05e0\u05e7\u05d9\u05e1\u05e3 \u05d5\u05d7[</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
