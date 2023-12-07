@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AS-00146-00200%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F17374%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/e6618611-04b4-4027-8d4b-f52443af718b/",
+      "type": "Annotation",
+      "created": "2023-12-07T17:38:58.539591+00:00",
+      "modified": "2023-12-07T17:38:58.539615+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00200/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/17374/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"757.229 196.0415 984.697 318.7545 1267.5355 365.146 2110.065 393.5795 2184.89 422.013 2193.869 475.887 2271.687 543.2295 2289.645 516.2925 2374.9455 543.2295 2654.791 516.2925 2710.1615 562.684 2692.2035 785.6625 2720.637 1058.0255 2767.0285 1162.7805 2804.441 1586.29 2784.9865 1752.4015 2885.252 2024.7645 2500.6515 2083.128 2365.9665 2134.009 2244.75 2072.6525 2213.3235 1846.681 1801.786 1875.1145 1875.1145 1912.527 1661.115 1978.373 1061.0185 1930.485 1058.0255 1902.0515 1004.1515 1902.0515 1058.0255 1875.1145 975.718 1864.639 860.4875 1780.835 327.7335 1714.989 270.8665 1198.6965 290.321 993.676 17.958 977.2145 154.1395 933.816 56.867 858.991 236.447 815.5925 211.0065 858.991 206.517 818.5855 478.88 797.6345 248.419 739.271 543.2295 731.7885 722.8095 694.376 656.9635 673.425 691.383 653.9705 450.4465 653.9705 261.8875 607.579 196.0415 475.887 196.0415 356.167 233.454 187.0625 294.8105 178.0835\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d0\u05dc\u05de\u05de\u05d0\u05dc[</li>\n<li>\u05d1\u05e9[ ] \u05e8\u05d7\u05d6\u05de\u05d5\u05d0</li>\n<li>... \u05d0\u05dc\u05e7\u05e8\u05dd \u05d9\u05d4\u05d5\u05d4</li>\n<li>\u05d0\u05dc[ ] . ... .... ..\u05d5...</li>\n<li>\u05d5\u05e8\u05d5\u05d7 \u05e0\u05e8\u05d9\u05d1\u05d5\u05ea \u05d5\u05e9\u05e0\u05d9\u05dd \u05d4\u05d1\u05d9\u05d1\u05d5\u05ea \u05d5\u05e0\u05d0\u05d4\u05d1\u05d5\u05ea \u05d5\u05e8\u05d5\u05d1\u05d9 \u05d2\u05e0\u05d9\u05d9</li>\n<li>\u05d8\u05d5\u05d1\u05d5\u05ea \u05dc\u05d0\u05dc\u05e4\u05d9\u05dd \u05d5\u05dc\u05e8\u05d1 \u05d1\u05d5\u05ea \u05d0\u05db\u05e9\u05e8\u05d5\u05df \u05dc\u05d1\u05d1\u05d5\u05ea \u05d5\u05d0\u05de\u05e8\u05d5\u05ea</li>\n<li>\u05e2\u05d3\u05d9\u05d1\u05d5\u05ea \u05de\u05d0\u05ea \u05e9\u05d5\u05db\u05df \u05e9\u05d1\u05d5\u05ea \u05d9\u05d5\u05e2\u05e1\u05db\u05d5 \u05d5\u05e2\u05e0\u05d3\u05d5</li>\n<li>\u05d5\u05d9\u05d6\u05d0\u05e4\u05e1\u05d5 \u05e2\u05dc \u05e8\u05d0\u05e9\u05d9 \u05d4\u05d0\u05d7\u05d9\u05d4</li>\n<li>\u05d9\u05d5\u05db\u05ea\u05e8\u05d5</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
