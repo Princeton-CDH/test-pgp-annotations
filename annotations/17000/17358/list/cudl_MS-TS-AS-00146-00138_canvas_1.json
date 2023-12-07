@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AS-00146-00138%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F17358%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/c5697467-1606-46db-ac76-2eafc2861c4d/",
+      "type": "Annotation",
+      "created": "2023-12-07T17:38:38.411757+00:00",
+      "modified": "2023-12-07T17:38:38.411788+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00138/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/17358/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"680.5408 392.4286 680.5408 2158.3575 543.9359 3949.1237 548.9034 3968.9935 680.5408 4771.2369 4649.5343 4771.2369 4666.9204 3238.7782 4671.8878 2771.8378 2073.9109 2466.3395 1179.7697 442.1032\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d2\u05dc\u05d9\u05dc</li>\n<li>\u05e2\u05dc</li>\n<li>\u05d0\u05df\u05d9</li>\n<li>\u05d5\u05dc\u05e9\u05ea\u05dc</li>\n<li>\u05d5\u05e1\u05d5\u05dd \u05d0\u05dc\u05d0</li>\n<li>\u05dc\u05de\u05d0 \u05e1\u05d2\u05d9</li>\n<li>\u05d5\u05e1\u05d2\u05d9\u05df \u05d3\u05d9\u05df</li>\n<li>\u05d0\u05dc\u05dc\u05d4 \u05de\u05df \u05db\u05dc\u05d8[</li>\n<li>\u05dc\u05de\u05d0\u05dc[</li>\n<li>\u05e9\u05e8 \u05d5\u05e0\u05e1\u05e8 \u05de\u05d5\u05e6\u05db\u05ea. \u05de[</li>\n<li>\u05e8\u05d0\u05ea\u05d4 \u05d5\u05d0\u05dc\u05e1\u05d9\u05dc\u05da \u05e1\u05e2 \u05db..\u05d9 \u05d5\u05dc\u05d9 \u05d0\u05dc\u05d9\u05d5\u05dd</li>\n<li> \u05d0\u05db\u05d9\u05e9............. \u05d5\u05ea\u05de\u05df</li>\n<li>\u05de\u05df \u05dc\u05de\u05e0\u05d5 \u05e9\u05e9 \u05de\u05d0 \u05d4\u05d7\u05e2\u05e2\u05de\u05d9\u05df \u05d5\u05de\u05d0\u05d0</li>\n<li>\u05e0\u05d3 \u05ea\u05e8\u05d0\u05e7\u05d9 \u05d5\u05d1\u05de\u05d0 \u05d7\u05e1\u05d0\u05e7\u05d9</li>\n<li> \u05d4\u05d4 \u05d0\u05e8 \u05de\u05dc\u05d9\u05d5\u05e7[</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    },
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/9051d722-348e-4787-b2c2-c3d36d367c28/",
+      "type": "Annotation",
+      "created": "2023-12-07T17:38:38.552456+00:00",
+      "modified": "2023-12-07T17:38:38.552477+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00138/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/17358/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"248.3726 452.0381 101.8327 3099.6895 101.8327 3102.1733 248.3726 4542.7341 593.6104 4537.7666 576.2243 3896.9654 638.3175 3112.1082 638.3175 3109.6244 653.2198 2362.023 653.2198 2354.5719 678.0571 1435.5934 675.5734 1428.1422 603.5453 452.0381\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d0\u05d3\u05e4\u05df\u05de\u05ea</li>\n<li>\u05d0\u05dc[</li>\n<li>\u05e9\u05ea \u05d1\u05e2</li>\n<li></li>\n<li>\u05d0\u05dc\u05dc\u05d4</li>\n<li>\u05d5\u05dc\u05e1\u05d0\u05e8\u05e8\u05d4</li>\n<li>\u05de\u05d9\u05e2\u05d4\u05dd</li>\n<li>\u05d0..\u05dc.[</li>\n<li>\u05e8\u05d1\u05e2</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
