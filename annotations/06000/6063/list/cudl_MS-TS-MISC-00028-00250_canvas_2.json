@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-MISC-00028-00250%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F6063%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/e5c542c2-c3d3-4b44-9a66-226b2bcf4b41/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:54:16.165132+00:00",
+      "modified": "2023-12-07T16:54:16.165161+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-MISC-00028-00250/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/6063/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3576.242 495.172 4594.0955 471.5924 4696.2739 730.9682 4672.6943 1092.5223 4617.6752 1171.121 3709.8599 1249.7197 2613.4076 1171.121 2267.5732 1041.4331 1281.1592 1041.4331 1151.4713 986.414 1257.5796 935.3248 1198.6306 884.2357 259.3758 884.2357 259.3758 471.5924 365.4841 392.9936 1906.0191 365.4841\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05dc\u05e1\u05d9\u05d3\u05d9 \u05d5\u05d3 \u05d9\u05e1\u05d9 \u05e0\u05d2\u05dc\u05d5\u05dc\u05d5 \u05d0\u05d1\u05d0\u05dd \u05dc\u05e4\u05e8\u05d2 \u05d9\u05d5\u05e1\u05e3 \u05d0\u05df</li>\n<li>\u05de\u05df \u05de\u05d5\u05de\u05d9\u05df \u05d0\u05d0\u05df \u05ea\u05e7\u05e7[</li>\n<li>\u05d9\u05e2\u05e7\u05d5\u05d1 \u05d0\u05d1\u05df \u05e2\u05d5\u05d1\u05dc \u05d4\u05dc\u05d0\u05dc \u05d0\u05e0\u05d9\u05d0\u05de\u05d5\u05df \u05ea\u05e2\u05d0\u05dc</li>\n<li>\u05dc\u05d3 \u05d1\u05d7\u05d7\u05d4 \u05d5\u05d0\u05d3\u05d0\u05dd ..\u05d0\u05de\u05de\u05d4</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
