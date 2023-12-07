@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AS-00150-00023%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F3182%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/ab370ab6-30c5-4bd1-8c1d-ba94b64c1c01/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:54:07.699372+00:00",
+      "modified": "2023-12-07T16:54:07.699398+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00150-00023/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/3182/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1447.0979 159.962 2334.3289 186.0023 2323.1688 2613.3324 1283.4159 2698.8934 457.5657 2698.8934 321.784 2550.0916 358.9844 2464.5305 358.9844 2343.629 308.7638 2278.5282 345.9643 1599.6198 297.6037 1363.3969 234.3629 1322.4764 223.2028 1112.2938 271.5634 805.39 372.0046 615.6676 358.9844 531.9666 595.2074 405.485 569.1671 297.6037 693.7886 186.0023 1447.0979 159.962\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05e4\u05d9 \u05d7\u05db\u05d0 \u05dc\u05d4 \u05d5\u05d2\u05d4 \u05d9\u05ea\u05d2\u05d4 \u05d0\u05dc\u05d9\u05d4\u05d0\u05dc\u05d0 \u05d0\u05dc[</li>\n<li>\u05e7\u05d3 \u05e9\u05de\u05dc \u05d0\u05dc\u05db\u05d0\u05e5 \u05d5\u05d0\u05dc\u05e2\u05d0\u05dd \u05d5\u05e7\u05d3[ ]\u05d0\u05dc\u05e0\u05d9[</li>\n<li>\u05d1\u05e7\u05d9 \u05de\u05d5\u05e9\u05d9\u05e2 \u05dc\u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05e2\u05d8\u05dc \u05db\u05d0\u05dc\u05e7 \u05ea\u05e2[</li>\n<li>\u05d0\u05dc\u05dc\u05d4 \u05e1\u05d1\u05d7\u05d0\u05e0\u05d4 \u05d5\u05ea\u05d2\u05ea\u05e0\u05dd \u05d4\u05d3\u05d0 \u05d0\u05dc\u05ea\u05d5\u05d0\u05d1 \u05d0\u05dc[</li>\n<li>\u05d0\u05d5\u05e4\u05d0 \u05de\u05df \u05e9\u05d1\u05d5\u05d9 \u05d5\u05ea\u05e2\u05ea\u05e7\u05d4 \u05dc\u05d5\u05d2\u05ea[</li>\n<li>\u05d0\u05dc\u05ea\u05dc\u05d0\u05e3 \u05d5\u05e9\u05db\u05e8 \u05d4\u05d3\u05e8\u05ea\u05d4 \u05db\u05e4\u05d5\u05dc \u05de\u05df \u05d4[</li>\n<li>\u05d5\u05d0\u05dc\u05e1\u05d5\u05d0\u05dc \u05e4\u05d9 \u05d0\u05df \u05dc\u05d0 \u05d9\u05db\u05d5\u05df \u05ea\u05e1\u05d5\u05e0\u05d9\u05d4 \u05d5\u05dc\u05d4\u05d0</li>\n<li>\u05ea\u05e4\u05e2\u05dc\u05d4 \u05de\u05e2 \u05e2\u05d1\u05d9\u05d3\u05d4\u05d0 \u05d5\u05e9\u05dc\u05d5\u05dd \u05d4\u05d3\u05d4</li>\n<li>\u05d9\u05d4\u05d9 \u05e9\u05de\u05dd \u05dc\u05e2\u05d5\u05dc\u05dd \u05db\u05d9\u05e8\u05d7 \u05d9\u05db\u05d5\u05e2\u05d5\u05dc \u05dd[</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
