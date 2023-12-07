@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00010-J-00018-00007%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F2926%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/fd49a70f-3b60-40ba-9a9a-515bc822cb79/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:53:59.120987+00:00",
+      "modified": "2023-12-07T16:53:59.121031+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00010-J-00018-00007/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/2926/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2508.4205 1561.6626 2531.1948 1642.9992 2335.987 1799.1654 2531.1948 1971.599 2488.8998 2075.7099 3028.9747 2212.3553 3074.5232 3464.9389 2986.6797 5677.2942 2342.4939 5742.3635 2052.9356 5612.2249 1190.7677 5589.4507 520.5542 5813.9397 432.7107 5696.815 390.4156 5046.1222 367.6414 1669.0269 475.0057 1581.1834 1691.8011 1538.8883\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05e0\u05de \u05e8\u05d7\u05de \u05e2\u05d1\u05d3\u05d4 \u05de\u05d5\u05e6\u05d5\u05e8 \u05db\u05d4\u05df</li>\n<li>\u05de\u05d0\u05dc\u05e1 \u05ea\u05e6\u05e8\u05d4 \u05de\u05d5\u05dc\u05d0\u05d9 \u05d5\u05e1\u05d9\u05d3\u05d9</li>\n<li> ]\u05de\u05d0 \u05dc\u05da \u05d0\u05dc\u05de\u05d5\u05e2\u05dd \u05d0\u05dc\u05d0\u05de\u05d9\u05df</li>\n<li>\u05d0\u05dc\u05de\u05ea\u05e4\u05e6\u05dc \u05d0\u05dc\u05e6\u05d9\u05d9\u05df \u05d0\u05dc\u05d2\u05dc\u05d9\u05dc \u05d0\u05d3\u05d0\u05dd \u05d0\u05dc\u05dc\u05d4 \u05d1\u05e7\u05d0\u05d4</li>\n<li>\u05e0\u05e1\u05e4\u05d0\u05e0\u05d9 \u05e4\u05d9\u05d4 \u05d5\u05dc\u05d0 \u05d9\u05db\u05dc\u05d9 \u05de\u05df \u05ea\u05e4\u05e6\u05dc\u05d4</li>\n<li>\u05de\u05df</li>\n<li>\u05d5\u05d0\u05e0\u05e2\u05d4</li>\n<li>\u05d5\u05d9\u05e8\u05d4\u05d9 \u05d0\u05dc\u05d9\u05da \u05d1\u05d0\u05e0\u05d9 \u05e7\u05d3 \u05d0\u05de\u05ea\u05ea\u05dc\u05ea \u05de\u05d0</li>\n<li>\u05db\u05d0\u05df</li>\n<li>\u05d0\u05dc\u05de\u05d5\u05dc\u05d0 \u05e7\u05d3 \u05e7\u05d0\u05dc\u05d4 \u05dc\u05d0\u05dc\u05de\u05de\u05dc\u05d5\u05da \u05de\u05df \u05d0\u05d4\u05e8</li>\n<li>\u05d0\u05dc\u05de\u05d5\u05dc\u05d0 \u05d0\u05dc\u05d0\u05d2\u05dc \u05d0\u05dc\u05e8\u05d9\u05d9\u05e1 \u05d0\u05dc\u05d0\u05db\u05d9\u05e1\u05df \u05d0\u05dc\u05e9\u05d9\u05da</li>\n<li>\u05d6\u05db\u05d1\u05d9 \u05e9\u05e6 \u05d5\u05d0\u05e0\u05d4 \u05de\u05d0 \u05e2\u05d0\u05d3 \u05d9\u05db\u05dc\u05dd \u05d0\u05d7\u05d3</li>\n<li>\u05d0\u05d1\u05d5</li>\n<li>\u05d1\u05d0\u05dc\u05db\u05de\u05d0 \u05d3\u05db\u05db\u05dc\u05d9 \u05d0\u05d5\u05d4\u05dd\u05d9 \u05e4\u05e2\u05dc\u05d9 \u05e4\u05d9 \u05d7\u05e7\u05d9\u05d4</li>\n<li>\u05d0\u05de\u05e0\u05d4\u05dd</li>\n<li>\u05d0\u05e9\u05d9\u05d9 \u05d5\u05de\u05e0\u05d4\u05dd \u05dc\u05dc\u05e6\u05de\u05d6 \u05d5\u05d0\u05dc\u05d5\u05dc\u05dd \u05d9\u05e1\u05d0\u05d3\u05d3 \u05dc\u05d1\u05e8</li>\n<li>\u05db\u05dc</li>\n<li>\u05d5\u05e0\u05e9\u05ea\u05d4\u05d9 \u05de\u05df \u05ea\u05e4\u05e6\u05dc \u05de\u05d5\u05dc\u05d0\u05d9 \u05d1\u05d0\u05df \u05ea\u05e0\u05e2\u05e1 \u05d0\u05e2\u05e7\u05d4</li>\n<li>\u05e2\u05e0\u05d9 \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05dc\u05d0\u05e9\u05d9\u05d3 \u05d0\u05d1\u05d5 \u05d0\u05dc\u05d7\u05e1\u05df \u05de\u05df \u05db\u05dc \u05d1\u05d3</li>\n<li>\u05e0\u05ea\u05e2\u05e8</li>\n<li>\u05e4\u05d4</li>\n<li>\u05d0\u05d1\u05e0\u05d9 \u05d0\u05d8\u05d0\u05dc\u05d0 \u05d0\u05dc\u05d3\u05d9 \u05db\u05d0\u05df \u05e7\u05ea\u05e4\u05e4\u05d0\u05dc \u05d1\u05df</li>\n<li>\u05d5\u05d0\u05db\u05d1\u05d4</li>\n<li>].[</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
