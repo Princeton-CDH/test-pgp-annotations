@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00008-00061%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F7067%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/5c82b3fe-596e-4f6f-be73-ef7af7e0617f/",
+      "type": "Annotation",
+      "created": "2023-12-07T16:55:13.463667+00:00",
+      "modified": "2023-12-07T16:55:13.463707+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-00061/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7067/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3484.68 259.86 3512.37 385.53 3503.85 1759.38 3563.49 1665.66 3725.37 1665.66 3755.19 1693.35 3755.19 1942.56 3716.85 2040.54 3667.86 2061.84 3667.86 2098.05 3716.85 2110.83 3716.85 2215.2 3574.14 2204.55 3544.32 2021.37 3484.68 2349.39 2847.81 2379.21 2458.02 2447.37 1354.68 2447.37 1133.16 2406.9 1103.34 2294.01 803.01 2078.88 694.38 1934.04 413.22 1767.9 270.51 1729.56 172.53 1546.38 134.19 1188.54 144.84 259.86 191.7 191.7 685.86 153.36\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05de\u05e2\u05e9\u05d4 \u05e9\u05d4\u05d9\u05d4 \u05dc\u05e4\u05e0\u05d9\u05e0\u05d5 \u05d0\u05e0\u05d5 \u05d1\u05d9\u05ea \u05d3\u05d9\u05df \u05d5\u05d2 \u05db\u05d9 \u05d4\u05e8\u05d4\u05dd \u05dc\u05e8 \u05d8\u05e0\u05d0</li>\n<li>\u05d5\u05d0\u05df \u05db\u05dc\u05e4\u05d9</li>\n<li>\u05e8 \u05d0\u05e4\u05e8\u05d9\u05dd \u05d4\u05db\u05d4\u05df \u05d1\u05d9\u05e8 \u05e6\u05d1\u05d9\u05d0\u05df \u05e0\u05e2 \u05d5\u05e7\u05d0\u05dc \u05dc\u05e0\u05d0 \u05d0\u05e0\u05ea\u05dd \u05e2\u05d6\u05de\u05d9\u05df</li>\n<li>\u05e8 \u05d9\u05e2\u05e7\u05d5\u05d1 \u05d4\u05e6\u05d4\u05df \u05d1\u05d9\u05e8 \u05d9\u05e2\u05d9\u05e9 \u05e1\u05d0\u05e4\u05e8 \u05de\u05df \u05d4\u05d5\u05e0\u05d0 \u05de\u05df \u05de\u05e6\u05e8 \u05e4\u05d9\u05d6\u05de\u05d0\u05df</li>\n<li>\u05d3\u05d0\u05e8 \u05d0\u05dc\u05d5\u05e7\u05ea \u05d0\u05dc\u05e6\u05e2\u05d1 \u05d5\u05d0\u05db\u05e8 \u05e6\u05d1\u05d9\u05d0\u05e0\u05d4 \u05de\u05e2\u05d4 \u05d0\u05dc\u05ea\u05d9 \u05d4\u05d0</li>\n<li>\u05dc\u05e6\u05e8\u05d5\u05ea \u05d5\u05d0\u05dc\u05d3\u05e2\u05d1</li>\n<li>\u05d1\u05e2\u05d3</li>\n<li>\u05d2\u05dc\u05d9\u05dc\u05d4 \u05d1\u05d9\u05e8 \u05de\u05e0\u05e9\u05d4 \u05d6\u05de\u05e6\u05d0 \u05d1\u05d4\u05d0 \u05dc\u05d3\u05d9\u05d0\u05e8 \u05d7\u05dc\u05d1 \u05d5\u05ea\u05dd \u05e8\u05d2\u05e2</li>\n<li>\u05d3\u05dc\u05da \u05de\u05d0\u05e4\u05e8 \u05d1]\u05d0 \u05dc\u05e8\u05d7\u05d1\u05d4 \u05d5\u05e7\u05d3 \u05d5\u05e6\u05dc \u05db\u05ea\u05d0\u05d1 \u05d4\u05d3\u05d4 \u05d0\u05dc\u05d0\u05de\u05e8\u05d0\u05d4</li>\n<li>\u05d5\u05ea\u05e8\u05db\u05d4 \u05db\u05ea\u05d5\u05d1\u05ea\u05d4\u05d0 \u05d4\u05d5\u05e0\u05d0</li>\n<li>\u05d0\u05dc\u05d3 \u05d0\u05e1\u05de\u05d4\u05d0</li>\n<li>\u05d0\u05dc\u05e8\u05d7\u05e7 \u05d5\u05e7\u05e7\u05d5\u05dc \u05d0\u05df \u05e8 \u05d9\u05e2\u05e7\u05d1 \u05d4\u05db\u05d4\u05df \u05e8\u05e0\u05df \u05d5\u05d2\u05e2 \u05d5\u05de[</li>\n<li>\u05d1\u05d9\u05e8 \u05d9\u05e2\u05d9\u05e9 \u05de\u05df</li>\n<li>] \u05d9\u05de\u05e7\u05d5\u05d1 \u05e8\u05e0\u05da \u05de\u05df \u05de\u05d5\u05d4</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
