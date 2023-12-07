@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AS-00146-00107%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F17344%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/d0b61443-791d-47a6-957e-680c84d41d38/",
+      "type": "Annotation",
+      "created": "2023-12-07T17:38:21.421584+00:00",
+      "modified": "2023-12-07T17:38:21.421609+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00107/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/17344/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2471.48 1807.03 1661.81 1935.81 1480.97 1637.15 1175.46 1398.77 1035.72 1337.12 1002.84 1274.1 934.34 1242.59 934.34 1182.31 879.54 1157.65 743.91 1219.3 721.99 1142.58 621.98 1039.83 639.79 916.53 612.39 943.93 516.49 932.97 479.5 893.24 438.4 883.65 300.03 923.38 87.68 791.86 105.49 487.72 161.66 304.14 380.86 349.35 652.12 342.5 668.56 310.99 782.27 302.77 2333.11 295.92 2460.52 1452.2\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d8\u05d5\u05e7\u05d4 \u05e8\u05e4\u05d0 \u05d5\u05d0\u05dc\u05e4\u05e7\u05d9\u05e8\u05d4 \u05d0\u05dc\u05d0\u05de\u05dc\u05d4 [</li>\n<li>\u05d0\u05d1\u05df \u05d1\u05d9\u05d0\u05df \u05e2\u05e0\u05d3\u05e0\u05d0 \u05e4\u05d9\u05d2[</li>\n<li>\u05de\u05d5\u05dc\u05d5 \u05d0\u05dc\u05de\u05d4\u05d3\u05d4 \u05d5\u05ea\u05d1 \u05e9\u05de</li>\n<li>\u05d0\u05dc\u05d4 \u05d4\u05d8 \u05d9\u05e1\u05e7\u05dd \u05e2\u05dc\u05d9\u05da</li>\n<li>\u05d5\u05e8\u05d9\u05d3 \u05d5\u05d9\u05e9\u05e8</li>\n<li>\u05d0\u05d1\u05d5 \u05d0\u05dc\u05d7\u05e6</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ]
+    }
+  ]
+}
