@@ -4,10 +4,11 @@
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/f514c35e-3d03-43c6-a201-1f7dcf05a892/",
+      "etag": "\"270bc3c387b730ab2270820f92002aa4\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/a636f1b1-df90-4cbc-9329-b6e2a644e8b2/",
       "type": "Annotation",
-      "created": "2023-02-08T15:51:39.924989+00:00",
-      "modified": "2023-02-08T15:51:39.925025+00:00",
+      "created": "2024-11-27T17:11:11.316052+00:00",
+      "modified": "2024-11-27T17:11:11.316077+00:00",
       "dc:source": "https://geniza.princeton.edu/sources/796/",
       "target": {
         "source": {
@@ -19,21 +20,21 @@
         },
         "selector": {
           "type": "FragmentSelector",
-          "value": "xywh=pixel:1264.8076171875,574.9535522460938,425.4388427734375,2442.8235473632812",
+          "value": "xywh=pixel:269,796.8923950195312,446.37786865234375,823.8327026367188",
           "conformsTo": "http://www.w3.org/TR/media-frags/"
         }
       },
       "body": [
         {
           "type": "TextualBody",
-          "label": "lalala",
-          "value": "<p>hello</p>",
+          "label": "test",
+          "value": "<p>test</p>",
           "format": "text/html"
         }
       ],
       "motivation": [
         "sc:supplementing",
-        "transcribing"
+        "translating"
       ],
       "schema:position": 1
     }
