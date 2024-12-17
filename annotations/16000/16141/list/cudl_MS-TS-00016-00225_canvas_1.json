@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00016-00225%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F16141%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"d0ea5ce228d3b0d4ea5ea3e4d37656df\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/7f6d9ee3-16f9-4dfe-8f0e-5e666697471e/",
+      "type": "Annotation",
+      "created": "2024-12-17T20:02:34.592764+00:00",
+      "modified": "2024-12-17T20:02:34.592807+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00016-00225/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/16141/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1000.61 887.84 930.8 497.62 1000.61 299.825 1857.125 319.515 1897.4 369.635 1887.555 847.565 1756.885 917.375\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>25 \u05d1\u05d7\u05d1\u05d5\u05e8\u05d4 \u05d6( )</li>\n<li>26 \u05d9\u05e9\u05d5\u05e2\u05d4 \u05d4\u05dc\u05d5(\u05d9 )</li>\n<li>27 \u05d0\u05de\u05e6\u05d0 \u05dc\u05d4 ( )</li>\n<li>28 \u05d5\u05dc\u05e8\u05d0\u05d9\u05d4 \u05d5\u05db( )</li>\n<li>29 \u05de\u05e6\u05e8\u05d9\u05dd ( )</li>\n<li>30 \u05d9\u05e4\u05ea \u05d1( )</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
