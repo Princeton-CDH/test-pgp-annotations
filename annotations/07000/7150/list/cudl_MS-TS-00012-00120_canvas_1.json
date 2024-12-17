@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00012-00120%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F7150%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"e1b7343030b6b1a466f8902e4b932092\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/2922c828-56ed-49d8-8cd2-a8d177850946/",
+      "type": "Annotation",
+      "created": "2024-12-17T20:00:40.619962+00:00",
+      "modified": "2024-12-17T20:00:40.619986+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00012-00120/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7150/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2386.3775 706.8404 4289.5716 730.0501 4384.5203 801.7891 4338.1009 2637.4641 4407.73 3605.9409 4312.7813 4245.2622 1559.2688 4314.8913 683.6307 4219.9426 614.0016 2804.1518 637.2113 1228.0033 755.3697 1198.4637 683.6307 848.2085 801.7891 755.3697 2386.3775 706.8404\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>14 \u05d7\u05dc\u05e4\u05d5\u05df \u05d1\u05d9\u05e8 \u05d2\u05d0\u05dc\u05d1 \u05d4\u05d7\u05d6\u05df \u05e0\u05e2: \u05d7\u05dc\u05e4\u05d5\u05df \u05d1\u05e8 \u05d0\u05e8\u05d7 \u05e1\u05d8</li>\n<li>15 \u05d9\u05d5\u05e1\u05e3 \u05d1\u05e8 \u05e0\u05e2\u05de\u05d0\u05df \u05e0\u05e2</li>\n<li>16 \u05d0\u05ea\u05e7\u05d9\u05d9\u05dd \u05db\u05ea\u05d1\u05d0 \u05d3\u05e0\u05df \u05e7\u05d3\u05de\u05e0\u05d0 \u05d1\u05d1\u05d9 \u05d3\u05d9\u05e0\u05d0 \u05d1\u05de\u05d5\u05ea\u05d1 \u05ea\u05dc\u05ea\u05d4 \u05db\u05d7\u05d3\u05d0 \u05d4\u05d5\u05d9\u05e0\u05d0</li>\n<li>17 \u05d3\u05e0\u05d5\u05e1\u05d7\u05d9\u05d4 \u05d5\u05e9\u05d4\u05d3\u05d9\u05d4 \u05db\u05ea\u05d9\u05d1\u05d9\u05df \u05dc\u05e2\u05d9\u05dc\u05d0 \u05d5\u05e7\u05d9\u05d5\u05de\u05d9\u05d4 \u05de\u05d9\u05e0\u05d9\u05d4 \u05d5\u05d1\u05d9\u05d4 \u05dc\u05ea\u05d7\u05ea\u05d0</li>\n<li>\u05d1\u05db\u05ea\u05d1 \u05d9\u05d3\u05d9</li>\n<li>18 \u05e9\u05d4\u05d3\u05d9\u05d0 \u05d0\u05d9\u05dc\u05d9\u05df \u05d3\u05d7\u05ea\u05d9\u05de\u05d9\u05df \u05e2\u05dc\u05d5\u05d4\u05d9 \u05d5\u05d0\u05d9\u05e0\u05d5\u05df \u05d7\u05dc\u05e4\u05d5\u05df \u05d1\u05d9\u05e8 \u05d2\u05d0\u05dc\u05d1 \u05d4\u05d7\u05d6\u05df</li>\n<li>\u05e0\u05e2: \u05d7\u05dc\u05e4\u05d5\u05df \u05d1\u05e8 \u05d0\u05e8\u05d7 \u05e1\u05d8 \u05d9\u05d5\u05e1\u05e3 \u05d1\u05e8 \u05e0\u05e2\u05de\u05d0\u05df \u05e0\u05e2 \u05d1\u05e1\u05d9\u05de\u05e0\u05d9\u05d4\u05d5\u05df</li>\n<li>19 (\u05d5\u05de\u05d3\u05d0)\u05ea\u05d5 \u05dc\u05e7\u05d3\u05de\u05e0\u05d0 \u05ea\u05e8\u05d9 \u05e9\u05d4\u05d3\u05d9 \u05d5\u05d0\u05e9\u05d4\u05d9\u05d3\u05d5 \u05e2\u05dc \u05d7\u05ea\u05de\u05d5\u05ea \u05d9\u05d3\u05d9\u05d4\u05d5\u05df</li>\n<li>\u05d3\u05d7\u05dc\u05e4\u05d5\u05df \u05d1\u05d9\u05e8 \u05d2\u05d0\u05dc\u05d1 \u05d4\u05d7\u05d6\u05df \u05e0\u05e2 \u05d5\u05d7\u05dc\u05e4\u05d5\u05df \u05d1\u05e8 \u05d0\u05e8\u05d7 \u05e1\u05d8 \u05d0\u05d9\u05dc\u05d9\u05df</li>\n<li>\u05ea\u05e8\u05d5\u05d9\u05d4\u05d5\u05df</li>\n<li>20 \u05d5\u05d0\u05de\u05e8\u05d5 \u05d3\u05d3\u05d0 \u05d4\u05d9\u05d0 \u05d7\u05ea\u05de\u05d5\u05ea \u05d9\u05d3\u05d9 \u05ea\u05e8\u05d5\u05d9\u05d4\u05d5\u05df \u05d1\u05e1\u05d9\u05de\u05d5\u05e0\u05d4 \u05d0\u05d9\u05e9\u05e8\u05e0\u05d5\u05d4\u05d9</li>\n<li>\u05d5\u05e7\u05d9\u05d9\u05de\u05e0\u05d5\u05d4\u05d9 \u05db\u05d3\u05d7\u05d6\u05d9</li>\n<li>21 \u05d9\u05e6\u05d7\u05e7 \u05d1\u05d9\u05e8 \u05e9\u05de\u05d5\u05d0\u05dc \u05d4\u05e1\u05e4\u05e8\u05d3\u05d9 \u05d6\u05db \u05dc\u05d7 \u05d4\u05e2 \u05d4\u05d1: \u05e2\u05d5\u05dc\u05d4 \u05d4\u05dc\u05d5\u05d9 \u05d1\u05d9\u05e8 \u05d9\u05d5\u05e1\u05e3</li>\n<li>\u05d1 \u05d9\u05d9\u05d9 \u05d0 \u05dc \u05e4</li>\n<li>\u05d7 \u05d0 \u05d1</li>\n<li>\u05d6\u05e6\u05dc</li>\n<li>22 \u05d7\u05dc\u05e4\u05d5\u05df \u05d4\u05dc\u05d5\u05d9 \u05d1\u05d9\u05e8 \u05de\u05e0\u05e9\u05d4 \u05e0\u05e2</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
