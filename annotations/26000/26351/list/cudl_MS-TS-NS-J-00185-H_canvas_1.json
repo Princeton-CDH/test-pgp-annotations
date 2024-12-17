@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-NS-J-00185-H%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F26351%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"9fbfdd90aecae09ac5aac006ca355d5a\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/f50e0563-75d5-4edd-82b3-ec5b3cdbb81c/",
+      "type": "Annotation",
+      "created": "2024-12-17T20:03:06.202928+00:00",
+      "modified": "2024-12-17T20:03:06.202944+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-J-00185-H/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/26351/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1811.7139 263.1299 1818.6157 835.1139 1760.8134 941.2285 1607.2491 989.5409 490.8882 980.051 356.3037 941.2285 298.5014 873.9363 301.0896 380.4599 302.815 281.247 446.8894 280.3843\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>13 \u05de\u05e8\u05d7\u05e9\u05d5\u05df \u05d3(\u05e9\u05e0\u05ea \u05d0)\u05ea\u05dc\u05d1 \u05dc\u05e9\u05d8\u05e8\u05d5\u05ea \u05d1\u05e4\u05e1\u05d8\u05d0\u05d8 \u05de\u05e6\u05e8\u05d9\u05dd \u05d3\u05e2\u05dc \u05e0\u05d9\u05dc\u05d5\u05e1</li>\n<li>\u05e0\u05d4\u05e8\u05d0 \u05de\u05d5\u05ea\u05d1\u05d4 \u05e9(\u05e8\u05d9\u05e8 )</li>\n<li>14 ( )\u05d2\u05d4\u05d8(\u05d0 )\u05d9 \u05e9\u05de\u05e2\u05d9(\u05d4 \u05d4)\u05d7\u05d1\u05e8 \u05e0\u05d1\u05ea\u05d5\u05d9\u05d0 \u05e0\u05d9\u05df</li>\n<li>\u05e9\u05de\u05e2\u05d9\u05d4\u05d5 \u05d2\u05d0(\u05d5\u05df \u05e0)\u05e2</li>\n<li>15 ( \u05d9\u05e6)\u05d7\u05e7 \u05d1\u05d9\u05e8 \u05e9\u05de\u05d5\u05d0(\u05dc ) \u05d6\u05db \u05dc\u05d7 \u05d4\u05e2 \u05d4\u05d1</li>\n<li>\u05d0 \u05dc \u05e4</li>\n<li>\u05d7\u05dc\u05e4\u05d5\u05df ( )</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
