@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Ftest-geniza.cdh.princeton.edu%2Fdocuments%2F40088%2Fiiif%2Ftextblock%2F40655%2Fcanvas%2F1%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F40088%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"35dba18bb878e2a7c9f04529fd5c96b9\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/0d8f7a3d-ed2d-4f80-88bc-95179c5cbff6/",
+      "type": "Annotation",
+      "created": "2024-12-17T20:03:31.933170+00:00",
+      "modified": "2024-12-17T20:03:31.933185+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://test-geniza.cdh.princeton.edu/documents/40088/iiif/textblock/40655/canvas/1/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/40088/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"551.85 81.8908 548.9813 499.4295 476.2184 510.9046 110.3178 505.1671 103.0155 86.3244 485.6072 84.238\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>1 \u05e9\u05d4\u05d3\u05d5\u05ea\u05d0 \u05d3\u05d4\u05d5\u05ea \u05d1\u05d0\u05e0\u05e4\u05e0\u05d0 \u05d0\u05e0\u05df \u05e9\u05d4\u05d3\u05d9 \u05d3(\u05d7\u05ea\u05de\u05d5\u05ea )</li>\n<li>2 \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d5 \u05d0\u05dc\u05e4\u05e6\u05dc \u05db\u05d2\u05e7 \u05de\u05e8\u05d5\u05e8 \u05e6\u05d3\u05e7\u05d4 \u05d4\u05d6(\u05e7\u05df )</li>\n<li>3 \u05db\u05d2\u05e7 \u05de\u05e8\u05d5\u05e8 \u05e9\u05de\u05e8\u05d9\u05d4 \u05d4\u05d6\u05e7\u05df \u05d4\u05e0\u05db\u05d1\u05d3 \u05e0\u05d1\u05e2 ( )</li>\n<li>4 \u05de\u05e8\u05d5\u05e8 \u05e9\u05dc\u05de\u05d4 \u05d4\u05dc\u05d5\u05d9 \u05d4\u05d6\u05e7\u05df \u05d4\u05e0\u05db\u05d1\u05d3 \u05d9\u05e9\u05e6\u05d5 ( )</li>\n<li>5 \u05d1\u05df \u05d0\u05dc\u05d0\u05de\u05e2\u05d8 \u05d5\u05d0\u05db\u05ea\u05d4 \u05e9\u05e7\u05d9\u05e7\u05ea\u05d4 \u05d4\u05e0\u05e7\u05e8\u05d0\u05ea ( )</li>\n<li>6 \u05d5\u05d0\u05ea\u05e4\u05e7\u05ea \u05de\u05dc\u05d9\u05d7\u05d4 \u05d3\u05d0 \u05de\u05e2 \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d5 ( )</li>\n<li>7 \u05d4\u05d1\u05d4 \u05d1\u05df \u05d0\u05d1\u05d5 \u05e1\u05e2\u05d3 \u05d0\u05dc\u05de\u05d3\u05db\u05d5\u05e8 \u05d0\u05dc\u05db\u05d8 \u05d0\u05dc\u05e2\u05e8\u05d1\u05d9 ( )</li>\n<li>8 \u05e2\u05dc\u05d9 \u05d3\u05dc\u05da \u05d3\u05d9\u05e0\u05d0\u05e8\u05d9\u05df \u05e1\u05d5\u05d0 \u05d5\u05d0\u05d6\u05e0\u05d4 \u05de\u05e6\u05e8\u05d9\u05d4 \u05d5\u05d0\u05dc( )</li>\n<li>9 \u05d0\u05dc\u05d3\u05d9 \u05d0\u05e1\u05ea\u05e7\u05e8 \u05ea\u05e2\u05dc\u05d9\u05de\u05d4 \u05d0\u05d9\u05d0\u05d4 \u05d1\u05d0\u05dc\u05d3\u05d9\u05e0\u05d0\u05e8\u05d9\u05df ( )</li>\n<li>10 \u05d9\u05db\u05ea\u05d1 \u05db\u05ea\u05d0\u05d1 \u05d1\u05d9\u05d3\u05d4 \u05de\u05df \u05d2\u05d9\u05e8 \u05e0\u05e7\u05e5 \u05e4\u05d9 \u05d0\u05dc\u05d4\u05d2\u05d0 \u05d5( )</li>\n<li>11 \u05ea\u05d2\u05dc\u05d8 \u05d5\u05d0\u05d9 \u05e9\u05d9 \u05d0\u05de\u05dc\u05d9 \u05e2\u05dc\u05d9\u05d4 \u05db\u05ea\u05d1\u05d4 \u05d1\u05d4\u05d2\u05d0 ( )</li>\n<li>12 \u05d5\u05d0\u05de\u05d0 \u05de\u05df \u05d0\u05dc\u05d7\u05e1\u05d0\u05d1 \u05d0\u05dc\u05d1\u05e7\u05e1\u05d0\u05ea \u05d5\u05d0\u05dc\u05d3\u05e7\u05d0\u05ea ( )</li>\n<li>13 \u05d5\u05e2\u05de\u05dc \u05dc\u05d0 \u05d6\u05d0\u05d9\u05d3 \u05e2\u05df \u05d3\u05dc\u05da \u05d5\u05d0\u05e1\u05ea\u05e7\u05e8 \u05d0\u05dc\u05e7\u05d9\u05d0\u05e1 \u05dc\u05dc\u05e9(\u05d9\u05da )</li>\n<li>14 \u05d0\u05d9 \u05d5\u05e7\u05ea \u05d0\u05dc\u05ea\u05de\u05e1\u05d4\u05d0 \u05d5\u05dc\u05d0 \u05ea\u05d5\u05db\u05e8 ( )</li>\n<li>15 \u05d4\u05d3\u05d0 \u05d0\u05dc\u05e9\u05e8\u05d8 \u05dc\u05d9\u05db\u05d5\u05df \u05e9( )</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
