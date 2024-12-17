@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00008-J-00004-00018%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F7629%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"862ab8a284e1d4220820c73bf2a3002d\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/b8063f54-34fd-47ee-878d-a7fcb3c267db/",
+      "type": "Annotation",
+      "created": "2024-12-17T20:01:24.920400+00:00",
+      "modified": "2024-12-17T20:01:24.920427+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-J-00004-00018/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7629/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2810.2504 434.3616 2886.0913 522.6128 2901.2595 675.6736 2886.0913 1563.7017 2701.3153 1701.5942 2302.8058 1748.4777 675.6736 1733.3095 537.781 1686.426 445.393 1578.8698 445.393 706.0099 490.8975 475.7293 598.4537 445.393\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>\u05e2\u05dc \u05db\u05dc \u05d9\u05d5\u05e8\u05e9(\u05d9) \u05d0\u05d7\u05e8\u05d9 \u05db\u05e9\u05e0\u05d9 \u05e2\u05d3\u05d9\u05dd</li>\n<li>14 \u05db\u05e9\u05e8\u05d9\u05dd \u05e0\u05d0\u05de\u05e0\u05d9\u05dd \u05d5\u05dc\u05d9\u05e1 \u05e2\u05dc\u05d9 \u05d5\u05d0\u05d7\u05d3 \u05de\u05e0\u05d4\u05dd \u05e4\u05d9 \u05e9\u05d9 \u05de\u05df \u05d3\u05dc\u05da \u05d5\u05dc\u05d0 \u05e4\u05d9</li>\n<li>\u05e1\u05d5\u05d0\u05d4 \u05e9\u05d5\u05dd \u05e9\u05d1\u05d5\u05e2\u05d4 \u05d1\u05e2\u05d5\u05dc\u05dd \u05dc\u05d0</li>\n<li>15 \u05e9\u05d1\u05d5\u05e2\u05d4 \u05e7\u05d9\u05dc\u05ea\u05d0 \u05d5\u05dc\u05d0 \u05e9\u05d1\u05d5\u05e2\u05d4 \u05d7\u05de\u05d9\u05e8\u05ea\u05d0 \u05d5\u05dc\u05d0 \u05d0\u05e4\u05d9\u05dc\u05d5 \u05d7\u05e8\u05dd \u05d5\u05dc\u05d9\u05e1 \u05dc\u05d0\u05d7\u05d3</li>\n<li>\u05de\u05df \u05d5\u05e8\u05d0\u05ea\u05d9 \u05d1\u05e2\u05d3\u05d9 \u05e2\u05dc\u05d9</li>\n<li>16 \u05d0\u05d7\u05d3\u05d4\u05dd \u05dc\u05d0 \u05e4\u05d9 \u05d0\u05dc\u05d2\u05de\u05e2 \u05d5\u05dc\u05d0 \u05e4\u05d9 \u05d0\u05dc\u05ea\u05e4\u05e8\u05d9\u05d3 \u05d0\u05e2\u05ea\u05e8\u05d0\u05e5 \u05e4\u05d9 \u05e9\u05d9 \u05de\u05df</li>\n<li>\u05db\u05e4\u05e0\u05d9 \u05d5\u05dc\u05d0 \u05d8\u05dc\u05d1 \u05d1\u05d6\u05d0\u05d9\u05d3 ( )</li>\n<li>17 ( )</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
