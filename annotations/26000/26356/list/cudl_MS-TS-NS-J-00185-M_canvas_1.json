@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-NS-J-00185-M%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F26356%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"7eaf11af344786646cf3a794174e3511\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/000ea0fa-afbe-4e9d-8714-857246a75eb8/",
+      "type": "Annotation",
+      "created": "2024-12-17T20:03:10.525153+00:00",
+      "modified": "2024-12-17T20:03:10.525169+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-J-00185-M/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/26356/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3072.4097 1588.9021 1451.5698 1553.7706 1342.9816 1499.4764 1271.1217 1392.485 1325.4158 1109.8361 1181.696 752.1336 1451.5698 554.1196 2377.764 536.5539 3342.2835 522.1819 3466.8406 787.2651 3484.4064 1320.6252 3287.9893 1536.2048\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>1( ) \u05d0\u05dc\u05de( )</li>\n<li>2 \u05d5\u05dc\u05e8\u05d0\u05d9\u05d4 \u05d5\u05db\u05d0\u05df \u05d3\u05dc\u05da \u05e4\u05d9 \u05d0\u05dc\u05e2\u05e9\u05e8 ( )</li>\n<li>3 \u05de\u05d0\u05d4 \u05d5\u05ea\u05dc\u05ea\u05d9\u05df \u05d5\u05d7\u05de\u05e9\u05d4 \u05e9\u05e0\u05d9\u05df \u05dc\u05de\u05e0\u05d9(\u05df )</li>\n<li>4 \u05de\u05e6\u05e8\u05d9\u05dd \u05d3\u05e2\u05dc \u05e0\u05d9\u05dc\u05d5\u05e1 \u05e0\u05d4\u05e8\u05d0 \u05de\u05d5(\u05ea\u05d1\u05d4 )</li>\n<li>5 \u05ea\u05dc\u05d9 \u05d1\u05d9\u05e0\u05d9 \u05e9\u05d9\u05d8\u05d9 \u05d1\u05d4\u05d0: \u05d5\u05db( )</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
