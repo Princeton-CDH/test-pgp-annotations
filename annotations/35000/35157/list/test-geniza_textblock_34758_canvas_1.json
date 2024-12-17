@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Ftest-geniza.cdh.princeton.edu%2Fdocuments%2F35157%2Fiiif%2Ftextblock%2F34758%2Fcanvas%2F1%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F35157%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"67f37bd781cf084a1967a6126e36a57a\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/462ffe1b-c175-48fb-8328-d31af5388853/",
+      "type": "Annotation",
+      "created": "2024-12-17T20:03:28.861505+00:00",
+      "modified": "2024-12-17T20:03:28.861522+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://test-geniza.cdh.princeton.edu/documents/35157/iiif/textblock/34758/canvas/1/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/35157/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"556.499 88.4744 563.3047 102.8712 569.3252 190.2986 527.9673 213.8569 241.0798 210.7157 208.8834 199.1984 217.5215 182.184 205.7423 129.3088 242.3885 91.8773 352.3272 90.3067\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>1 ( ) \u05e9\u05e0\u05d9 \u05d4\u05d3\u05d9\u05d9\u05e0\u05d9\u05dd \u05d4\u05e7(\u05d1\u05d5\u05e2\u05d9\u05dd )</li>\n<li>2 ( )\u05e2\u05dc\u05d0 \u05de\u05e8\u05d5\u05e8 \u05e2\u05d5\u05dc\u05d4 \u05d4\u05d6\u05e7\u05df ( )</li>\n<li>3 ( ) \u05e0\u05e2 \u05d1\u05d2\u05de\u05dc\u05d4 \u05de\u05d1(\u05dc\u05d2 )</li>\n<li>4 ( ) \u05d5\u05d0\u05d7\u05e6(\u05e8 )</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
