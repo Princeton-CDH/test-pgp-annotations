@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00010-J-00028-00011%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F2986%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"bdea21b0d9368e68f65af4458f47c08d\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/5c85e7b9-dcc1-4e7f-9991-102d9e622d45/",
+      "type": "Annotation",
+      "created": "2024-12-17T14:46:57.271781+00:00",
+      "modified": "2024-12-17T14:46:57.271812+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1139/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00010-J-00028-00011/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/2986/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"4630.7801 764.633 4673.7624 5164.6658 3583.3687 5182.7637 1038.3625 5182.7637 784.993 5108.1102 757.8463 2581.2018 834.762 2479.4016 757.8463 2246.3921 757.8463 1063.247 859.6465 757.8463\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>\u05ea\u05e7\u05d4 \u05e4\u05d0\u05d7\u05e6\u05e8 \u05d0\u05dc\u05e9\u05d9\u05da</li>\n<li>15 \u05d0\u05d1\u05d5 \u05de\u05d5\u05e1\u05d9 (\u05d4)\u05e8\u05d5\u05df \u05db\u05d2\u05e7 \u05de\u05e8\u05d5\u05e8 \u05d0\u05d4\u05e8\u05df \u05d4\u05db\u05d4\u05df \u05d4\u05d6\u05e7\u05df \u05d9\u05e9\u05e6\u05d5 (</li>\n<li>\u05d9\u05e9\u05d5)\u05e2\u05d4 \u05d4\u05db\u05d4\u05df \u05d4\u05d6\u05e7\u05df \u05e0\u05e2 \u05e4\u05e6\u05de\u05df</li>\n<li>16 ( ) \u05d1\u05d4\u05d3\u05d4 \u05d0\u05dc\u05de\u05d0\u05d9\u05d4 \u05d5\u05db\u05de\u05e1\u05d5\u05df \u05d3\u05d9\u05e0\u05d0\u05e8\u05d0 \u05d5\u05d0\u05e9\u05d4(\u05d3\u05d5</li>\n<li>\u05d0\u05dc)\u05e9\u05d9\u05da \u05d0\u05d1\u05d5 \u05e1\u05e2\u05d9\u05d3 \u05de\u05db\u05dc\u05d5\u05e3</li>\n<li>17 \u05d0\u05dc\u05e0\u05d0\u05de\u05df \u05d9\u05e9\u05e6\u05d5 \u05d0\u05dc\u05d9 \u05d0\u05dc\u05d0\u05e1\u05db\u05e0\u05d3\u05e8\u05d9\u05d4 \u05e1\u05d0\u05dc\u05de\u05d0( )\u05d4</li>\n<li>\u05d5\u05d0\u05e2\u05d0\u05e7 \u05e2\u05df</li>\n<li>18 \u05ea\u05e8\u05e4\u05d4 \u05d0\u05dc\u05de\u05d3\u05e2\u05d0\u05d4 \u05e1\u05ea \u05d0\u05dc\u05db\u05de\u05d0\u05dc \u05d3\u05d0 \u05d0\u05dc\u05e7\u05d9\u05d0\u05dd ( )</li>\n<li>19 \u05d1\u05d9\u05ea \u05d3\u05d9\u05df \u05d9\u05d3\u05db\u05e8 \u05e4\u05d9\u05d4 \u05d0\u05df \u05e7\u05d3 \u05d2\u05d0\u05d6\u05ea \u05d0\u05dc\u05db\u05de\u05e1\u05d4 \u05e2\u05e9\u05e8 ( )</li>\n<li>20 \u05e4\u05d9 \u05e9\u05d9 \u05de\u05e0\u05d4 \u05d1\u05d7\u05d2\u05d4 \u05db\u05dc \u05e2\u05d9\u05e7\u05e8 \u05db\u05d0\u05df \u05e2\u05dc\u05d9\u05d4 \u05d0\u05dc\u05e7\u05d9\u05d0\u05dd ( )</li>\n<li>21 \u05ea\u05d0\u05db\u05d9\u05e8 \u05d5\u05dc\u05d0 \u05d0\u05d7\u05ea\u05d2\u05d0\u05d2 \u05d1\u05d7\u05d2\u05d4 \u05d5\u05db\u05d3\u05dc\u05da \u05d0\u05dc\u05e1\u05d3\u05e1 ( )</li>\n<li>22 \u05d0\u05d9 \u05d5\u05e7\u05ea \u05d7\u05e6\u05e8\u05ea \u05de\u05df \u05d0\u05dc\u05d3\u05d0\u05e8 \u05d3\u05d0 \u05d0\u05dc\u05d9 \u05d1\u05d9\u05ea \u05d3\u05d9\u05df \u05d5( )</li>\n<li>23 ( )\u05e4( )</li>\n<li>24 ( \u05d7)\u05e6\u05d5\u05e8\u05d4\u05d0 \u05d0\u05d9 \u05d1\u05d9\u05ea \u05d3\u05d9\u05df \u05dc\u05ea( )</li>\n<li>25 \u05db\u05de\u05e1\u05d9\u05df \u05d3(\u05d9\u05e0 )\u05d1\u05d9\u05ea \u05d3\u05d9\u05df \u05dc\u05ea\u05ea\u05e1\u05dc\u05de\u05d4\u05d0 \u05d0\u05dc\u05d0\u05dc\u05de\u05e0\u05d4 ( )</li>\n<li>26 \u05de\u05e2 \u05d0\u05dc\u05de\u05d0\u05d9(\u05d4) \u05d3\u05d9\u05e0 \u05d0\u05dc\u05de\u05db\u05ea\u05e6\u05d4 \u05d1\u05d6\u05d5\u05d2\u05d4 \u05d0\u05dc\u05e9\u05d9\u05da ( )</li>\n<li>27 (\u05d4\u05db)\u05d4\u05df \u05d3\u05e0\u05df ( )\u05d4 \u05d1\u05e6\u05de\u05d0\u05df \u05d0\u05dc\u05d3\u05e8\u05da \u05e4\u05d9 \u05d3\u05dc\u05da \u05d5( )</li>\n<li>28 ( )</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
