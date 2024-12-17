@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-NS-J-00378%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F8777%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"cb54ca04403e934dd1d4acfc6247affd\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/8bb4cd2f-b38e-458a-b3bb-413184fad731/",
+      "type": "Annotation",
+      "created": "2024-12-17T20:02:21.722724+00:00",
+      "modified": "2024-12-17T20:02:21.722758+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-J-00378/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/8777/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3671.8469 570.7347 3753.1224 689.9388 3742.2857 1708.5918 3509.2959 1863.9184 1112.5714 1945.1939 731.4796 1923.5204 608.6633 1782.6429 608.6633 872.3571 708.0 626.7245 2533.9898 585.1837\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>\u05e4\u05d9 \u05db\u05dc \u05d3\u05e4\u05e2\u05d4 \u05d9\u05db( )</li>\n<li>15 ( )\u05d0 \u05ea\u05d7\u05ea\u05d0\u05d2 \u05d0\u05dc\u05d9\u05d4 \u05de\u05df \u05de\u05d6\u05d5\u05e0\u05d5\u05ea \u05d8\u05d5\u05dc \u05de\u05d3\u05d4 \u05d0\u05d2\u05dc \u05d0\u05dc\u05d2(\u05d8 \u05d6)\u05de\u05df</li>\n<li>\u05d0\u05d5 \u05ea\u05de\u05e0\u05e2 \u05de\u05df \u05d0\u05dc\u05e1\u05db(\u05df )</li>\n<li>16 ( )\u05de\u05d3\u05db\u05d5\u05e8\u05d4 \u05d5\u05d0\u05e4\u05e8\u05e7 \u05d1\u05d9\u05e0\u05d4\u05d0 \u05d5\u05d1\u05d9\u05e0\u05d4\u05de\u05d0 \u05d5\u05d0\u05db\u05e8\u05d4\u05d4\u05d0 \u05e2\u05dc\u05d9 \u05d0\u05dc\u05e1\u05db\u05df</li>\n<li>\u05db\u05d0\u05e8\u05d2 \u05e2\u05e0\u05d4\u05de\u05d0 ( )</li>\n<li>17 ( ) \u05dc\u05d4\u05d0 \u05e2\u05dc\u05d9\u05d4 \u05db\u05de\u05e1\u05d5\u05df \u05d3\u05d9\u05e0\u05d0\u05e8\u05d0 \u05d1\u05dc\u05e4\u05d8 \u05de(\u05ea\u05e0\u05d4 )</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
