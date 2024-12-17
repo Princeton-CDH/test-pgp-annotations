@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Ftest-geniza.cdh.princeton.edu%2Fdocuments%2F8764%2Fiiif%2Ftextblock%2F29403%2Fcanvas%2F1%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F8764%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"18dc8bcdd3459d97578d3485397f43eb\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/9a389348-c23a-4d4c-8b05-49737a5e7464/",
+      "type": "Annotation",
+      "created": "2024-12-17T20:02:20.471914+00:00",
+      "modified": "2024-12-17T20:02:20.471933+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://test-geniza.cdh.princeton.edu/documents/8764/iiif/textblock/29403/canvas/1/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/8764/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"419.5613 90.723 551.0967 90.463 565.6539 132.0552 562.7945 157.5305 574.4923 166.3688 527.7011 186.905 252.9326 183.0057 252.9326 93.8424\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>1 ( ) \u05d0\u05d1\u05e0\u05d4 \u05d2\u05e2\u05dc \u05e4\u05d3\u05d0\u05d4 \u05d5\u05dc\u05d0 \u05e2\u05d3\u05dd</li>\n<li>2 ( ) \u05d1\u05e7\u05d0\u05d4 \u05d9\u05e4\u05ea \u05d1\u05df \u05de\u05e9\u05d4 \u05e0\u05e2</li>\n<li>3 ( ) \u05d0\u05dc\u05e7\u05d8\u05d0\u05d9\u05e3 \u05d0\u05de\u05d0\u05e0\u05d4 \u05de\u05d5\u05d3\u05d0\u05d4</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
