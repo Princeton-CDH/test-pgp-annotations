@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-NS-J-00401-E%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F26459%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"ffae43c1a1fcdeab5b0eee20edcb7e5b\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/66952493-e7b1-4fd8-a265-bc246fe700d3/",
+      "type": "Annotation",
+      "created": "2024-12-17T20:03:16.018145+00:00",
+      "modified": "2024-12-17T20:03:16.018174+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-J-00401-E/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/26459/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2674.1116 457.7308 2717.222 528.7362 2717.222 1068.8839 2544.7805 1184.2675 1732.023 1155.1046 1593.8162 1191.8753 1389.6758 1191.8753 1388.4079 1172.856 1231.1818 1127.2097 1274.2922 1029.5773 1202.0189 983.9311 1174.1239 658.0673 1101.8506 614.9569 1317.4025 471.6783 1603.9598 442.5154\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>1 ( )\u05e8 \u05de\u05df ( )</li>\n<li>2 ( ) \u05e2\u05df \u05de\u05d2\u05d5 \u05dc\u05e0\u05d0 ( )</li>\n<li>3 ( )\u05e6\u05d0 \u05d0\u05d5 \u05dc\u05de\u05df \u05d0(\u05e6)\u05d0( )</li>\n<li>4 ( )\u05de\u05d4 \u05de\u05d0 ( )</li>\n<li>5 ( ) \u05ea\u05dc( )</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
