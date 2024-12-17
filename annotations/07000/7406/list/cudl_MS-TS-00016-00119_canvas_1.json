@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00016-00119%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F7406%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"0b26f4c995ebd499f10974fd7f3f5dcc\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/8bf02af8-b82f-4a01-875f-cce398239065/",
+      "type": "Annotation",
+      "created": "2024-12-17T20:01:12.416365+00:00",
+      "modified": "2024-12-17T20:01:12.416398+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00016-00119/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7406/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"7049.4125 1256.5735 7322.4285 1533.0897 7441.4355 2544.6489 6891.9033 2898.1696 1533.0897 2859.6673 1218.0713 2583.1512 1218.0713 1533.0897 1375.5805 1218.0713\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>34 ( )\u05ea\u05d1 \u05d9\u05d3\u05d9 \u05e9\u05d4\u05d3\u05d9( )\u05df</li>\n<li>\u05e2\u05dc( \u05d7\u05dc)\u05e4\u05d5\u05df \u05d4\u05dc\u05d5\u05d9 ( )</li>\n<li>35 ( )\u05d4\u05d5\u05df \u05d9(\u05d7)\u05d9\u05d9 \u05d1\u05d9\u05e8 (\u05e9\u05de)\u05d5\u05d0\u05dc \u05e0\u05e2 ( )</li>\n<li>36 ( \u05d7\u05ea)\u05de\u05d5\u05ea \u05d9\u05d3\u05d5\u05d4\u05d9 ( )</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
