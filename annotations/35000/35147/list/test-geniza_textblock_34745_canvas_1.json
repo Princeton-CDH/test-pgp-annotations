@@ -1,0 +1,43 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Ftest-geniza.cdh.princeton.edu%2Fdocuments%2F35147%2Fiiif%2Ftextblock%2F34745%2Fcanvas%2F1%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F35147%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"7f5a505fd2dd096873dee4349ae6cb73\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/46e86b80-564d-4347-b42d-83c177b4cf53/",
+      "type": "Annotation",
+      "created": "2024-12-17T20:03:26.050902+00:00",
+      "modified": "2024-12-17T20:03:26.050922+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://test-geniza.cdh.princeton.edu/documents/35147/iiif/textblock/34745/canvas/1/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/35147/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"296.7889 348.6879 270.1874 339.8207 261.5811 319.2176 270.1874 301.7441 258.4515 266.5363 261.5811 214.3765 234.9796 148.9161 243.8468 120.2282 287.4002 90.2363 423.0155 91.0187 546.3733 91.5403 557.5876 105.6235 551.5892 334.0831 513.5126 351.5566\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>1 \u05d0\u05db\u05ea\u05dc\u05d0\u05e3 \u05d0\u05d2\u05e0(\u05d0\u05e1\u05d4\u05d0 )</li>\n<li>2 \u05d5\u05dc\u05d0 \u05d9\u05e2\u05d3\u05dc \u05d0\u05d7\u05d3 ( )</li>\n<li>3 \u05e2\u05e0\u05d4\u05dd \u05d5\u05e8\u05e6\u05d9( )</li>\n<li>4 \u05de\u05d0 \u05d0\u05dc\u05ea\u05d6\u05de\u05d4 \u05e2(\u05dc\u05d9 )</li>\n<li>5 \u05e1\u05d5\u05e3 \u05d5\u05dc\u05d0 \u05d0\u05dc\u05d0( )</li>\n<li>6 \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d5 \u05e2\u05dc(\u05d9 )</li>\n<li>7 \u05d5\u05d3\u05d5\u05df \u05d5\u05e8\u05d0\u05ea\u05d9 \u05d1(\u05e2\u05d3 )</li>\n<li>8 (\u05e4\u05d9 \u05d5)\u05e1\u05d8 \u05d4\u05d3\u05d4 \u05d0\u05dc\u05e9(\u05e8\u05db\u05d4 )</li>\n<li>9 ( )\u05db\u05e8\u05d9( )</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
