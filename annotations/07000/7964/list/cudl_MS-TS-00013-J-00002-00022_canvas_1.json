@@ -1,0 +1,78 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00013-J-00002-00022%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F7964%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"7e4a4f3ba9b570f5ecab1607e80764a6\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/6e1b4f26-9429-4179-a083-07dda0f2aafc/",
+      "type": "Annotation",
+      "created": "2023-07-27T20:17:45.110981+00:00",
+      "modified": "2023-07-27T20:17:45.110995+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/997/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00002-00022/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7964/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:1254.7266845703125,924.0234985351562,3676.6409912109375,5398.242614746094",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "<ol>\n<li>\n<p>When there appeared before us, we the undersigned, [ &nbsp; son of &nbsp; ], (may he) r(est in) E(den), and [his] wif[e] wh[o&nbsp; &nbsp; &nbsp; ]</p>\n</li>\n<li>\n<p>Is now married to [him &nbsp; ], Bat Shabbetay, (may his) e(nd be) good, [&nbsp; ]</p>\n</li>\n<li>\n<p>That he would act with [&nbsp; &nbsp; ] and not harm h[er</p>\n</li>\n<li>\n<p>And he would go with [ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ] Israel [&nbsp; &nbsp; &nbsp; ] with the daughte[rs&nbsp;</p>\n</li>\n<li>\n<p>&nbsp;he assaulted [ &nbsp; &nbsp; ] exalted [ &nbsp; &nbsp; ] from him in the court, the court had a meeting (with him)</p>\n</li>\n<li>\n<p>about that, as is required of it; and (as for) him, he imposed upon her an obligation as well, that she should not come or</p>\n</li>\n<li>\n<p>go (from their house) except upon his command, and that she should improve her relations with him in accordance with what is required</p>\n</li>\n<li>\n<p>of others like her among the daughters of Israel with their husbands. And we performed a qinyan with him and with her,</p>\n</li>\n<li>\n<p>after each of them confirmed to the other the validity of the information and that which was attributed</p>\n</li>\n<li>\n<p>to him regarding that, a complete and stringent qinyan, with an implement suitable for doing [so, (making it valid) fr]om now on, nullifying</p>\n</li>\n<li>\n<p>any secret dispositions or c[ondition]s. And we wrote and signed (it) to be for both of them as a title of rights and proof.</p>\n</li>\n<li>\n<p>(12 - 14) And that took place on Sunday, the sixteenth of Ab, in the year 1446 of the era of documents, in Fus\u1e6d\u0101\u1e6d, Egypt, situated on the Nile river, (under the) authority of our master Masliah ha-Kohen, head of the religious academy Gaon Jacob, may</p>\n</li>\n<li>&nbsp;</li>\n<li>&nbsp;</li>\n<li>\n<p>his position be for eternity, (and this document is) strong and valid. And he obligated upon himself, this M(r.) \u1e62edaqa, as</p>\n</li>\n<li>\n<p>a part of his qinyan, that neither his mother nor his sister nor anyone of his family (shall have the right)</p>\n</li>\n<li>\n<p>(17 - 18) to intrude upon his wife, and none of them can harass her or harm her, and that he will not raise a hand to hit her, nor desert (her), nor hide</p>\n</li>\n<li>&nbsp;</li>\n<li>\n<p>in concealment (as if) deserting (her). And we wrote and signed (it) to be a title and proof, (a document) strong and valid.</p>\n</li>\n<li>\n<p>Nathan ha-Kohen son of Solomon ha-Kohen, (may he) rest in) E(den), \u1e24alfon ha-Levi son of Menasse, (may he) r(est in) E(den).</p>\n</li>\n</ol>\n<p>&nbsp;</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"e810dd2e4a4d829706085243b89b1c05\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/0f37f193-3aff-4606-a5ae-6d5dcea79262/",
+      "type": "Annotation",
+      "created": "2024-12-17T20:02:04.278204+00:00",
+      "modified": "2024-12-17T20:02:04.278238+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00002-00022/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7964/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"5225.5501 847.2494 5512.1944 1022.28 5626.3447 1585.4218 5255.9902 1955.7763 4771.4853 2069.9267 938.5697 2069.9267 596.1186 1785.8191 626.5587 1136.4303 740.709 880.2262\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>18 \u05d5\u05d0\u05d7\u05d3 \u05de\u05e0\u05d4\u05dd \u05d5\u05d0\u05e0\u05d4 \u05dc\u05d0 \u05d9\u05de\u05d3 \u05d9\u05d3\u05d4 \u05d0\u05dc\u05d9\u05d4\u05d0 \u05d1\u05e6\u05e8\u05d1 \u05d5\u05dc\u05d0 \u05d9\u05d4\u05e8\u05d1 \u05d5\u05dc\u05d0 \u05d9\u05d2\u05d9\u05d1</li>\n<li>19 \u05d2\u05d9\u05d1\u05d4 \u05d4\u05e8\u05d1 \u05d5\u05db\u05ea\u05d1\u05e0\u05d0 \u05d5\u05d7\u05ea\u05de\u05e0\u05d0 \u05d3\u05dc\u05d9\u05d4\u05d5\u05d9 \u05dc\u05d6\u05db\u05d5 \u05d5\u05dc\u05e8\u05d0\u05d9\u05d4 \u05e9\u05e8\u05d9\u05e8 \u05d5\u05e7\u05d9\u05d9\u05dd</li>\n<li>20 \u05e0\u05ea\u05df \u05d4\u05db\u05d4\u05df \u05d1\u05e8 \u05e9\u05dc\u05de\u05d4 \u05d4\u05db\u05d4\u05df \u05e0\u05e2 \u05d7\u05dc\u05e4\u05d5\u05df \u05d4\u05dc\u05d5\u05d9 \u05d1\u05d9\u05e8 \u05de\u05e0\u05e9\u05d4 \u05e0\u05e2</li>\n<li>\u05d7 \u05e9 \u05ea \u05d5</li>\n<li>\u05d0 \u05d0 \u05de</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2,
+      "textGranularity": "block"
+    }
+  ]
+}
