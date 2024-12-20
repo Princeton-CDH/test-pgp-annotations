@@ -4,11 +4,11 @@
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "etag": "\"f31fd80178dd346ed187917464c113b6\"",
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/8c5e1e7a-2f9d-410f-8f12-743e1fc280a6/",
+      "etag": "\"71e18a38230b1b407343eef45e9cc8dd\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/26ce91e8-774e-4e50-8e1e-7a0458798c32/",
       "type": "Annotation",
-      "created": "2024-12-17T19:59:39.368602+00:00",
-      "modified": "2024-12-17T19:59:39.368620+00:00",
+      "created": "2024-12-20T18:53:00.795290+00:00",
+      "modified": "2024-12-20T18:53:00.795309+00:00",
       "dc:source": "https://geniza.princeton.edu/sources/166/",
       "target": {
         "source": {
@@ -19,8 +19,9 @@
           }
         },
         "selector": {
-          "type": "SvgSelector",
-          "value": "<svg><polygon points=\"548.6093 92.7152 545.6954 423.0464 468.8742 437.6159 385.1656 437.6159 197.351 434.702 114.702 416.9536 103.0464 337.4834 104.6358 77.8808 545.6954 77.8808\"></polygon></svg>"
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
         }
       },
       "body": [
