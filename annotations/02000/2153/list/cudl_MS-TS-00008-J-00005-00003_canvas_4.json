@@ -1,26 +1,27 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Ftest-geniza.cdh.princeton.edu%2Fdocuments%2F2153%2Fiiif%2Ftextblock%2F36244%2Fcanvas%2F5%2F&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F2153%2Fiiif%2Fmanifest%2F",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00008-J-00005-00003%2Fcanvas%2F4&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F2153%2Fiiif%2Fmanifest%2F",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "etag": "\"fb54fc02d749b849879afcaf0b1df441\"",
+      "etag": "\"af96b4d51456dab1aa37dca59c2a38b1\"",
       "id": "https://test-geniza.cdh.princeton.edu/annotations/aeac5d96-12ac-4792-90f5-2e5607293207/",
       "type": "Annotation",
       "created": "2024-12-17T19:59:55.779896+00:00",
-      "modified": "2024-12-17T19:59:55.779937+00:00",
+      "modified": "2024-12-20T18:15:47.590344+00:00",
       "dc:source": "https://geniza.princeton.edu/sources/166/",
       "target": {
         "source": {
-          "id": "https://test-geniza.cdh.princeton.edu/documents/2153/iiif/textblock/36244/canvas/5/",
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-J-00005-00003/canvas/4",
           "type": "Canvas",
           "partOf": {
             "id": "https://geniza.princeton.edu/documents/2153/iiif/manifest/"
           }
         },
         "selector": {
-          "type": "SvgSelector",
-          "value": "<svg><polygon points=\"536.2659 84.8256 548.0837 105.5724 536.2659 439.8851 548.0837 495.5601 548.0837 654.7066 202.4785 656.0197 132.0968 647.3533 120.279 615.0513 117.3902 524.7107 146.5408 444.8748 146.5408 413.3607 132.0968 392.0886 117.3902 266.032 114.2388 96.6434 152.581 87.977 457.7431 84.8256\"></polygon></svg>"
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
         }
       },
       "body": [
@@ -36,7 +37,7 @@
         "sc:supplementing",
         "transcribing"
       ],
-      "schema:position": 2,
+      "schema:position": null,
       "textGranularity": "block"
     }
   ]
