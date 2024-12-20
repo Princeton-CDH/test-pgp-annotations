@@ -4,11 +4,11 @@
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "etag": "\"f02497d7c9b4fd6147bf07ec8afaf898\"",
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/0e4c4b1a-f330-41ce-bcc3-5801f792ddd6/",
+      "etag": "\"1f15ec4ffb114ac48aa87f9f89dd7f61\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/5c5c58bc-48d0-4d32-85bd-b43372274a61/",
       "type": "Annotation",
-      "created": "2024-12-17T20:02:12.874379+00:00",
-      "modified": "2024-12-17T20:02:12.874399+00:00",
+      "created": "2024-12-20T18:57:34.790100+00:00",
+      "modified": "2024-12-20T18:57:34.790116+00:00",
       "dc:source": "https://geniza.princeton.edu/sources/166/",
       "target": {
         "source": {
@@ -19,8 +19,9 @@
           }
         },
         "selector": {
-          "type": "SvgSelector",
-          "value": "<svg><polygon points=\"542.6777 75.6364 545.0579 709.8182 76.6942 711.405 91.2397 91.2397 114.7769 79.3388 212.0992 76.4298\"></polygon></svg>"
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
         }
       },
       "body": [
@@ -40,11 +41,11 @@
       "textGranularity": "block"
     },
     {
-      "etag": "\"a9223dfd18ff14c2af575eebee15a388\"",
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/0c538b8d-e36e-4570-8169-ba6988d94afa/",
+      "etag": "\"e6fb9146c56a88d7347f022c7f57023a\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/6a6606f2-2b28-4a6f-bbeb-cfc96584e09c/",
       "type": "Annotation",
-      "created": "2024-12-17T20:02:13.152443+00:00",
-      "modified": "2024-12-17T20:02:13.152464+00:00",
+      "created": "2024-12-20T18:57:35.523160+00:00",
+      "modified": "2024-12-20T18:57:35.523183+00:00",
       "dc:source": "https://geniza.princeton.edu/sources/166/",
       "target": {
         "source": {
@@ -55,8 +56,9 @@
           }
         },
         "selector": {
-          "type": "SvgSelector",
-          "value": "<svg><polygon points=\"536.4512 85.3685 537.2417 452.9271 528.5467 485.072 472.9518 493.767 198.9296 490.8687 114.0881 487.9704 81.9432 476.3771 67.1881 147.5504 77.464 87.7398 479.5389 84.8415\"></polygon></svg>"
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
         }
       },
       "body": [
