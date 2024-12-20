@@ -109,11 +109,11 @@
       "schema:position": 1
     },
     {
-      "etag": "\"2fc85a7810b61e3c0e950091b1bb7e15\"",
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/0d84963b-3a60-4650-baa7-a55b0a290f2f/",
+      "etag": "\"bf8e69cfbf1768814d6c11d2baa16702\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/0467883b-37e1-4fb2-a7fd-8646fb87b6e4/",
       "type": "Annotation",
-      "created": "2024-12-17T20:16:58.168051+00:00",
-      "modified": "2024-12-17T20:16:58.168072+00:00",
+      "created": "2024-12-20T19:30:02.076180+00:00",
+      "modified": "2024-12-20T19:30:02.076201+00:00",
       "dc:source": "https://geniza.princeton.edu/sources/954/",
       "target": {
         "source": {
@@ -124,8 +124,9 @@
           }
         },
         "selector": {
-          "type": "SvgSelector",
-          "value": "<svg><polygon points=\"6692.5659 4251.2116 5550.0121 4365.1415 2320.9141 4404.2031 1324.8416 4163.3229 1324.8416 1705.6929 1331.3519 1702.4377 1370.4135 1484.3434 2636.6626 1448.5369 6103.3857 1402.9649 6747.9033 1402.9649 6943.2116 1848.919 6956.2322 4052.6481\"></polygon></svg>"
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
         }
       },
       "body": [
