@@ -4,48 +4,11 @@
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "etag": "\"035df9a387970a49cd998c8e549552d7\"",
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/b1c27e61-bf5f-4fb5-b199-7dd0953a6983/",
-      "type": "Annotation",
-      "created": "2025-01-14T18:38:17.235047+00:00",
-      "modified": "2025-01-14T18:38:17.235061+00:00",
-      "dc:source": "https://geniza.princeton.edu/sources/166/",
-      "target": {
-        "source": {
-          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-J-00401-G/canvas/1",
-          "type": "Canvas",
-          "partOf": {
-            "id": "https://geniza.princeton.edu/documents/26461/iiif/manifest/"
-          }
-        },
-        "selector": {
-          "type": "FragmentSelector",
-          "value": "xywh=percent:1,1,98,98",
-          "conformsTo": "http://www.w3.org/TR/media-frags/"
-        }
-      },
-      "body": [
-        {
-          "type": "TextualBody",
-          "label": "Main",
-          "value": "<ol>\n<li>19 ( ) \u05d5\u05d1\u05d9\u05d3 \u05dc\u05d9\u05d3</li>\n<li>20 ( )\u05d9\u05d9\u05dd:</li>\n</ol>",
-          "format": "text/html",
-          "TextInput": "rtl"
-        }
-      ],
-      "motivation": [
-        "sc:supplementing",
-        "transcribing"
-      ],
-      "schema:position": 2,
-      "textGranularity": "block"
-    },
-    {
       "etag": "\"31f64967fed37c7f1f8714b6a623b94c\"",
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/58a44ccb-221f-4db2-ae8d-697e9538e700/",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/49168ee1-b520-44d3-bfc0-06bddccdb36c/",
       "type": "Annotation",
-      "created": "2025-04-10T17:25:57.963507+00:00",
-      "modified": "2025-04-10T17:25:57.963556+00:00",
+      "created": "2025-04-10T19:19:03.525240+00:00",
+      "modified": "2025-04-10T19:19:03.525262+00:00",
       "dc:source": "https://geniza.princeton.edu/sources/166/",
       "target": {
         "source": {
@@ -75,6 +38,43 @@
         "transcribing"
       ],
       "schema:position": 2,
+      "textGranularity": "block"
+    },
+    {
+      "etag": "\"f8497a3c4d6b68d608e181f2daa85049\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/b1c27e61-bf5f-4fb5-b199-7dd0953a6983/",
+      "type": "Annotation",
+      "created": "2025-01-14T18:38:17.235047+00:00",
+      "modified": "2025-04-10T19:19:03.532876+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-J-00401-G/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/26461/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>19 ( ) \u05d5\u05d1\u05d9\u05d3 \u05dc\u05d9\u05d3</li>\n<li>20 ( )\u05d9\u05d9\u05dd:</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 3,
       "textGranularity": "block"
     }
   ]
