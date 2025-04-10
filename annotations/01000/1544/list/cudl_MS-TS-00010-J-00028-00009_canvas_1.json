@@ -39,48 +39,11 @@
       "schema:position": 1
     },
     {
-      "etag": "\"c6cd0bc91bbc160b2f53f6a306db87b6\"",
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/9f719cf4-9d51-4682-bc62-e66c2333b291/",
-      "type": "Annotation",
-      "created": "2025-01-14T18:36:48.113824+00:00",
-      "modified": "2025-01-14T18:36:48.113841+00:00",
-      "dc:source": "https://geniza.princeton.edu/sources/166/",
-      "target": {
-        "source": {
-          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00010-J-00028-00009/canvas/1",
-          "type": "Canvas",
-          "partOf": {
-            "id": "https://geniza.princeton.edu/documents/1544/iiif/manifest/"
-          }
-        },
-        "selector": {
-          "type": "FragmentSelector",
-          "value": "xywh=percent:1,1,98,98",
-          "conformsTo": "http://www.w3.org/TR/media-frags/"
-        }
-      },
-      "body": [
-        {
-          "type": "TextualBody",
-          "label": "Main",
-          "value": "<ol>\n<li>25 ( )\u05ea\u05d0\u05e8\u05d4 \u05dc\u05e1\u05e4\u05e8\u05d4\u05d0 \u05dc\u05d9\u05e1 \u05dc\u05d4 \u05d0\u05df</li>\n<li>26 ( )\u05ea\u05d4\u05d0 \u05dc\u05d4\u05d0 \u05d3\u05dc\u05da \u05d5\u05d0\u05e0\u05d4\u05d0 \u05d0\u05df \u05d5\u05d0\u05dc</li>\n<li>27 ( )\u05d0</li>\n</ol>",
-          "format": "text/html",
-          "TextInput": "rtl"
-        }
-      ],
-      "motivation": [
-        "sc:supplementing",
-        "transcribing"
-      ],
-      "schema:position": 2,
-      "textGranularity": "block"
-    },
-    {
       "etag": "\"2fa2c6598c8c71b374384208d7d95111\"",
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/1581988d-083a-41b0-ba7a-e4805ecd3e44/",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/3c32922a-2849-4f36-a40e-fff94f593bb0/",
       "type": "Annotation",
-      "created": "2025-04-10T17:23:41.466860+00:00",
-      "modified": "2025-04-10T17:23:41.466883+00:00",
+      "created": "2025-04-10T19:17:05.235979+00:00",
+      "modified": "2025-04-10T19:17:05.236005+00:00",
       "dc:source": "https://geniza.princeton.edu/sources/166/",
       "target": {
         "source": {
@@ -110,6 +73,43 @@
         "transcribing"
       ],
       "schema:position": 2,
+      "textGranularity": "block"
+    },
+    {
+      "etag": "\"270d141317cefe068ec5418ae08ced6e\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/9f719cf4-9d51-4682-bc62-e66c2333b291/",
+      "type": "Annotation",
+      "created": "2025-01-14T18:36:48.113824+00:00",
+      "modified": "2025-04-10T19:17:05.249816+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/166/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00010-J-00028-00009/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1544/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Main",
+          "value": "<ol>\n<li>25 ( )\u05ea\u05d0\u05e8\u05d4 \u05dc\u05e1\u05e4\u05e8\u05d4\u05d0 \u05dc\u05d9\u05e1 \u05dc\u05d4 \u05d0\u05df</li>\n<li>26 ( )\u05ea\u05d4\u05d0 \u05dc\u05d4\u05d0 \u05d3\u05dc\u05da \u05d5\u05d0\u05e0\u05d4\u05d0 \u05d0\u05df \u05d5\u05d0\u05dc</li>\n<li>27 ( )\u05d0</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 3,
       "textGranularity": "block"
     }
   ]
