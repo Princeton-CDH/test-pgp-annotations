@@ -1,0 +1,289 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fprincetongenizalab.github.io%2Fiiif%2Fbodleian%2Fb%2Fcanvas%2Fms-heb-b-11-22%2F2.json&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F5458%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"06c634df5b5fd3069a8076a5046559b5\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/18f226b1-8326-4f50-827f-7dcd2052796b/",
+      "type": "Annotation",
+      "created": "2023-12-09T21:57:18.595216+00:00",
+      "modified": "2023-12-11T03:35:26.696939+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/170/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-11-22/2.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5458/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:75.83708190917969,66.81089782714844,1548.9759063720703,1464.826675415039",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso",
+          "value": "<ol>\n<li>Attached to this letter</li>\n<li>is another one in Arabic characters of the same content as this</li>\n<li>letter; please notice this. And again, my lord, do not take to</li>\n<li>heart what you have lost; you have, my lord,</li>\n<li>praise be to God, plenty to have recourse to and to be compensated with.</li>\n<li>When life is saved, nothing else matters.</li>\n<li>Nor do I need to urge you again to come to</li>\n<li>Mangalore. Accept, my lord, copious regards for your noble self</li>\n<li>and convey copious regards to the elder Abu Sa'd.</li>\n<li>The writer of these lines, Abraham b. Yiju, conveys to your excellency</li>\n<li>copious regards, and those who attend the writing of this letter do the same.</li>\n<li>May the well-being of my lord grow indefinitely and never become reduced.</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"7b611030c61c04df523cf59805bdfc7d\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/043674e5-34db-4806-b56a-ac68bb3d770d/",
+      "type": "Annotation",
+      "created": "2025-03-10T15:41:16.815275+00:00",
+      "modified": "2025-03-10T15:41:16.815292+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/8/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-11-22/2.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5458/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:96.73497009277344,101.59111022949219,1492.577163696289,1325.4085235595703",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso",
+          "value": "<ol>\n<li>Attached to this letter,</li>\n<li>is another one in Arabic characters of the same content as this</li>\n<li>letter; please take notice of this. And again, my lord, do not take to</li>\n<li>heart what you have lost; you have, my lord,</li>\n<li>praise be to God, plenty to have recourse to and to be compensated with.</li>\n<li>When life is saved, nothing else matters. {alt tr.: When one is alive and well, everything else can be replaced.}</li>\n<li>{Add: By God,} nor do I need to urge you again to come to</li>\n<li>Mangalore. Accept, my lord, profuse regards for your esteemed self</li>\n<li>and convey profuse regards to the elder Abu Sa\u02bfd.</li>\n<li>The writer of these lines, Abraham Ben Yij\u016b, conveys to your excellency</li>\n<li>copious regards, and those who attend the writing of this letter do the same {read: Maym\u016bn, who was present at the writing of this letter, extends greetings}.</li>\n<li>May the well-being of my lord increase indefnitely and never decrease!</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"6261da05b2fd22142cab94f55b6017be\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/b7237351-e199-423b-990c-de8c0ef2450f/",
+      "type": "Annotation",
+      "created": "2022-10-07T02:02:41.474131+00:00",
+      "modified": "2025-03-10T15:14:05.189253+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1122/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-11-22/2.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5458/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "II, 55 verso",
+          "value": "<ol>\n<li>\u05e7\u05d3 \u05db\u05ea\u05d1\u05ea \u05dc\u05da \u05e6\u05d7\u05d1\u05d4 \u05d4\u05d3\u05d0 \u05d0\u05dc\u05db\u05ea\u05d0\u05d1</li>\n<li>\u05db\u05ea\u05d0\u05d1 \u05d1\u05d0\u05dc\u05e2\u05e8\u05d1\u05d9 \u05d9\u05d7\u05d5\u05d9 \u05de\u05d0 \u05e4\u05d9 \u05d1\u05d8\u05df \u05d4\u05d3\u05d0 \u05d0\u05dc</li>\n<li>\u05db\u05ea\u05d0\u05d1 \u05d0\u05e2\u05dc\u05de\u05ea\u05da \u05d1\u05d3\u05dc\u05da \u05d5\u05dc\u05d0 \u05d9\u05d7\u05de\u05dc \u05de\u05d5\u05dc\u05d0\u05d9 \u05e2\u05dc\u05d9</li>\n<li>\u05e7\u05dc\u05d1\u05d4 \u05e4\u05d9 \u05de\u05d0 \u05de\u05e6\u05d0 \u05dc\u05d4 \u05e2\u05e0\u05d3\u05da \u05d9\u05d0 \u05de\u05d5\u05dc\u05d0\u05d9 \u05d5\u05d0\u05dc</li>\n<li>\u05d7\u05de\u05d3 \u05dc\u05dc\u05d4 \u05de\u05d0 \u05ea\u05e8\u05d2\u05e2 \u05d0\u05dc\u05d9\u05d4 \u05d5\u05de\u05d0 \u05ea\u05ea\u05e2\u05d5\u05e5 \u05e4\u05d9\u05d4</li>\n<li>\u05d0\u05d3\u05d0 \u05db\u05d0\u05e0\u05ea \u05d0\u05dc\u05e8\u05d5\u05d7 \u05e4\u05d9 \u05e2\u05d0\u05e4\u05d9\u05d4 \u05db\u05d0\u05df \u05db\u05dc \u05e9\u05d9 \u05de\u05db\u05dc\u05d5\u05e3</li>\n<li>\u05d0\u05dc\u05dc\u05d4 \u05d0\u05dc\u05dc\u05d4 \u05de\u05d0 \u05d0\u05d7\u05ea\u05d0\u05d2 \u05d0\u05d5\u05e6\u05d9\u05da \u05e4\u05d9 \u05d0\u05dc\u05d5\u05e6\u05d5\u05dc \u05d0\u05dc\u05d9</li>\n<li>\u05de\u05e0\u05d2\u05e8\u05d5\u05e8 \u05d5\u05d9\u05db\u05e5 \u05de\u05d5\u05dc\u05d0\u05d9 \u05e2\u05d6\u05d9\u05d6 \u05e0\u05e4\u05e1\u05d4 \u05d1\u05d0\u05dc\u05e1\u05dc\u05d0\u05dd</li>\n<li>\u05d0\u05dc\u05d2\u05d6\u05d9\u05dc \u05d5\u05d9\u05db\u05e5 \u05e2\u05e0\u05d9 \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d5 \u05e1\u05e2\u05d3 \u05d1\u05d0\u05e1\u05dc\u05d0\u05dd \u05d0\u05dc\u05d2\u05d6\u05d9\u05dc</li>\n<li>\u05d5\u05db\u05d0\u05ea\u05d1 \u05d4\u05d3\u05d4 \u05d0\u05dc\u05d0\u05e1\u05d8\u05e8 \u05d0\u05d1\u05e8\u05d4\u05dd \u05d1\u05df \u05d9\u05d2\u05d5 \u05d9\u05db\u05e5 \u05d7\u05e6\u05e8\u05ea\u05da</li>\n<li>\u05d1\u05d0\u05e1\u05dc\u05d0\u05dd \u05d1\u05d0\u05dc\u05e1\u05dc\u05d0\u05dd \u05d0\u05dc\u05d2\u05d6\u05d9\u05dc \u05d7\u05e6\u05e8 \u05d0\u05dc\u05db\u05ea\u05d0\u05d1 \u05de\u05d9\u05de\u05d5\u05df \u05d9\u05db\u05e5 \u05d1\u05d0\u05dc\u05e1\u05dc\u05d0\u05dd</li>\n<li>\u05d5\u05e9\u05dc\u05d5\u05dd \u05d0\u05d3\u05e0\u05d9 \u05d9\u05d2\u05d3\u05dc \u05dc\u05e2\u05d3 \u05d5\u05dc\u05d0 \u05d9\u05d3\u05dc \u05e0\u05e6\u05d7</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
+    },
+    {
+      "etag": "\"cfd56db098a29a78ac7640687b778004\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/a7ef6116-47f3-415c-a89b-08fc58710fde/",
+      "type": "Annotation",
+      "created": "2023-12-11T03:36:07.212937+00:00",
+      "modified": "2023-12-11T03:36:07.212952+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/170/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-11-22/2.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5458/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:75.4917221069336,3701.207763671875,1459.9369888305664,534.306884765625",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso, address",
+          "value": "<p>To be delivered to my noble lord, the light of my eyes, his honor, (our) M(aster) and T(eacher) Judah ha-Kohen, the wise and understanding, the son of his honor, greatness, and hol(iness), (our) M(aster) and T(eacher) Joseph ha-Kohen, may his soul be satiated with pleasures in the Gardens of Eden until he will be quickened at the end of the days. From his servant Mahruz, the son of Jacob, (may he) r(est in) E(den). Given in trust (i.e., no fees for delivery).</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 2
+    },
+    {
+      "etag": "\"50722ab691a326cb900ff348f1990e88\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/fbe866ae-982b-4274-af39-80e42c4f706c/",
+      "type": "Annotation",
+      "created": "2025-03-10T15:42:52.753002+00:00",
+      "modified": "2025-03-10T15:42:52.753018+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/8/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-11-22/2.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5458/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:168.37867736816406,3647.95458984375,1385.1116790771484,585.09033203125",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso, address",
+          "value": "<p>To be delivered to my esteemed lord, the light of my eyes, his honor, our master and lord Judah ha-Kohen, the wise and discerning, the son of his honor, great and holy master and lord Joseph ha-Kohen&mdash;may his soul be satiated with pleasures in the Gardens {read: garden} of Eden until he will be quickened at the end of the days!From his servant Ma\u1e25r\u016bz b. Jacob&mdash;may he rest in Eden!Given in trust {alt. tr.: &lsquo;Steadfast faithfulness&rsquo;} (i.e., no fees for delivery).</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 2
+    },
+    {
+      "etag": "\"0e98b0a06d850bfb8d9dba29be396947\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/7fc129b2-3367-48a8-8a91-43f41ce32eae/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:51:46.607603+00:00",
+      "modified": "2026-10-29T19:51:46.607612+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-11-22/2.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5458/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "II, 55 verso",
+          "value": "\n<ol><li>\u0642\u062f \u0643\u062a\u0628\u062a \u0644\u0643 \u0635\u062d\u0628\u0647 \u0647\u0630\u0627 \u0627\u0644\u0643\u062a\u0627\u0628</li>\n<li>\u0643\u062a\u0627\u0628 \u0628\u0627\u0644\u0639\u0631\u0628\u064a \u064a\u062d\u0648\u0649 \u0645\u0627 \u0641\u064a \u0628\u0637\u0646 \u0647\u0630\u0627 \u0627\u0644</li>\n<li>\u0643\u062a\u0627\u0628 \u0627\u0639\u0644\u0645\u062a\u0643 \u0628\u0630\u0644\u0643 \u0648\u0644\u0627 \u064a\u062d\u0645\u0644 \u0645\u0648\u0644\u0627\u064a \u0639\u0644\u0649</li>\n<li>\u0642\u0644\u0628\u0647 \u0641\u064a \u0645\u0627 \u0645\u0636\u0627 \u0644\u0647 \u0639\u0646\u062f\u0643 \u064a\u0627 \u0645\u0648\u0644\u0626\u064a \u0648\u0627\u0644</li>\n<li>\u062d\u0645\u062f \u0644\u0644\u0647 \u0645\u0627 \u062a\u0631\u062c\u0639 \u0627\u0644\u064a\u0647 \u0648\u0645\u0627 \u062a\u062a\u0639\u0648\u0636 \u0641\u064a\u0647</li>\n<li>\u0627\u0630\u0627 \u0643\u0627\u0646\u062a \u0627\u0644\u0631\u0648\u062d \u0641\u064a \u0639\u0627\u0641\u064a\u0629 \u0643\u0627\u0646 \u0643\u0644 \u0634\u064a \u0645\u062e\u0644\u0648\u0641</li>\n<li>\u0627\u0644\u0644\u0647 \u0627\u0644\u0644\u0647 \u0645\u0627 \u0627\u062d\u062a\u0627\u062c \u0627\u0648\u0636\u064a\u0643 \u0641\u064a \u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0649</li>\n<li>\u0645\u0646\u062c\u0631\u0648\u0631 \u0648\u064a\u062e\u0635 \u0645\u0648\u0644\u0627\u064a \u0639\u0632\u064a\u0632 \u0646\u0641\u0633\u0647 \u0628\u0627\u0644\u0633\u0644\u0627\u0645</li>\n<li>\u0627\u0644\u062c\u0632\u064a\u0644 \u0648\u064a\u062e\u0635 \u0639\u0646\u0649 \u0627\u0644\u0634\u064a\u0643 \u0627\u0628\u0648 \u0633\u0639\u062f \u0628\u0627\u0633\u0644\u0627\u0645 \u0627\u0644\u062c\u0632\u064a\u0644</li>\n<li>\u0648\u0643\u0627\u062a\u0628 \u0647\u0630\u0647 \u0627\u0644\u0627\u0633\u0637\u0631 \u05d0\u05d1\u05e8\u05d4\u05dd \u05d1\u05df \u05d9\u05d2\u05d5 \u064a\u062e\u0635 \u062d\u0635\u0631\u062a\u0643</li>\n<li>\u0628\u0627\u0633\u0644\u0627\u0645 \u0628\u0627\u0644\u0633\u0644\u0627\u0645 \u0627\u0644\u062c\u0632\u064a\u0644 \u062d\u0636\u0631 \u0627\u0644\u0643\u062a\u0627\u0628 \u0645\u064a\u0645\u0648\u0646 \u064a\u062e\u0635 \u0628\u0627\u0644\u0633\u0644\u0627\u0645</li>\n<li>\u05d5\u05e9\u05dc\u05d5\u05dd \u05d0\u05d3\u05e0\u05d9 \u05d9\u05d2\u05d3\u05dc \u05dc\u05e2\u05d3 \u05d5\u05dc\u05d0 \u05d9\u05d3\u05dc \u05e0\u05e6\u05d7</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 2
+    },
+    {
+      "etag": "\"f981a8cac4a609490bfcfbe18cafe48b\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/79e3e533-9a3a-47cf-b234-9f98c5c94818/",
+      "type": "Annotation",
+      "created": "2022-10-07T02:02:41.478346+00:00",
+      "modified": "2025-03-10T15:14:19.429980+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1122/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-11-22/2.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5458/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "II, 55 verso, address",
+          "value": "<p>[\u05d9]\u05d2\u05d9\u05e2 \u05dc\u05d9\u05e7\u05e8 \u05d0\u05d3\u05e0\u05d9 \u05d5\u05d0\u05d5\u05e8 \u05e2\u05d9\u05e0\u05d9 \u05db\u05d1\u05d5\u05d3 \u05e2\u05d1\u05d3\u05d4 \u05de\u05d7\u05e8\u05d5\u05d6</p>\n<p>\u05de\u05e8 \u05d5\u05e8\u05d1 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d4\u05db\u05d4\u05df \u05d4\u05d7\u05db\u05dd \u05d5\u05d4\u05e0\u05d1\u05d5\u05df \u05d1\u05e8\u05d9\u05e2\u05e7\u05d1 \u05e0\u05e2</p>\n<p>\u05d1\u05df \u05db\u05d1\u05d5\u05d3 \u05d2\u05d3\u05d5\u05dc\u05ea \u05e7\u05d3(\u05d5\u05e9\u05ea) \u05de\u05e8 \u05d5\u05e8 \u05d9\u05d5\u05e1\u05e3 \u05d4\u05db\u05d4\u05df \u05d0\u05de\u05d5\u05e0\u05d4 \u05d0\u05d5\u05de\u05df</p>\n<p>\u05ea\u05d4\u05d9 \u05e0\u05e4\u05e9\u05d9\u05d4 \u05de\u05de\u05dc\u05d9\u05d0 \u05ea\u05e4\u05e0\u05d5\u05e7\u05d9\u05df</p>\n<p>\u05d1\u05d2\u05d9\u05e0\u05ea\u05d0 \u05d3\u05e2\u05d3\u05df \u05e2\u05d3 \u05d9\u05e2\u05de\u05d5\u05d3 \u05dc\u05e7\u05e5 \u05d4\u05d9\u05de\u05d9\u05df</p>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 3
+    },
+    {
+      "etag": "\"2a8bf8ded761dd98afe56f29ce34736f\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/700f245e-1026-48fa-9a00-87564481df64/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:51:46.610706+00:00",
+      "modified": "2026-10-29T19:51:46.610714+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/b/canvas/ms-heb-b-11-22/2.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5458/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "II, 55 verso, address",
+          "value": "<p>\u05d9\u05d2\u05d9\u05e2 \u05dc\u05d9\u05e7\u05e8 \u05d0\u05d3\u05e0\u05d9 \u05d5\u05d0\u05d5\u05e8 \u05e2\u05d9\u05e0\u05d9 \u05db\u05d1\u05d5\u05d3 \u05e2\u05d1\u05d3\u05d4 \u05de\u05d7\u05e8\u05d5\u05d6</p>\n<p>\u05de\u05e8 \u05d5\u05e8\u05d1 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d4\u05db\u05d4\u05df \u05d4\u05d7\u05db\u05dd \u05d5\u05d4\u05e0\u05d1\u05d5\u05df \u05d1\u05e8\u05d9\u05e2\u05e7\u05d1 \u05e0\u05e2</p>\n<p>\u05d1\u05df \u05db\u05d1\u05d5\u05d3 \u05d2\u05d3\u05d5\u05dc\u05ea \u05e7\u05d3\u05d5\u05e9\u05ea \u05de\u05e8 \u05d5\u05e8 \u05d9\u05d5\u05e1\u05e3 \u05d4\u05db\u05d4\u05df \u05d0\u05de\u05d5\u05e0\u05d4 \u05d0\u05d5\u05de\u05df</p>\n<p>\u05ea\u05d4\u05d9 \u05e0\u05e4\u05e9\u05d9\u05d4 \u05de\u05de\u05dc\u05d9\u05d0 \u05ea\u05e4\u05e0\u05d5\u05e7\u05d9\u05df</p>\n<p>\u05d1\u05d2\u05d9\u05e0\u05ea\u05d0 \u05d3\u05e2\u05d3\u05df \u05e2\u05d3 \u05d9\u05e2\u05de\u05d5\u05d3 \u05dc\u05e7\u05e5</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 3
+    }
+  ]
+}
