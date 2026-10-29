@@ -1,0 +1,112 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fprincetongenizalab.github.io%2Fiiif%2Fbodleian%2Ff%2Fcanvas%2Fms-heb-f-22-47%2F1.json&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F605%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"44732bc7469117311aa2fe577888d3bc\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/edab31f3-4332-457d-a302-d6330ebef806/",
+      "type": "Annotation",
+      "created": "2022-10-07T00:56:54.957376+00:00",
+      "modified": "2024-03-15T13:27:30.497456+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/38/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-22-47/1.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/605/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d0\u05e9\u05d4\u05d3\u05e0\u05d9 \u05e2\u05dd</li>\n<li>\u05d1\u05d5 \u05e1\u05e2\u05d9\u05d3 \u05d1\u05df \u05d0\u05dc\u05de\u05e7\u05d3\u05e1\u05d9 \u05e2\u05dc\u05d9</li>\n<li>\u05e0\u05e4\u05e1\u05d4 \u05d0\u05e0\u05d4 \u05e7\u05d3 \u05d5\u05d4\u05d1 \u05dc\u05d1\u05df</li>\n<li>\u05d0\u05db\u05d5\u05d4 \u05d1\u05d5 \u05e1\u05e2\u05d9\u05d3 \u05d0\u05dc\u05de\u05d3\u05db\u05d5\u05e8</li>\n<li>\u05d2\u05d6\u05d5\u05d4 \u05d0\u05dc\u05d3\u05d9 \u05e4\u05d9 \u05e8\u05d1\u05e2 \u05d0\u05dc\u05de\u05e7\u05d0\u05d3\u05e1\u05d4</li>\n<li>\u05d5\u05db\u05d0\u05df \u05d1\u05d5 \u05e2\u05dc\u05d9 \u05d0\u05dc\u05e0\u05d0\u05e1\u05da \u05d7\u05d0\u05e6\u05e8</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"af523757fd21a9fe46282c0bdcbda7f3\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/2a8e7134-aca0-4484-964a-91abc3ea7076/",
+      "type": "Annotation",
+      "created": "2023-11-07T20:12:13.790295+00:00",
+      "modified": "2023-11-07T20:12:13.790307+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/38/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-22-47/1.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/605/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:278.9810485839844,196.41122436523438,1935.2711486816406,1861.3612365722656",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "<ol>\n<li>\n<p>(1-2) The uncle of (A)b\u016b Sa\u02bf\u012bd b. al-Muqaddas\u012b made me be witness for&nbsp;</p>\n</li>\n<li>&nbsp;</li>\n<li>\n<p>(3-4) himself, that he has given his nephew, the said (A)b\u016b Sa\u02bf\u012bd,&nbsp;</p>\n</li>\n<li>&nbsp;</li>\n<li>\n<p>the share which is his in the Estate of the Jerusalemites.&nbsp;</p>\n</li>\n<li>\n<p>&nbsp;And (A)b\u016b \u02bfAli al-N\u0101sikh was present.&nbsp;</p>\n</li>\n</ol>\n<p>&nbsp;</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"4c9b0c3d29e2a9c9fd997ccfdbe1df16\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/ed2010c6-c38d-44f3-80c1-d87f73666d16/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:44:27.144079+00:00",
+      "modified": "2026-10-29T19:44:27.144091+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-22-47/1.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/605/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "",
+          "value": "\n<ol><li>\u0627\u0634\u0647\u062f\u0646\u064a \u0639\u0645</li>\n<li>\u05d1\u05d5 \u0633\u0639\u064a\u062f \u0628\u0646 \u0627\u0644\u0645\u0642\u062f\u0633\u064a \u0639\u0644\u064a</li>\n<li>\u0646\u0641\u0633\u0647 \u0627\u0646\u0647 \u0642\u062f \u0648\u0647\u0628 \u05dc\u05d1\u05df</li>\n<li>\u0627\u062e\u0648\u0647 \u05d1\u05d5 \u0633\u0639\u064a\u062f \u0627\u0644\u0645\u0630\u0643\u0648\u0631</li>\n<li>\u062c\u0632\u0648\u0647 \u0627\u0644\u0630\u064a \u0641\u064a \u0631\u0628\u0639 \u0627\u0644\u0645\u0642\u0627\u062f\u0633\u0629</li>\n<li>\u0648\u0643\u0627\u0646 \u05d1\u05d5 \u0639\u0644\u064a \u0627\u0644\u0646\u0627\u0633\u062e \u062d\u0627\u0636\u0631</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
