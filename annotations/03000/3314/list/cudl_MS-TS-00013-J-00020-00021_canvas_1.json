@@ -1,0 +1,220 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00013-J-00020-00021%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F3314%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"abb507e6ac68c00bc1e545a613d62a33\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/471b1191-b580-4f95-a0a7-49a3e00e3e11/",
+      "type": "Annotation",
+      "created": "2022-10-07T00:49:08.940874+00:00",
+      "modified": "2024-06-25T02:14:23.500192+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/757/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00020-00021/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/3314/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "<ol>\n<li>\u05dc\u05de\u05d0 \u05db\u05d0\u05df \u05d9\u05d5\u05dd \u05d0\u05dc\u05d2\u05de\u05e2\u05d4 \u05e8\u05d0\u05d1\u05e2 [ . . . . . . . . . . .</li>\n<li>\u05e9\u05e0\u05ea \u05d0\u05ea\u05e7\u05db\u05d7 \u05dc\u05e9\u05d8\u05e8\u05d5\u05ea \u05d1\u05e2\u05d9\u05e8 \u05d0\u05dc\u05de\u05d7\u05dc[\u05d4 . . . \u05d3\u05e2\u05dc</li>\n<li>\u05d9\u05d0\u05d5\u05e8 \u05e0\u05d9\u05dc\u05d5\u05e1 \u05de\u05d5\u05ea\u05d1\u05d4 \u05e8\u05d0\u05d9\u05e0\u05d0 \u05d1\u05d9\u05d3 \u05d2\u05d5\u05d9 \u05d9\u05d5\u05e1\u05de\u05d0 \u05d0\u05dc\u05e0\u05e6\u05d9\u05e8</li>\n<li>\u05d1\u05df \u05d0\u05dc\u05d7\u05db\u05d9\u05dd \u05d7\u05d5\u05d2\u05d4 \u05d0\u05e1\u05dc\u05d0\u05de\u05d9\u05d4 \u05de\u05d1\u05dc\u05d2\u05d4\u05d0 \u05d0\u05e8\u05d1\u05e2\u05d4 \u05d0\u05dc\u05d0\u05e3</li>\n<li>\u05d3\u05e8\u05d4\u05dd \u05d5\u05de\u05d0\u05d9\u05d4 \u05d3\u05e8\u05d4\u05dd //\u05d5\u05e0\u05d9\u05e3 \u05e2\u05df \u05e1\u05ea\u05d9\u05df \u05d3\u05e8\u05d4\u05dd// \u05e0\u05e7\u05d3 \u05de\u05e6\u05e8 \u05e2\u05dc\u05d9 \u05de\u05e8\u05e0\u05d0 \u05d9\u05e4\u05ea \u05d1\u05e8</li>\n<li>\u05de \u05d9\u05d4\u05d5\u05e9\u05e2 \u05e0\u05e2 \u05d9\u05d3\u05d5\u05e2 \u05d0\u05dc\u05de\u05db\u05d9\u05df \u05d1\u05df \u05d0\u05d1\u05d5 \u05d0\u05dc\u05de\u05d2\u05d3 \u05d5\u05e7\u05d0\u05dc \u05dc\u05e0\u05d0</li>\n<li>\u05d0\u05dc\u05d2\u05d5\u05d9 \u05d0\u05dc\u05de\u05d3\u05db\u05d5\u05e8 \u05d4\u05d3\u05d4 \u05d0\u05dc\u05d7\u05d2\u05d4 \u05dc\u05d9 \u05e2\u05dc\u05d9 \u05d0\u05dc\u05de\u05db\u05d9\u05df \u05d1\u05df \u05d0\u05d1\u05d5 \u05d0\u05dc</li>\n<li>\u05de\u05d2\u05d3 \u05d0\u05d3 \u05dc\u05dd \u05d9\u05e0\u05e6\u05e3 \u05e6\u05d4\u05e8\u05d4 \u05d0\u05dc\u05e8\u05e9\u05d9\u05d3 \u05d0\u05d1\u05d5 \u05e2\u05dc\u05d9 \u05d1\u05df</li>\n<li>\u05d0\u05dc\u05de\u05db\u05d9\u05df \u05d5\u05d9\u05d5\u05e4\u05d9 \u05d0\u05dc\u05d3\u05d9 \u05dc\u05d4 \u05e2\u05e0\u05d3\u05d4 \u05d5\u05d0\u05dc\u05d0 \u05d0\u05db\u05d3\u05ea \u05de\u05e0\u05d4</li>\n<li>\u05d4\u05d3\u05d4 \u05d0\u05dc\u05d7\u05d2\u05d4 \u05d5\u05d0\u05e0\u05d4 \u05e2\u05dc\u05d9 \u05dc\u05d3\u05d9\u05d5\u05d0\u05df \u05de\u05d0\u05d9\u05d4 \u05d3\u05d9\u05e0\u05d0\u05e8</li>\n<li>\u05d0\u05d7\u05d9\u05dc \u05d0\u05dc\u05d3\u05d9\u05d5\u05d0\u05df \u05e2\u05dc\u05d9\u05d4 \u05d1\u05d4\u05d3\u05d4 \u05d0\u05dc\u05d7\u05d2\u05d4 \u05e4\u05e7\u05dc\u05e0\u05d0 \u05e0\u05d7\u05df</li>\n<li>\u05d0\u05dc\u05e9\u05d4\u05d5\u05d3 \u05d1\u05e7\u05d5\u05dc\u05da \u05e4\u05d9\u05d4\u05d0 \u05e2\u05dc\u05d9 \u05d0\u05dc\u05de\u05db\u05d9\u05df \u05e9\u05d9 \u05e4\u05e7\u05d0\u05dc</li>\n<li>. . . . \u05d7\u05e1\u05d5\u05d1 \u05e4\u05e7\u05dc\u05e0\u05d0 \u05dc\u05d4 \u05db\u05dd \u05de\u05e7\u05d3\u05d0\u05e8\u05d4 \u05e4\u05e7\u05d0\u05dc</li>\n<li>\u05d7\u05d5\u05d0\u05dc\u05d9 \u05de\u05d0\u05d9\u05d4 \u05d3\u05e8\u05d4\u05dd \u05d5 . . . . . . . . \u05e4\u05dc\u05de\u05d0 \u05d0\u05d8\u05dc\u05e2\u05e0\u05d0</li>\n<li>\u05e2\u05dc\u05d9 \u05d0\u05dc\u05d7\u05d2\u05d4 \u05d5\u05e1\u05de\u05e2\u05e0\u05d0 \u05db\u05dc\u05d0\u05dd \u05d0\u05dc\u05d2\u05d5\u05d9 \u05e2\u05df \u05d1\u05e7\u05d9\u05d4(?)</li>\n<li>\u05d9\u05e4\u05ea \u05d4\u05e0\u05d6\u05db\u05e8 \u05db\u05ea\u05d1\u05e0\u05d0 \u05d5\u05d7\u05ea\u05de\u05e0\u05d0 \u05e9\u05e8\u05d9\u05e8 \u05d5\u05e7\u05d9\u05d9\u05dd</li>\n<li>\u05d9\u05d5\u05e1\u05e3 \u05d1\u05e8 \u05d9\u05e4\u05ea \u05de\u05dc\u05de\u05d3 \u05d6\u05e7\u05dc</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"565bc5b78db5d275dc368ca0f976e55a\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/af5bf944-cbb8-4530-82cf-6a4ba6c50ac0/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:49:06.604461+00:00",
+      "modified": "2026-10-29T19:49:06.604474+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00020-00021/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/3314/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "\n<ol><li>\u0644\u0645\u0627 \u0643\u0627\u0646 \u064a\u0648\u0645 \u0627\u0644\u062c\u0645\u0639\u0629 \u0631\u0627\u0628\u0639</li>\n<li>\u05e9\u05e0\u05ea \u05d0\u05ea\u05e7\u05db\u05d7 \u05dc\u05e9\u05d8\u05e8\u05d5\u05ea \u05d1\u05e2\u05d9\u05e8 \u0627\u0644\u0645\u062d\u0644\u0629</li>\n<li>\u05d9\u05d0\u05d5\u05e8 \u05e0\u05d9\u05dc\u05d5\u05e1 \u0645\u0648\u062b\u0628\u0629 \u0631\u0627\u064a\u0646\u0627 \u05d1\u05d9\u05d3 \u05d2\u05d5\u05d9 \u064a\u0648\u0633\u0645\u0627 \u0627\u0644\u0646\u0635\u064a\u0631</li>\n<li>\u0628\u0646 \u0627\u0644\u062d\u0643\u064a\u0645 \u062d\u0648\u062c\u0629 \u0627\u0633\u0644\u0627\u0645\u064a\u0629 \u0645\u0628\u0644\u063a\u0647\u0627 \u0627\u0631\u0628\u0639\u0629 \u0627\u0644\u0627\u0641</li>\n<li>\u062f\u0631\u0647\u0645 \u0648\u0645\u0627\u0626\u0629 \u062f\u0631\u0647\u0645 \u0648\u0646\u064a\u0641 \u0639\u0646 \u0633\u062a\u064a\u0646 \u062f\u0631\u0647\u0645 \u0646\u0642\u062f \u0645\u0635\u0631 \u0639\u0644\u0649 \u0645\u0631\u0646\u0627 \u05d9\u05e4\u05ea \u05d1\u05e8</li>\n<li>\u05de \u05d9\u05d4\u05d5\u05e9\u05e2 \u05e0\u05e2 \u05d9\u05d3\u05d5\u05e2 \u0627\u0644\u0645\u0643\u064a\u0646 \u0628\u0646 \u0627\u0628\u0648 \u0627\u0644\u0645\u062c\u062f \u0648\u0642\u0627\u0644 \u0644\u0646\u0627</li>\n<li>\u0627\u0644\u062c\u0648\u064a \u0627\u0644\u0645\u0630\u0643\u0648\u0631 \u0647\u0630\u0647 \u0627\u0644\u062d\u062c\u0629 \u0644\u064a \u0639\u0644\u0649 \u0627\u0644\u0645\u0643\u064a\u0646 \u0628\u0646 \u0627\u0628\u0648 \u0627\u0644</li>\n<li>\u0645\u062c\u062f \u0627\u0630 \u0644\u0645 \u064a\u0646\u0635\u0641 \u0635\u0647\u0631\u0647 \u0627\u0644\u0645</li>\n<li>\u0648\u064a\u0648\u0641\u064a \u0627\u0644\u0630\u064a \u0644\u0647 \u0639\u0646\u062f\u0647 \u0648\u0627\u0644\u0627 \u0627\u062e\u0630\u062a \u0645\u0646\u0647</li>\n<li>\u0647\u0630\u0647 \u0627\u0644\u062d\u062c\u0629 \u0648\u0627\u0646\u0647 \u0639\u0644\u0649 \u0644\u062f\u064a\u0648\u0627\u0646 \u0645\u0627\u0626\u0629 \u062f\u064a\u0646\u0627\u0631</li>\n<li>\u0627\u062d\u064a\u0644 \u0627\u0644\u062f\u064a\u0648\u0627\u0646 \u0639\u0644\u064a\u0647 \u0628\u0647\u0630\u0647 \u0627\u0644\u062d\u062c\u0629 \u0641\u0642\u0644\u0646\u0627 \u0646\u062d\u0646</li>\n<li>\u0627\u0644\u0634\u0647\u0648\u062f \u0628\u0642\u064a \u0644\u0643 \u0641\u064a\u0647\u0627 \u0639\u0644\u0649 \u0627\u0644\u0645\u0643\u064a\u0646 \u0634\u064a \u0641\u0642\u0627\u0644</li>\n<li>\u05d7\u05e1\u05d5\u05d1 \u0641\u0642\u0644\u0646\u0627 \u0644\u0643 \u0643\u0645 \u0634\u0642 \u062f\u0627\u0631\u0629 \u0641\u0642\u0627\u0644</li>\n<li>\u062d\u0648\u0627\u0644\u0649 \u0645\u0627\u0626\u0629 \u062f\u0631\u0647\u0645 \u05d5 \u0641\u0644\u0645\u0627 \u0627\u0637\u0644\u0639\u0646\u0627</li>\n<li>\u0639\u0644\u0649 \u0627\u0644\u062d\u062c\u0629 \u0648\u0633\u0645\u0639\u0646\u0627 \u0643\u0644\u0627\u0645 \u0627\u0644\u062c\u0648\u064a \u0639\u0646 \u0628\u0642\u064a\u0629 \u05d9\u05e4\u05ea \u0627\u0644\u062d\u062c\u0629 \u0648\u0633\u0645\u0639\u0646\u0627 \u0643\u0644\u0627\u0645 \u0627\u0644\u062c\u0648\u0649 \u0639\u0646 \u0628\u0642\u064a\u0629</li>\n<li>\u05d9\u05e4\u05ea \u05d4\u05e0\u05d6\u05db\u05e8 \u0643\u062a\u0628\u0646\u0627 \u0648\u062d\u062a\u0645\u0646\u0627 \u0634\u0631\u064a\u0631 \u0648\u0642\u064a\u064a\u0645</li>\n<li>\u05d9\u05d5\u05e1\u05e3 \u05d1\u05e8 \u05d9\u05e4\u05ea \u05de\u05dc\u05de\u05d3 \u05d6\u05e7\u05dc</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"27c9ab0a8adeb5df841e51a8ff2bab39\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/b7494bc0-9fd5-48ed-b627-c1e0e15b08f5/",
+      "type": "Annotation",
+      "created": "2022-10-07T00:49:08.954243+00:00",
+      "modified": "2024-06-25T02:16:26.779726+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/757/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00020-00021/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/3314/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Bottom margin, parallel lines written in same direction. In different hand.",
+          "value": "<ol>\n<li>\u05d0\u05e9\u05d4\u05d3\u05e0\u05d0 \u05e2\u05dc\u05d9 \u05e0\u05e4\u05e1\u05d4 \u05d0\u05dc\u05e9\u05d9\u05da \u05d9\u05e2\u05d9\u05e9 \u05d6\u05d9\u05df \u05d0\u05dc\u05ea\u05d2\u05d0\u05e8 \u05d0\u05e0\u05d4 \u05d7\u05d0\u05e6\u05e8 \u05d4\u05d3\u05d4 \u05d0\u05dc</li>\n<li>\u05e9\u05d4\u05d0\u05d3\u05d4 \u05d0\u05dc\u05de\u05d3\u05db\u05d5\u05e8\u05d4 \u05d0\u05e2\u05dc\u05d0\u05d4 \u05d5\u05d7\u05d0\u05e6\u05e8 . . . . . . . . . . . . . . . . . . .</li>\n<li>\u05d1\u05d4 \u05d5\u05e9\u05d4\u05d3\u05e0\u05d0 \u05e2\u05dc\u05d9\u05d4 \u05d1\u05ea\u05d0\u05e8\u05d9\u05db\u05d4 \u05e4\u05e8\u05d7\u05d9\u05d4 \u05d1\u05e8 \u05d7\u05d9\u05d9\u05dd \u05d4\u05db\u05d4\u05df</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
+    },
+    {
+      "etag": "\"b03fbffb753ab250a97d0874ebdb6441\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/423d60a1-1129-480f-8e53-07cb47ba1acc/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:49:06.607413+00:00",
+      "modified": "2026-10-29T19:49:06.607421+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00020-00021/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/3314/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Bottom margin, parallel lines written in same direction. In different hand.",
+          "value": "\n<ol><li>\u0627\u0634\u0647\u062f\u0646\u0627 \u0639\u0644\u0649 \u0646\u0641\u0633\u0647 \u0627\u0644\u0634\u064a\u0643 \u064a\u0639\u064a\u0634 \u0632\u064a\u0646 \u0627\u0644\u062a\u062c\u0627\u0631 \u0627\u0646\u0647 \u062d\u0627\u0636\u0631 \u0647\u0630\u0647 \u0627\u0644</li>\n<li>\u0634\u0647\u0627\u062f\u0629 \u0627\u0644\u0645\u0630\u0643\u0648\u0631\u0629</li>\n<li>\u0628\u0647 \u0648\u0634\u0647\u062f\u0646\u0627 \u0639\u0644\u064a\u0647 \u0628\u062a\u0627\u0631\u064a\u0643\u0629 \u05e4\u05e8\u05d7\u05d9\u05d4 \u05d1\u05e8 \u05d7\u05d9\u05d9\u05dd \u05d4\u05db\u05d4\u05df</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 2
+    },
+    {
+      "etag": "\"3995da3d3f949223a92ce86858c80f60\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/39ec5894-97da-45aa-b694-60fd01adc95a/",
+      "type": "Annotation",
+      "created": "2022-10-07T00:49:08.966939+00:00",
+      "modified": "2022-10-07T00:49:08.966954+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/757/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00020-00021/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/3314/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Right margin, perpendicular lines.",
+          "value": "<p>l \u05de\u05db\u05d9\u05df \u05d4\u05dc\u05d5\u05d9 l \u05d1\u05e8 \u05e2\u05dc\u05d9 \u05d4\u05dc\u05d5\u05d9 \u05e0\u05e0 l</p>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 3
+    },
+    {
+      "etag": "\"e869b4518cbede46564586421c856ff4\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/0384296a-e3ce-41b5-8311-264b84a6beb1/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:49:06.610194+00:00",
+      "modified": "2026-10-29T19:49:06.610202+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00020-00021/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/3314/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Right margin, perpendicular lines.",
+          "value": "<p>\u05de\u05db\u05d9\u05df \u05d4\u05dc\u05d5\u05d9 \u05d1\u05e8 \u05e2\u05dc\u05d9 \u05d4\u05dc\u05d5\u05d9</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 3
+    }
+  ]
+}
