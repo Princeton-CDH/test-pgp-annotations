@@ -1,0 +1,77 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AS-00146-00012%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F4721%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"50bc0acdf7d19214c8b5fdb54c6caf33\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/b2cb0215-62bc-4a9b-921d-153c38013ec4/",
+      "type": "Annotation",
+      "created": "2024-06-18T16:32:26.613507+00:00",
+      "modified": "2024-06-18T16:45:36.804258+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1120/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00012/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/4721/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:622.4683227539062,1169.2646484375,3509.8314819335938,1333.7587890625",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "T-S AS 146.12, verso (III,6)",
+          "value": "<ol>\n<li>\u05d9\u05e2\u05e8\u05e4\u05e0\u05d9 \u05d1\u05e7\u05e6\u05d0\u05d4\u05d0 \u05d5\u05e9\u05dc\u05d5\u05dd \u05dc\u05da \u05d0\u05d5\u05dc \u05d7\u05d3\u05e9 \u05d0\u05dc\u05d5\u05dc [... \u05e7\u05d3]</li>\n<li>\u05e6\u05d3\u05e8 \u05d0\u05dc\u05d9 \u05d7\u05e6\u05e8\u05ea\u05d4 \u05d0\u05dc\u05e2\u05d0\u05dc\u05d9\u05d4 \u05d2 \u05db\u05ea\u05d1 \u05e0\u05e1\u05d9\u05da \u05d5\u05d0\u05d7\u05d3 \u05d5\u05d3\u05dc\u05da \u05d0\u05d7\u05ea\u05d9\u05d0\u05d8 \u05d5\u05d0\u05dc\u05d5\u05d0\u05d7\u05d3\u05d4 \u05e4\u05d9</li>\n<li>\u05de\u05e8\u05db\u05d1 \u05e4[\u05d3\u05d9\u05d0\u05e8 \u05e6\u05d7\u05d1]\u05d4 \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d5 \u05e2\u05dc\u05d9 \u05d5\u05d0\u05dc\u05ea\u05d0\u05e0\u05d9\u05d4 \u05e4\u05d9 \u05de\u05e8\u05db\u05d1 [\u05e0\u05d1\u05e8\u05d3\u05d5\u05d9 (?)]</li>\n<li>\u05e6\u05d7\u05d1\u05d4 \u05de\u05d5\u05e4\u05e7 \u05d0\u05dc\u05e2\u05e9\u05d0\u05d9\u05e8\u05d9 \u05d5\u05d0\u05dc\u05ea\u05d0\u05dc\u05ea\u05d4 \u05e4\u05d9 \u05de\u05e8\u05db\u05d1 \u05d0\u05d1\u05df \u05d0\u05d1\u05d5 \u05d0\u05dc\u05db\u05ea\u05d0\u05d9\u05d1 \u05e6\u05d7\u05d1\u05d4 \u05d5\u05dc\u05d3\u05d4</li>\n<li>\u05d5\u05e6\u05d7\u05d1\u05d4 \u05db\u05ea\u05d0\u05d1\u05da \u05db\u05ea\u05d0\u05d1 \u05dc\u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d5 \u05d0\u05dc\u05e1\u05e8\u05d5\u05e8 \u05d1\u05df \u05db\u05dc\u05d5\u05e3 \u05d0\u05dc\u05d8\u05dc\u05d7\u05d9 \u05ea\u05e0\u05e2\u05dd \u05ea\u05d5\u05d2\u05d3\u05d4\u05d0 \u05d0\u05dc\u05d9\u05d4</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"360ea10fa17d4921c0ea31ba77495e66\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/2d8877fc-4ad9-4124-81fd-e42775d9787f/",
+      "type": "Annotation",
+      "created": "2024-09-05T22:55:06.983882+00:00",
+      "modified": "2024-09-05T22:55:06.983899+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/8/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00012/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/4721/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:753.3174438476562,1294.336669921875,3362.5355834960938,1109.43115234375",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso",
+          "value": "<p>\u00a0</p>\n<ol>\n<li>\n<p>{[(III,5v:5) for yourself, best, profuse greetings. Whatever need or service you require, my lord,] let me know to perform it. And upon you be peace!] On the first of the month of Elul, [...there were]</p>\n</li>\n<li>\n<p>forwarded to his illustrious excellency three letters with the same text, this as a precaution. One is in</p>\n</li>\n<li>\n<p>the ship of Fi[dya\u0304r wit]h Sheikh Abu\u0304 \u02bfAli\u0304. The second is in the ship of [Nbrdwy/Nbyrwy (?)]</p>\n</li>\n<li>\n<p>with Muwaffaq al-\u02bfAsha\u0304\u02beiri\u0304. The third is in the ship of Ibn Abu \u02bel-Kata\u0304\u02beib, with his son.\u00a0</p>\n</li>\n<li>\n<p>And with your letter is a letter to Sheikh Abu \u02bel-Suru\u0304r b. Khallu\u0304f al-\u1e6cal\u1e25i\u0304. Please deliver/send it to him.}</p>\n</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}

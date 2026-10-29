@@ -1,0 +1,113 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AS-00146-00012%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F4721%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"06c929b7d9735f18fdf130df28b86f5e\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/fa6b1ac6-0f1c-4f70-b094-bc9ffe6d1eba/",
+      "type": "Annotation",
+      "created": "2022-10-07T00:31:44.386404+00:00",
+      "modified": "2024-06-18T16:48:36.701447+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1120/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00012/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/4721/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:42.3,33.26,3328.48125,2405.599375",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "\u00a0T-S AS 146.12 + T-S AS 149.184, recto (III,6 | III,6a)",
+          "value": "<ol>\n<li>\u05d5[...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ] | \u05dc\u05de\u05e2\u05df \u05e9\u05de\u05d5 \u05d4\u05d2\u05d3\u05d5\u05dc \u05d5\u05d0\u05d9\u05e6\u05d0 \u05d5\u05e6\u05dc\u05d5 [..]\u05e4\u05e6\u05dc\u05da [...]</li>\n<li>\u05d5\u05dc\u05d0 [...] \u05e4\u05dc\u05d0 | \u05e2\u05d3\u05de\u05ea \u05d4\u05de\u05ea\u05da \u05d0\u05dc\u05e9\u05e8\u05d9\u05e4\u05d4 \u05d5\u05dc\u05d0 \u05d6\u05dc\u05ea \u05de\u05ea\u05e4\u05e6[\u05dc ...]</li>\n<li>\u05de\u05d5\u05dc\u05d0\u05d9 \u05d5\u05d7\u05de\u05dc\u05ea\u05e0\u05d9 \u05d0\u05dc\u05d3\u05d0\u05dc\u05d4 \u05e2\u05dc\u05d9 \u05ea\u05e4[\u05e6]\u05dc\u05da | \u05d5\u05d0\u05e0\u05e4\u05d3\u05ea \u05d0\u05dc\u05d9\u05da \u05e4\u05d9 \u05de\u05e8[\u05db\u05d1 ...]</li>\n<li>\u05e2\u05dc\u05d9 \u05d9\u05d3 \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d5 \u05e2\u05dc\u05d9 \u05d1\u05df \u05d8\u05d9\u05d9\u05d1 | [\u05d0]\u05dc\u05de\u05e6\u05e8\u05d9 \u05d5\u05d4\u05d5 \u05d9\u05d4\u05d5\u05d3\u05d9 [... \u05d0\u05dc\u05de\u05e6]\u05e8\u05d9\u05d9\u05df \u05e4\u05d9\u05d4</li>\n<li>\u05db\u05d9\u05e8 \u05d5\u05d3\u05dc\u05da \u05e1\u05ea\u05d4 \u05d0\u05de\u05e0\u05d0 \u05d7\u05e8\u05d9\u05e8 \u05d8\u05d9[\u05d9\u05d1] \u05d1\u05d9\u05e9\u05d0\u05e0\u05d9 (?) \u05e4\u05d9 \u05db[\u05e8\u05d9\u05d8]\u05d4 \u05de\u05e9\u05de\u05e2\u05d4</li>\n<li>\u05d5\u05e4\u05d5\u05e7 \u05d0\u05dc\u05db\u05e8\u05d9\u05d8\u05d4 \u05db\u05d9\u05e9\u05d4 \u05e2\u05dc\u05d9\u05d4\u05d0 \u05de\u05db\u05ea\u05d5\u05d1 \u05d0\u05d1\u05e8\u05d4\u05dd \u05d9\u05d2\u05d5 \u05ea\u05d5\u05d2\u05d9\u05d4 \u05d9\u05d5\u05e1\u05e3 \u05d1\u05df \u05d0\u05d1\u05e8\u05d4\u05dd</li>\n<li>\u05d5\u05d0\u05d9\u05e6\u05d0 \u05db\u05d0\u05df \u05e2\u05e0\u05d3\u05d9 \u05e6\u05e8\u05d4 \u05d6\u05e8\u05e0\u05d9\u05da \u05d0\u05e6\u05e4\u05e8 \u05d5\u05e1\u05de\u05e2\u05ea \u05d0\u05df \u05d0\u05dc\u05d6\u05e8\u05e0\u05d9\u05da \u05e2\u05e0\u05d3\u05db\u05dd</li>\n<li>\u05de\u05d8\u05dc\u05d5\u05d1 \u05d5\u05db\u05d0\u05e6\u05d4 \u05d0\u05e6\u05d7\u05d0\u05d1 \u05e1\u05d9\u05dc\u05d0\u05df \u05d9\u05d8\u05dc\u05d1\u05d5\u05d4 \u05db\u05ea\u05d9\u05e8 \u05d5\u05e7\u05d3 \u05d9\u05d0 \u05de\u05d5\u05dc\u05d0\u05d9 \u05d0\u05e0\u05e4\u05d3[\u05ea]</li>\n<li>\u05d0\u05dc\u05d9\u05da \u05d0\u05dc\u05d5\u05d6\u05df \u05de\u05d0\u05d9\u05d4 \u05d5\u05e1\u05ea\u05d9\u05df \u05e8\u05d8\u05dc \u05d1\u05e6\u05e8\u05e4\u05d4 \u05d5\u05d4\u05d5 \u05d6\u05e8\u05e0\u05d9\u05da \u05de\u05dc\u05d9\u05d7 \u05ea\u05d2\u05ea\u05d4\u05d3</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"82bc26fb75c003122899b03c9a6afc16\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/5d25704e-0b46-4cd1-8307-6cf080822c70/",
+      "type": "Annotation",
+      "created": "2024-09-05T22:53:56.926628+00:00",
+      "modified": "2024-09-05T22:53:56.926643+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/8/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00012/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/4721/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:133.6492919921875,140.33175659179688,3240.9952392578125,2078.246368408203",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "<p>\u00a0</p>\n<ol>\n<li>\n<p>{and\u2026</p>\n</li>\n<li>\n<p>and not\u2026</p>\n</li>\n<li>\n<p>my lord. Making a bold demand on [your kindness, I have sent you a package]</p>\n</li>\n<li>\n<p>through the agency of Sheikh Abu\u0304 \u02bfAli b. \u1e6cayyib [and\u2026 (?) the Egyp]tians. In it are</p>\n</li>\n<li>\n<p>goods, namely six manns of good [...] silk in a waterproof satchel.</p>\n</li>\n<li>\n<p>On top of the satchel is a canvas on which is written \u2018Abraham Yiju\u0304, sent by Joseph b. Abraham.\u2019</p>\n</li>\n<li>\n<p>Moreover, I had here a bag of yellow arsenic. I heard that arsenic in your place</p>\n</li>\n<li>\n<p>is in demand, and in particular the people of Ceylon search for it a great deal. I have sent [it], my lord,</p>\n</li>\n<li>\n<p>to you, its weight exactly 160 pounds. And it is fine arsenic. Please make an effort, [continues with III,5]}</p>\n</li>\n</ol>\n<p>\u00a0</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"41e5a098ead5348eee062f9665fbf959\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/c5bc135c-6eaa-402c-91c4-5a02c77454f7/",
+      "type": "Annotation",
+      "created": "2024-09-05T22:54:29.351950+00:00",
+      "modified": "2024-09-05T22:54:29.351967+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/8/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00146-00012/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/4721/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:3381.3271484375,167.06161499023438,614.78662109375,2051.5165100097656",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto - margin",
+          "value": "<ol>\n<li>\n<p>{[...Between us] is a commenda for 259 dinars. His share [(III,5:m1) in it is one third of the profit,]} [(III,4:m1) while I, your servant, get two thirds. Now, my lord, if he has traveled to Ceylon, nothing can be done. However, if he returns to you or if he did not make the journey] {[...perhaps he intends to travel to] a place other than to Aden.</p>\n</li>\n<li>\n<p>a place other than to Aden. My lord, when [(III,5:m2) I learned this]} [(III,4:m2) news, that he was traveling to Ceylon, I became distressed. Afterwards I took courage and saw that Sheikh \u1e0caf\u012br b. Far\u0101j was traveling to your place {lit., \u2018to you\u2019}]</p>\n</li>\n</ol>\n<p>\u00a0</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 2
+    }
+  ]
+}
