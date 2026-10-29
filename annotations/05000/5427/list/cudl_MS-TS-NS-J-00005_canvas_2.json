@@ -4,43 +4,12 @@
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/a5ab10a4-c7b6-4794-a01a-1d01fdf895a0/",
+      "etag": "\"dec72e3726ea06aa1959eecb88a976ae\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/61dcd1bb-7519-4e74-8c12-67a4c773a981/",
       "type": "Annotation",
-      "created": "2023-12-07T16:55:04.028029+00:00",
-      "modified": "2023-12-07T16:55:04.028079+00:00",
-      "dc:source": "https://geniza.princeton.edu/sources/1024/",
-      "target": {
-        "source": {
-          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-J-00005/canvas/2",
-          "type": "Canvas",
-          "partOf": {
-            "id": "https://geniza.princeton.edu/documents/5427/iiif/manifest/"
-          }
-        },
-        "selector": {
-          "type": "SvgSelector",
-          "value": "<svg><polygon points=\"2575.7218 1053.3139 2618.6791 1110.0175 2584.3133 1213.1151 2618.6791 1409.0006 2594.623 1692.519 1099.7078 1714.8568 549.8539 1702.8288 297.2648 1646.1251 285.2367 1213.1151 331.6306 1122.0456 2147.8667 1110.0175 2266.429 1065.3419 2575.7218 1053.3139\"></polygon></svg>"
-        }
-      },
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "<ol>\n<li>\u05d1\u05df \u05d9\u05d2\u05d5 \u05d7\u05e8\u05e1 \u05d0\u05dc\u05d8 \u05e0\u05e2\u05de\u05ea\u05d4 \u05d1\u05df \u05d0\u05dc\u05d7\u05e1\u05df \u05d1\u05df \u05d1\u05e0\u05d3\u05d0\u05e8</li>\n</ol>",
-          "format": "text/html",
-          "TextInput": "rtl"
-        }
-      ],
-      "motivation": [
-        "sc:supplementing",
-        "transcribing"
-      ]
-    },
-    {
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/1cc85a7a-b4d3-404e-9138-2f0f824ce71a/",
-      "type": "Annotation",
-      "created": "2023-12-07T16:55:04.235668+00:00",
-      "modified": "2023-12-07T16:55:04.235713+00:00",
-      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "created": "2024-01-25T06:20:37.913391+00:00",
+      "modified": "2024-12-19T22:08:52.644071+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1122/",
       "target": {
         "source": {
           "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-J-00005/canvas/2",
@@ -51,22 +20,93 @@
         },
         "selector": {
           "type": "FragmentSelector",
-          "value": "xywh=percent:1,1,98,98",
+          "value": "xywh=pixel:302.2372131347656,850.5814819335938,2440.2312927246094,812.3558959960938",
           "conformsTo": "http://www.w3.org/TR/media-frags/"
         }
       },
       "body": [
         {
           "type": "TextualBody",
-          "value": "<ol>\n<li>\u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05dc\u05d0\u05d2\u05dc \u05de\u05d5\u05dc\u05d0\u05d9 \u05d0\u05d1\u05e8\u05d4\u05dd \u05e2\u05d1\u05d3\u05d4 \u05de\u05e6\u05de\u05d5\u05df</li>\n</ol>",
-          "format": "text/html",
-          "TextInput": "rtl"
+          "label": "T-S NS J5 verso, Hebrew address (IB II, 17)",
+          "value": "<ol>\n<li>\u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05dc\u05d0\u05d2\u05dc \u05de\u05d5\u05dc\u05d0\u05d9 \u05d0\u05d1\u05e8\u05d4\u05dd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u05e2\u05d1\u05d3\u05d4 \u05de\u05e6\u05de\u05d5\u05df</li>\n<li>\u05d1\u05df \u05d9\u05e9\u05d5 \u05d7\u05e8\u05e1 \u05d0\u05dc\u05dc\u05d4 \u05e0\u05e2\u05de\u05ea\u05d4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u05d1\u05df \u05d0\u05dc\u05d7\u05e1\u05df \u05d1\u05df \u05d1\u05e0\u05d3\u05d0\u05e8</li>\n</ol>",
+          "format": "text/html"
         }
       ],
       "motivation": [
         "sc:supplementing",
         "transcribing"
-      ]
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"963029a5cfd11dc314271d2912df2712\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/edb3851d-7008-4f94-b72c-e3bb7f380b87/",
+      "type": "Annotation",
+      "created": "2024-12-19T22:17:56.914661+00:00",
+      "modified": "2024-12-19T22:17:56.914676+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/8/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-J-00005/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5427/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:273.3186950683594,914.722412109375,2386.1109924316406,867.6767578125",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso, Hebrew address (IB II, 17)",
+          "value": "<ol>\n<li>(To) The most illustrious elder, my lord Abraham</li>\n<li>Ben Yish\u016b\u2014May God preserve your well-being!</li>\n<li>(From) Your servant Ma\u1e0dm\u016bn</li>\n<li>b. al-\u1e24asan b. Bund\u0101r.</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"a64f61cf5a1ec69c67f94fdcd7840fd5\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/216d55c5-b199-4b31-97de-60142e63849b/",
+      "type": "Annotation",
+      "created": "2024-01-25T06:20:47.573631+00:00",
+      "modified": "2024-12-19T22:10:50.702739+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1122/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-NS-J-00005/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5427/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:245.851318359375,1903.87158203125,2551.039306640625,1009.962158203125",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "T-S NS J5 verso, Arabic address (IB II, 17)",
+          "value": "<ol>\n<li>\u0627\u0644\u0634\u064a\u062e \u0627\u0644\u0623\u062c\u0644 \u0645\u0648\u0644\u0627\u0649 \u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u0628\u0646&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u0639\u0628\u062f\u0647</li>\n<li>\u0627\u064a\u0634\u0648 \u0627\u0644\u0627\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u062d\u0631\u0633 \ufdf2 \u0646\u0639\u0645\u062a\u0647&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u0645\u0636\u0645\u0648\u0646 \u0628\u0646 \u0627\u0644\u062d\u0633\u0646 \u0628\u0646 \u0628\u0646\u062f\u0627\u0631</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
     }
   ]
 }
