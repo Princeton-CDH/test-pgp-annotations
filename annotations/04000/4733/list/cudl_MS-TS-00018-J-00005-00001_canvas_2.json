@@ -1,0 +1,113 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00018-J-00005-00001%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F4733%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"3f0e4050ba972fd4c705be5dbc643afa\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/54a073c1-b4e6-426e-8b41-9029ba931cc3/",
+      "type": "Annotation",
+      "created": "2022-10-07T00:25:37.035086+00:00",
+      "modified": "2024-06-18T17:46:24.120288+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1120/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00018-J-00005-00001/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/4733/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso",
+          "value": "<ol>\n<li>\u05d5\u05db\u05ea\u05d0\u05d1 \u05d0\u05d9\u05e6\u05d0 \u05d0\u05dc\u05d9 [&hellip; \u05ea\u05ea\u05e4\u05e6\u05dc \u05ea\u05d5\u05e6\u05dc\u05d4\u05d0]</li>\n<li>\u05d0\u05dc\u05d9\u05d4 \u05dc\u05d0\u05e0\u05d9 \u05e1\u05de\u05e2\u05ea \u05d0[\u05e0\u05d4 ...]</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"8ff676b932a830d4be248a25eff06dd2\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/bc4df187-c5f7-4fff-bfa8-bdc430e61ccd/",
+      "type": "Annotation",
+      "created": "2023-12-22T23:26:57.110766+00:00",
+      "modified": "2024-01-18T16:55:35.133450+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/8/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00018-J-00005-00001/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/4733/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:1532.33203125,8271.134765625,1260.700927734375,504.2802734375",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso",
+          "value": "<ol>\n<li>And another letter to [. . . Please deliver it]</li>\n<li>to him, for I have heard th[at he is in . . . And Peace.] </li>\n</ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"e96fce000191a7e2a77910e854085b59\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/c9e1137c-675c-4f7c-949c-3359dae3a5e1/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:51:10.354184+00:00",
+      "modified": "2026-10-29T19:51:10.354192+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00018-J-00005-00001/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/4733/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso",
+          "value": "\n<ol><li>\u0648\u0643\u062a\u0627\u0628 \u0627\u064a\u0636\u0627 \u0627\u0644\u0649 \u062a\u062a\u0641\u0635\u0644 \u062a\u0648\u0635\u0644\u0647\u0627</li>\n<li>\u0627\u0644\u064a\u0647 \u0644\u0627\u0646\u064a \u0633\u0645\u0639\u062a</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
