@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-AR-00053-00065%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F1273%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"7654d6c9cd8ffbf59d70f1af4b3de423\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/500da7b0-9342-4aa8-b3c7-f0b8cf64ff9d/",
+      "type": "Annotation",
+      "created": "2022-10-07T01:50:40.946134+00:00",
+      "modified": "2023-07-07T02:29:50.421004+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/32/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00053-00065/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1273/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d0\u05e2\u05dc\u05dd \u05de\u05d5\u05dc\u05d0\u05d9 \u05d0\u05dc\u05e9\u05d9\u05da</li>\n<li>\u05d0\u05d3\u05d0\u05dd \u05d0\u05dc\u05dc\u05d4 \u05e2\u05d6\u05d4</li>\n<li>\u05d0\u05df \u05d0\u05d1\u05d5 \u05d0\u05dc\u05d7\u05e1\u05df \u05de\u05d0</li>\n<li>\u05d0\u05e0\u05ea\u05e7\u05dc \u05d0\u05dc\u05d0 \u05d5\u05e2\u05d9\u05e0\u05d4</li>\n<li>\u05dc\u05dc\u05db\u05ea\u05d0\u05d1 \u05d5\u05d0\u05e2\u05d8\u05dd</li>\n<li>\u05de\u05d0 \u05e2\u05dc\u05d9\u05d4 \u05d0\u05d1\u05d5 \u05d0\u05dc\u05d7\u05e1\u05df \u05d1\u05df</li>\n<li>\u05d5\u05d4\u05d9\u05d1 \u05e7\u05d0\u05dd \u05db\u05e1\u05e8 \u05dc\u05d5\u05d7\u05d4</li>\n<li>\u05d1\u05e2\u05dc\u05dd \u05d0\u05dc\u05e6\u05d1\u05d9\u05d0\u05df \u05d5\u05e9\u05dc\u05d5\u05dd</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"da8f163764eb781d4b944b5aaf758dec\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/9fb4e214-8aad-48fb-af4e-b20940dc421b/",
+      "type": "Annotation",
+      "created": "2023-07-17T23:44:35.209995+00:00",
+      "modified": "2026-07-13T19:05:19.243298+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/32/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00053-00065/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1273/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:526.5624389648438,284.3437194824219,2311.6091918945312,2901.359161376953",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "\n<ol><li>This is to inform you my lord, the elder,</li>\n<li>may God make your honored position permanent,</li>\n<li>that Abu \u02bel-\u1e24asan, after his</li>\n<li>transfer to my school,</li>\n<li>showed great zeal for study.</li>\n<li>His great misfortune was that Abu \u02bel-\u1e24asan b.</li>\n<li>Wuhayb broke his board</li>\n<li>with the knowledge of the other boys. And peace.&nbsp;&nbsp;</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"2a216f2f953ef7c9bb594fca3ee458ef\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/fb8051ee-4173-49a7-b659-8f2cb59eef37/",
+      "type": "Annotation",
+      "created": "2026-08-03T18:13:13.773099+00:00",
+      "modified": "2026-08-03T18:13:13.773106+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1260/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00053-00065/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1273/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:531.4267578125,312.1107177734375,2456.169189453125,2819.9156494140625",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<p>I would like to inform my lord the sheikh\u2014God [Allah] preserve his strength!\u2014that Abu \u2019l-\u1e24asan, no sooner had he been given over [to my care] than his eye was on his schoolwork. But I have to inform [my lord] what happened to him: [another child called] Abu \u2019l-\u1e24asan ibn Wuhayb rose up and broke his writing-board with the full knowledge of the other boys. Greetings.</p>\n<p></p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"8688ece2bdb0b88ad7bfc382f6dcd3b2\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/c114e180-4288-4017-9973-be53777c5357/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:45:36.489220+00:00",
+      "modified": "2026-10-29T19:45:36.489232+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00053-00065/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1273/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "",
+          "value": "\n<ol><li>\u0627\u0639\u0644\u0645 \u0645\u0648\u0644\u0621\u064a \u0627\u0644\u0634\u064a\u0643</li>\n<li>\u0627\u062f\u0627\u0645 \u0627\u0644\u0644\u0647 \u0639\u0632\u0629</li>\n<li>\u0627\u0646 \u0627\u0628\u0648 \u0627\u0644\u062d\u0633\u0646 \u0645\u0627</li>\n<li>\u0627\u0646\u062a\u0642\u0644 \u0627\u0644\u0627 \u0648\u0639\u064a\u0646\u0647</li>\n<li>\u0644\u0644\u0643\u062a\u0627\u0628 \u0648\u0627\u0639\u0638\u0645</li>\n<li>\u0645\u0627 \u0639\u0644\u064a\u0647 \u0627\u0628\u0648 \u0627\u0644\u062d\u0633\u0646 \u0628\u0646</li>\n<li>\u05d5\u05d4\u05d9\u05d1 \u0642\u0627\u0645 \u0643\u0633\u0631 \u0644\u0648\u062d\u0647</li>\n<li>\u0628\u0639\u0644\u0645 \u0627\u0644\u0635\u0628\u064a\u0627\u0646 \u05d5\u05e9\u05dc\u05d5\u05dd</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
