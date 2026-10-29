@@ -1,0 +1,183 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fprincetongenizalab.github.io%2Fiiif%2Fbodleian%2Fa%2Fcanvas%2Fms-heb-a-2-17%2F2.json&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F2505%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"b39f521726eae3e86e059f4084b3a360\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/f2c7aa7e-168c-47a0-a7a5-5588bb8c28c3/",
+      "type": "Annotation",
+      "created": "2024-06-03T21:22:51.840748+00:00",
+      "modified": "2024-06-03T21:22:51.840764+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/20/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/a/canvas/ms-heb-a-2-17/2.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/2505/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:171.6276397705078,556.5637817382812,3080.797164916992,564.9000854492188",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso",
+          "value": "<ol>\n<li><span lang=\"he\">[\u05dc]\u05d0\u05db'\u05d9 \u05d5\u05e1\u05d9\u05d3\u05d9 \u05d0\u05d1\u05d9 \u05d0\u05dc\u05db\u05d9\u05e8 \u05d0\u05d8\u05d0\u05dc \u05d0\u05dc\u05dc\u05d4 \u05d1\u05e7\u05d0\u05d4 \u05e2\u05d6[\u05d9\u05d6\u05d0]&nbsp; &nbsp; &nbsp; &nbsp; \u05de\u05df \u05d9\u05d7\u05d9\u05d9 \u05d1\u05df \u05de\u05d5\u05e1\u05d9 \u05e0\u05d2 \u05de\u05d2\u05d0\u05e0\u05d9</span><span lang=\"he\">&nbsp; \u05d0\u05dc[</span></li>\n<li><span lang=\"he\">\u05d6\u05db\u05e8\u05d9\u05d0 \u05d1\u05df \u05ea\u05de\u05d0\u05dd \u05e0'\u05e0'&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\u05d0\u05dc\u05dc\u05d4 \u05d5\u05dc\u05d9\u05d4</span></li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"5bc41fc14458fd19eb14c776068977b7\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/b1f4de2c-8dfb-472a-af50-d7c2e44d3111/",
+      "type": "Annotation",
+      "created": "2025-05-12T20:52:29.880225+00:00",
+      "modified": "2025-05-12T20:52:29.880239+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/20/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/a/canvas/ms-heb-a-2-17/2.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/2505/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:176.53123474121094,629.6281127929688,3030.452896118164,476.63433837890625",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso",
+          "value": "<p>\u05dc\u05d0\u05d7\u05d9 \u05d5\u05d0\u05d3\u05d5\u05e0\u05d9 \u05d0\u05d1\u05d5 \u05d0\u05dc\u05db\u05d9\u05e8, \u05d9\u05d9\u05ea\u05df \u05dc\u05d5 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd \u05d0\u05e8\u05d9\u05db\u05d5\u05ea \u05d9\u05de\u05d9\u05dd, \u05d1\u05db\u05d1\u05d5\u05d3, \u05d6\u05db\u05e8\u05d9\u05d0 \u05d1\u05df \u05ea\u05de\u05d0\u05dd \u05e0''\u05e0; \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd \u05e9\u05d5\u05de\u05e8\u05d5; \u05de\u05d9\u05d7\u05d9\u05d0 \u05d1\u05df \u05de\u05d5\u05e1\u05d0 \u05e0\"\u05e0 \u05de\u05d2'\u05d0\u05e0\u05d9 .... </p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"3ad3a55b95774253936dc58297cb81e6\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/b3a06e26-8e9e-43c3-9be2-537cd859f69c/",
+      "type": "Annotation",
+      "created": "2025-10-28T02:36:20.494783+00:00",
+      "modified": "2025-10-28T02:36:59.146054+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/170/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/a/canvas/ms-heb-a-2-17/2.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/2505/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:0,479.93756103515625,3432.810791015625,823.6500854492188",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso, address",
+          "value": "<p>To my brother and master Abu \u038a-Khayr&mdash;may God prolong his life&mdash;the dear Zakariyy\u0101, son of Tamm\u0101m&mdash;(may he) r(est in) E(den).</p>\n<p>May God be his protector.</p>\n<p>From Ya\u1e25y\u0101, son of M\u016bs\u0101&mdash;(may his) s(oul rest in) p(eace)&mdash;Majj\u0101n\u012b</p>\n<p>His ...</p>\n<p>&nbsp;</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"1bd9707e92b495fa55f9dd29a70f02e4\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/a9b5425d-fba7-4efb-9eb3-bfdf4187f907/",
+      "type": "Annotation",
+      "created": "2022-10-07T01:32:06.204960+00:00",
+      "modified": "2022-10-07T01:32:06.204971+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/743/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/a/canvas/ms-heb-a-2-17/2.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/2505/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso\ntop of the page. Address.",
+          "value": "<p>\u05d0\u05db\u05d9 \u05d5\u05e1\u05d9\u05d3\u05d9 \u05d0\u05d1\u05d9 \u05d0\u05dc\u05db\u05d9\u05e8 \u05d0\u05d8\u05d0\u05dc \u05d0\u05dc\u05dc\u05d4 \u05d1\u05e7\u05d0\u05d4 \u05e2\u05d6\u05d9\u05d6\u05d0 \u05de\u05df \u05d9\u05d7\u05d9\u05d9 \u05d1\u05df \u05de\u05d5\u05e1\u05d9 \u05e0\u05e0 \u05de\u05d2\u05d0\u05e0\u05d9 \u05d5\u05dc\u05d9\u05d4</p>\n<p>\u05d6\u05db\u05e8\u05d9\u05d0 \u05d1\u05df \u05ea\u05de\u05d0\u05dd \u05e0\u05e2 \u05d0\u05dc\u05dc\u05d4 \u05d5\u05dc\u05d9\u05d4</p>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 3
+    },
+    {
+      "etag": "\"b5534b877b74fc519fe2e19379817e38\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/dd819672-f810-4e4f-8281-9de1d642ece0/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:47:23.177633+00:00",
+      "modified": "2026-10-29T19:47:23.177641+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/a/canvas/ms-heb-a-2-17/2.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/2505/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso\ntop of the page. Address.",
+          "value": "<p>\u0627\u062e\u064a \u0648\u0633\u064a\u062f\u064a \u0627\u0628\u064a \u0627\u0644\u062e\u064a\u0631 \u0627\u0637\u0627\u0644 \u0627\u0644\u0644\u0647 \u0628\u0642\u0627\u0647 \u0639\u0632\u064a\u0632\u0627 \u0645\u0646 \u064a\u062d\u064a\u064a \u0628\u0646 \u0645\u0648\u0633\u0649 \u0646\u0646 \u0645\u062c\u0627\u0646\u064a \u0648\u0644\u064a\u0647</p>\n<p>\u0632\u0643\u0631\u064a\u0627 \u0628\u0646 \u062a\u0645\u0627\u0645 \u0646\u0639 \u0627\u0644\u0644\u0647</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 3
+    }
+  ]
+}
