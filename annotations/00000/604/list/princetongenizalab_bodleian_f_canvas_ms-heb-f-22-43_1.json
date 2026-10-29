@@ -1,0 +1,112 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fprincetongenizalab.github.io%2Fiiif%2Fbodleian%2Ff%2Fcanvas%2Fms-heb-f-22-43%2F1.json&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F604%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"349c7d588ccd48d2c2d099841131e3e9\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/8f24a3e3-6147-43e7-898c-679b87613adf/",
+      "type": "Annotation",
+      "created": "2023-06-19T18:09:35.132381+00:00",
+      "modified": "2024-12-08T00:38:17.452963+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/38/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-22-43/1.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/604/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:335.18487548828125,1275.9283447265625,2053.6173706054688,2045.9832763671875",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto: second text block",
+          "value": "<ol>\n<li>\u05e9\u05d4\u05d3\u05ea \u05d0\u05e0\u05d0 \u05d5\u05d1\u05d5\u05e1\u05e8\u05d5\u05e8 \u05d1\u05df \u05d0\u05dc\u05e6\u05d1\u05d0\u05d2</li>\n<li>\u05d5\u05e4\u05e6\u05d0\u05d9\u05dc \u05d0\u05dc\u05d7\u05d6\u05d0\u05df \u05de\u05e2\u05d0\u05dc\u05d9 \u05d1\u05df</li>\n<li>\u05d0\u05dc\u05d0\u05e8\u05d1\u05dc\u05d9 \u05e2\u05dc\u05d9 \u05e1\u05ea \u05e8\u05d9\u05d0\u05e5</li>\n<li>\u05d0\u05dc\u05e0\u05d0\u05d9\u05d7\u05d4 \u05d5\u05d0\u05e9\u05d4\u05d3\u05ea\u05e0\u05d0 \u05e2\u05dc\u05d9</li>\n<li>\u27e6\u05e0\u05e4\u05e9\u27e7 \u05d5\u05e4\u05e1\u05d4\u05d0 \u05d0\u05e0\u05d4\u05d0 \u05e7\u05d3</li>\n<li>\u05d5\u05d4\u05d1\u05d4 \u05de\u05df //\u05d3\u05d0\u05e8\u05d4\u05d0\\\\ \u05d3\u05d0\u05ea\u05d4(!) \u05d6 \u05e7\u05e8\u05d0\u05e8\u05d9\u05d8</li>\n<li>\u05dc\u05e7\u05e8\u05d0\u05d9\u05d9\u05df \u05ea\u05de\u05df: \u05d5\u05dc\u05dc\u05e8\u05d1\u05d0\u05e0\u05d9\u05df \u05d6&gt;</li>\n<li>\u05e4\u05d9 \u05d0\u05dc\u05e2\u05e9\u05e8 \u05d0\u05dc\u05d0\u05d5\u05e1\u05d8 \u05e9\u05d4\u05e8</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"108d67cbd5889b709524f86f85b9ccc5\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/ad1a7944-61ed-4920-88a2-7636e3682051/",
+      "type": "Annotation",
+      "created": "2023-11-07T20:09:25.338068+00:00",
+      "modified": "2023-11-07T20:09:25.338088+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/38/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-22-43/1.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/604/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:367.6371765136719,1350.79150390625,2049.210723876953,2049.210693359375",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto, second block of text",
+          "value": "<ol>\n<li>\n<p>(1-3) I, and (A)b\u016b Sur\u016br b. al-\u1e62abb\u0101gh, and Fa\u1e0d\u0101\u02beil al-\u1e24azz\u0101n Ma\u02bf\u0101l\u012b b. al-Arbil\u012b are witnesses concerning Sitt Riy\u0101\u1e0d&nbsp;</p>\n</li>\n<li>&nbsp;</li>\n<li>&nbsp;</li>\n<li>\n<p>al-N\u0101\u02bei\u1e25a; she made us testify for&nbsp;</p>\n</li>\n<li>\n<p>herself that she has&nbsp;</p>\n</li>\n<li>\n<p>donated out of her compound of which she owns 7 q\u012br\u0101\u1e6ds,</p>\n</li>\n<li>\n<p>eight to the Karaites and 7 1&frasl;2 to the Rabbanites,&nbsp;</p>\n</li>\n<li>\n<p>on the middle ten days of the month ...&nbsp;</p>\n</li>\n</ol>\n<p>&nbsp;</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"dc4bb1548491d2250d000e14c0e87dd2\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/083ffe28-383f-4ca9-8387-e40233e77dfe/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:44:26.907468+00:00",
+      "modified": "2026-10-29T19:44:26.907481+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://princetongenizalab.github.io/iiif/bodleian/f/canvas/ms-heb-f-22-43/1.json",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/604/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:335.18487548828125,1275.9283447265625,2053.6173706054688,2045.9832763671875",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto: second text block",
+          "value": "\n<ol><li>\u0634\u0647\u062f\u062a \u0627\u0646\u0627 \u0648\u0628\u0648\u0633\u0631\u0648\u0631 \u0628\u0646 \u0627\u0644\u0635\u0628\u0627\u063a</li>\n<li>\u0648\u0641\u0636\u0627\u0626\u0644 \u0627\u0644\u062d\u0632\u0627\u0646 \u0645\u0639\u0627\u0644\u0649 \u0628\u0646</li>\n<li>\u0627\u0644\u0627\u0631\u0628\u0644\u064a \u0639\u0644\u0649 \u0633\u062a \u0631\u064a\u0627\u0636</li>\n<li>\u0627\u0644\u0646\u0627\u0626\u062d\u0629 \u0648\u0627\u0634\u0647\u062f\u062a\u0646\u0627 \u0639\u0644\u0649</li>\n<li>\u05e0\u05e4\u05e9 \u0648\u0641\u0633\u0647\u0627 \u0627\u0646\u0647\u0627 \u0642\u062f</li>\n<li>\u0648\u0647\u0628\u0647 \u0645\u0646 \u062f\u0627\u0631\u0647\u0627 \u0630\u0627\u062a\u0647 \u05d6 \u0642\u0631\u0627\u0631\u064a\u0637</li>\n<li>\u0644\u0642\u0631\u0627\u0626\u064a\u0646 \u062b\u0645\u0646 \u0648\u0644\u0644\u0631\u0628\u0627\u0646\u064a\u0646 \u05d6</li>\n<li>\u0641\u064a \u0627\u0644\u0639\u0634\u0631 \u0627\u0644\u0627\u0648\u0633\u0637 \u0634\u0647\u0631</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
