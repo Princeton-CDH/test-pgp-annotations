@@ -1,0 +1,78 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00013-J-00016-00009%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F3256%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"56947e1de8099172f84c9316a5f995b0\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/50d17eff-05db-4c9b-8569-76c1fb3348ba/",
+      "type": "Annotation",
+      "created": "2022-10-07T01:08:05.023707+00:00",
+      "modified": "2024-02-06T19:19:06.812586+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/757/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00016-00009/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/3256/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso - address",
+          "value": "<ol>\n<li>\u05d7\u05e6\u05e8\u05d4 \u05de\u05d5\u05dc\u05d0\u05d9 \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05dc\u05d0\u05d2\u05dc \u05d0\u05d1\u05d5 \u05d0\u05e1\u05d7\u05d0\u05e7 \u05d0\u05d1\u05e8\u05d4\u05dd</li>\n<li>\u05d7\u05de\u05d3\u05ea \u05d4\u05d9\u05e9\u05d9\u05d1\u05d4 \u05d0\u05d8\u05d0\u05dc \u05d0\u05dc\u05dc\u05d4 \u05d1\u05e7\u05d0\u05d4\u05d0 \u05d5\u05d7\u05e8\u05e1 \u05e2\u05d6\u05d4\u05d0</li>\n<li>\u05d1\u05df \u05db\u05d1\u05d5\u05d3 \u05d2\u05d3 \u05e7\u05d3 \u05de\u05e8\u05e0\u05d5 \u05d5\u05e8\u05d1\u05e0\u05d5 \u05e0\u05ea\u05df \u05d4\u05e9\u05d1\u05d9\u05e2\u05d9 \u05d1\u05d7\u05d1\u05d5\u05e8\u05ea \u05d0\u05e8\u05e5</li>\n<li>\u05d4\u05e6\u05d1\u05d9 \u05d6\u05e6\u05dc</li>\n<li>\u05d0\u05d1\u05d5 \u05d0\u05dc\u05de\u05e2\u05d0\u05dc\u05d9 \u05dc\u05d0</li>\n<li>\u05e2\u05d3\u05de\u05d4</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
+    },
+    {
+      "etag": "\"bf2b06b9e1104d923ffbfe1315a8f0aa\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/193022f6-8c96-48c5-a9cd-2a1c2bc7e58a/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:48:58.964109+00:00",
+      "modified": "2026-10-29T19:48:58.964117+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00013-J-00016-00009/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/3256/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso - address",
+          "value": "\n<ol><li>\u062d\u0636\u0631\u0629 \u0645\u0648\u0644\u0626\u064a \u0627\u0644\u0634\u064a\u0643 \u0627\u0644\u0627\u062c\u0644 \u0627\u0628\u0648 \u0627\u0633\u062d\u0627\u0642 \u05d0\u05d1\u05e8\u05d4\u05dd</li>\n<li>\u05d7\u05de\u05d3\u05ea \u05d4\u05d9\u05e9\u05d9\u05d1\u05d4 \u0627\u0637\u0627\u0644 \u0627\u0644\u0644\u0647 \u0628\u0642\u0627\u0647\u0627 \u0648\u062d\u0631\u0633 \u0639\u0632\u0647\u0627</li>\n<li>\u05d1\u05df \u05db\u05d1\u05d5\u05d3 \u05d2\u05d3 \u0642\u062f \u05de\u05e8\u05e0\u05d5 \u05d5\u05e8\u05d1\u05e0\u05d5 \u05e0\u05ea\u05df \u05d4\u05e9\u05d1\u05d9\u05e2\u05d9 \u05d1\u05d7\u05d1\u05d5\u05e8\u05ea \u05d0\u05e8\u05e5</li>\n<li>\u05d4\u05e6\u05d1\u05d9 \u05d6\u05e6\u05dc</li>\n<li>\u0627\u0628\u0648 \u0627\u0644\u0645\u0639\u0627\u0644\u064a \u0644\u0627</li>\n<li></li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 2
+    }
+  ]
+}
