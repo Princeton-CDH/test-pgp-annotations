@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-MOSSERI-II-00163-00003%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F5397%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"d037951afac5fd148754fef7b86ac16d\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/af1e3641-5c80-4fa0-9e54-b1fb91629aa6/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:51:37.509575+00:00",
+      "modified": "2026-10-29T19:51:37.509588+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-MOSSERI-II-00163-00003/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5397/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "",
+          "value": "<p>\u0643\u0644 \u0645\u0641\u0642\u0648\u062f \u0643\u0627\u0646 \u0645\u0648\u062c\u0648\u062f\u0627 \u0642\u0628\u0644 \u0641\u0642\u062f\u0647 \u0641\u0645\u0641\u0642\u0648\u062f\u064a \u0644\u0645 \u064a\u0643\u0646 \u0644\u0647 \u0645\u0648\u062c\u0648\u062f\u0627 \u064a\u0648\u0645\u0627 \u0642\u0637 \u0644\u0627\u0646\u0647 \u062a\u0631\u0643\u0646\u064a \u0641\u064a \u0638\u0644\u0645\u0647 \u0627\u0644\u0627\u062d\u0634\u0627 \u0648\u062a\u0631\u0643 \u0627\u0644\u0648\u0627\u0644\u062f\u0629 \u05d0\u05dc\u05de\u05e0\u05d5\u05ea \u05d7\u05d9\u05d5\u05ea \u0648\u0644\u0645 \u064a\u0643\u0646 \u0645\u0646 \u0633\u0648 \u0627\u0644\u062d\u0627\u0644 \u0647\u0630\u0627 \u0641\u0637\u0642 \u0641\u0642\u0637 \u0628\u0644 \u0642\u062f \u0627\u0635\u062d\u0628\u062a\u0647 \u0627\u0639\u0644\u0627\u0642 \u0646\u0641\u064a\u0633\u0647 \u0645\u0645\u0627 \u062f\u062e\u0644\u062a \u0628\u0647 \u0639\u0644\u064a\u0647 \u0641\u064a \u0643\u062a\u0648\u0628\u062a\u0629 \u0630\u0647\u0628\u0627 \u0648\u0641\u0636\u062a \u0648\u063a\u064a\u0631 \u0630\u0644\u0643 \u0645\u0645\u0627 \u0643\u0627\u0646 \u0627\u0644\u0627 \u064a\u0633\u064a\u0631 \u0645\u0646 \u0643\u062b\u064a\u0631 \u062b\u0645 \u0627\u0646 \u0645\u0627 \u0643\u0627\u0646</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
