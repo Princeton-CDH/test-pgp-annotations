@@ -1,0 +1,112 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Ffiggy.princeton.edu%2Fconcern%2Fscanned_resources%2F679bb134-fd09-42a3-9cde-0d1a7296fe5b%2Fmanifest%2Fcanvas%2F23239a2e-a20c-4a62-9698-0a6986c94bc0&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F649%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"a87c0450d27fd9cc7d49c0886c3aae02\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/972a8f3c-248c-4290-9bcb-6e0266a1804c/",
+      "type": "Annotation",
+      "created": "2024-11-05T16:50:22.810098+00:00",
+      "modified": "2024-11-05T16:50:22.810113+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/38/",
+      "target": {
+        "source": {
+          "id": "https://figgy.princeton.edu/concern/scanned_resources/679bb134-fd09-42a3-9cde-0d1a7296fe5b/manifest/canvas/23239a2e-a20c-4a62-9698-0a6986c94bc0",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/649/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3263.564453125,2013.5570068359375 2681.322265625,2060.511962890625 2305.681884765625,2520.67138671875 1723.439697265625,2896.3115234375 1704.65771484375,4333.13525390625 1892.477783203125,5460.0556640625 2230.553955078125,5478.837890625 3620.422607421875,5328.58154296875 3582.858642578125,4164.09716796875 3451.384521484375,3318.90673828125 3329.301513671875,2539.453369140625 3291.737548828125,2126.2490234375\"></polygon></svg>"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso",
+          "value": "<p></p>\n<ol>\n<li>The\u00a0 compound \u2026.</li>\n<li>in the khawkha b. \u2026.</li>\n<li>The compound that is adjacent to aI-Rash\u012bd Samuel,</li>\n<li>a quarter of which belongs to the poor, 4+3.</li>\n<li>D\u0101r Th\u0101bit, in Mahra,</li>\n<li>the q\u0101\u02bfa (which is) the apartment of two men, weavers \u2026.</li>\n<li>the \u1e6dabaqa (which is) the apartment of \u02bfUbayd, that is above</li>\n<li>the aforesaid q\u0101\u02bfa, 3.</li>\n<li>AI-Jaz\u012bra, the compound:</li>\n<li>The apartment of Ma\u1e25\u0101sin al-Nash\u0101w\u012b,</li>\n<li>5.</li>\n<li>The \u1e6dabaqa on which there is a ruin,</li>\n<li>2.\u00a0 </li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"19b6d873fe23c57e542ab2368452eb34\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/c1d1362d-d75f-449a-9b84-4a925d24c0a3/",
+      "type": "Annotation",
+      "created": "2022-10-07T00:45:39.102152+00:00",
+      "modified": "2024-12-23T19:31:37.841123+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/38/",
+      "target": {
+        "source": {
+          "id": "https://figgy.princeton.edu/concern/scanned_resources/679bb134-fd09-42a3-9cde-0d1a7296fe5b/manifest/canvas/23239a2e-a20c-4a62-9698-0a6986c94bc0",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/649/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "b(verso)",
+          "value": "<ol>\n<li>\u05d3\u05d0\u05e8 \u05de[</li>\n<li>\u05e4\u05d9 \u05db\u05d5\u05db\u05d4 \u05d1\u05df \u05e2[</li>\n<li>\u05d3\u05d0\u05e8 \u05d2\u05d5\u05d0\u05e8 \u05d0\u05dc\u05e8\u05e9\u05d9\u05d3 \u05e9\u05de\u05d5\u05d0\u05dc</li>\n<li>\u05e8\u05d1\u05e2\u05d4\u05d0 \u05dc\u05dc\u05e6\u05e2\u05e3 \u05d3 \u05d5\u05d2</li>\n<li>\u05d3\u05d0\u05e8 \u05ea\u05d0\u05d1\u05ea \u05e4\u05d9 \u05de[\u05d4]\u05e8\u05d4</li>\n<li>\u05d0\u05dc\u05e7\u05d0\u05e2\u05d4 \u05e1\u05db\u05df \u05e8\u05d2\u05dc\u05d0 \u05d7\u05d0\u05d9\u05da</li>\n<li>\u05d8\u05d1\u05e7\u05d4 \u05e1\u05db\u05df \u05e2\u05d1\u05d9\u05d3 \u05d5\u05d4\u05d9 \u05d0\u05dc\u05e2\u05dc\u05d5</li>\n<li>\u05dc\u05dc\u05e7\u05d0\u05e2\u05d4 \u05d0\u05dc\u05de\u05d3\u05db\u05d5\u05e8\u05d4 \u05d2</li>\n<li>\u05d0\u05dc\u05d2\u05d6\u05d9\u05e8\u05d4 \u05d3\u05d0\u05e8</li>\n<li>\u05e1\u05db\u05df \u05de\u05d7\u05d0\u05e1\u05df \u05d0\u05dc\u05e0\u05e9\u05d0\u05d5\u05d9</li>\n<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u05d4</li>\n<li>\u05d0\u05dc\u05d8\u05d1\u05e7\u05d4 \u05d0\u05dc\u05d3\u05d9 \u05e2\u05dc\u05d9\u05d4\u05d0 \u05db\u05e8\u05d1\u05d4</li>\n<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u05d1</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
+    },
+    {
+      "etag": "\"b396dd18a17f31eb3c2cf839a9a00ec8\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/b1b368fc-f9f8-42ac-b0ca-e70a7508f550/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:44:30.331430+00:00",
+      "modified": "2026-10-29T19:44:30.331440+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://figgy.princeton.edu/concern/scanned_resources/679bb134-fd09-42a3-9cde-0d1a7296fe5b/manifest/canvas/23239a2e-a20c-4a62-9698-0a6986c94bc0",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/649/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "b(verso)",
+          "value": "\n<ol><li>\u062f\u0627\u0631 \u05de</li>\n<li>\u0641\u064a \u062e\u0648\u0643\u0629 \u0628\u0646 \u05e2</li>\n<li>\u062f\u0627\u0631 \u062c\u0648\u0627\u0631 \u0627\u0644\u0631\u0634\u064a\u062f \u05e9\u05de\u05d5\u05d0\u05dc</li>\n<li>\u0631\u0628\u0639\u0647\u0627 \u0644\u0644\u0636\u0639\u0641 \u05d3 \u05d5\u05d2</li>\n<li>\u062f\u0627\u0631 \u062b\u0627\u0628\u062a \u0641\u064a \u0645\u0647\u0631\u0629</li>\n<li>\u0627\u0644\u0642\u0627\u0639\u0629 \u0633\u0643\u0646 \u0631\u062c\u0644\u0627 \u062d\u0627\u0621\u0643</li>\n<li>\u0637\u0628\u0642\u0629 \u0633\u0643\u0646 \u0639\u0628\u064a\u062f \u0648\u0647\u064a \u0627\u0644\u0639\u0644\u0648</li>\n<li>\u0644\u0644\u0642\u0627\u0639\u0629 \u0627\u0644\u0645\u0630\u0643\u0648\u0631\u0629 \u05d2</li>\n<li>\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u062f\u0627\u0631</li>\n<li>\u0633\u0643\u0646 \u0645\u062d\u0627\u0633\u0646 \u0627\u0644\u0646\u0634\u0627\u0648\u064a</li>\n<li>\u05d4</li>\n<li>\u0627\u0644\u0637\u0628\u0642\u0629 \u0627\u0644\u0630\u064a \u0639\u0644\u064a\u0647\u0627 \u0643\u0631\u0628\u0629</li>\n<li>\u05d1</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 2
+    }
+  ]
+}
