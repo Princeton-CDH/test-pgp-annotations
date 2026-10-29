@@ -1,0 +1,113 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Ffiggy.princeton.edu%2Fconcern%2Fscanned_resources%2F621197ac-274b-4bde-a21d-f1322e3b8407%2Fmanifest%2Fcanvas%2F694a5576-adbc-4c77-9b97-78cdec324b1a&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F769%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"156e0f4614bd204fd0465234f0927206\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/db539f19-eb91-41b4-8cef-b397307ed687/",
+      "type": "Annotation",
+      "created": "2022-10-07T01:08:10.723764+00:00",
+      "modified": "2022-10-07T01:08:10.723783+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/16/",
+      "target": {
+        "source": {
+          "id": "https://figgy.princeton.edu/concern/scanned_resources/621197ac-274b-4bde-a21d-f1322e3b8407/manifest/canvas/694a5576-adbc-4c77-9b97-78cdec324b1a",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/769/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "ENA 4011, f. 17 ed. Gil, Palestine, Pt. 3, pp.336-337 (Doc. #537), C.B. 11-11-87 (p) Short letter from David b. Daniel to a parnas (leader of the Jewish community) written in his own hand. (Gil)",
+          "value": "<ol>\n<li>\u05d1\u05e9\u05de\u05da \u05e8\u05d7\u05de\u05e0\u05d0</li>\n<li>\u05e1\u05d9\u05d3\u05d9 \u05d0\u05dc\u05e4\u05e8\u05e0\u05e1 \u05d0\u05d9\u05d3\u05d4 \u05d0\u05dc\u05dc\u05d4 \u05d9[\u05ea]\u05e1\u05dc\u05dd \u05de\u05df \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d9 \u05d0\u05dc\u05e8\u05e6\u05d9 \u05e9\u05dc\u05de\u05d4</li>\n<li>[\u05d1]\u05df \u05de\u05d1\u05e8\u05da \u05d0\u05d3\u05d0\u05dd \u05d0\u05dc\u05dc\u05d4 \u05d7\u05e8\u05d0\u05e1\u05ea\u05d4 \u05de\u05df \u05d0\u05dc\u05d5\u05e8\u05e7 \u05e1\u05ea\u05d5\u05df \u05d3\u05e8\u05d4\u05de\u05d0 \u05d5\u05d9\u05de\u05e6\u05d9</li>\n<li>\u05d9\u05e1\u05dc\u05de\u05d4\u05d0 \u05d0\u05dc\u05d9 \u05de\u05d8\u05dc\u05e7\u05d4 \u05d0\u05d1\u05d9 \u05d0\u05dc\u05d1\u05e7\u05d0 \u05e9\u05de\u05d5\u05d0\u05dc \u05d5\u05d9\u05e2\u05e8\u05e4\u05d4\u05d0 \u05d0\u05e0\u05d4\u05d0 /\u05d1/\u05de\u05d5\u05d5\u05e0\u05d4</li>\n<li>\u05d0\u05d1\u05e0\u05ea\u05d4 \u05dc\u05de\u05d3\u05d4 \u05e9\u05d4\u05e8\u05d9\u05df \u05db\u05d0\u05de\u05dc\u05d9\u05df \u05d5\u05d9\u05ea\u05e7\u05d3\u05dd \u05d0\u05dc\u05d9\u05d4\u05d0 \u05d1\u05d0\u05dc\u05d1\u05e2\u05d3 \u05e2\u05df \u05d3\u05db\u05e8\u05d4</li>\n<li>\u05d1\u05de\u05d0 \u05dc\u05d0 \u05d9\u05e1\u05d5\u05d2 \u05d5\u05d0\u05df \u05d9\u05d6\u05d5\u05dc \u05db\u05dc \u05de\u05df \u05d0\u05d4\u05dc\u05d4\u05d0 \u05d5\u05e2\u05e9\u05d9\u05e8\u05ea\u05d4\u05d0 \u05e2\u05df \u05d0\u05e2\u05ea\u05e8\u05d0\u05e6\u05d4</li>\n<li>\u05d5\u05ea\u05e2\u05e8\u05e3 \u05d0\u05df \u05d4\u05d3\u05d0 \u05d0\u05dc\u05e7\u05d3\u05e8 \u05d0\u05dc[[\u05ea\u05d9]]//\u05d3\u05d9// \u05d2\u05e2\u05dc\u05d4 \u05dc\u05d4\u05d0 \u05e4\u05d9 \u05db\u05dc \u05e9\u05d4\u05e8 \u05d4\u05d5 \u05d0\u05db\u05ea\u05e8</li>\n<li>\u05de\u05de\u05d0 \u05d9\u05e2\u05d8\u05d9\u05d4\u05d0 \u05d0\u05dc\u05d7\u05db\u05dd \u05e4\u05ea\u05e2\u05e8\u05e3 \u05e7\u05d3\u05e8 \u05d3\u05dc\u05da \u05d5\u05dc\u05d0 \u05d9\u05e2\u05d0\u05d5\u05d3 \u05d0\u05d7\u05d3</li>\n<li>\u05d0\u05dc\u05d9 \u05de\u05e2\u05d0\u05e8\u05e6\u05ea\u05d4 \u05e4\u05d0\u05df \u05d0\u05dc\u05de\u05e1\u05ea\u05e7\u05e8 \u05d0\u05df \u05d9\u05db\u05d5\u05df \u05e4\u05d9 \u05db\u05dc \u05e9\u05d4\u05e8 \u05e1\u05d9\u05d3\u05d9 \u05d0\u05dc\u05e4\u05e8\u05e0\u05e1 \u05d9\u05ea\u05e1\u05dc\u05dd</li>\n<li>\u05d0\u05dc\u05e7\u05d3\u05e8 \u05d0\u05dc\u05de\u05e7\u05e8\u05e8 \u05d5\u05d9\u05d5\u05e6\u05dc\u05d4 \u05d0\u05dc\u05d9\u05d4\u05d0 \u05d0\u05df \u05e9\u05d0 \u05d0\u05dc\u05dc\u05d4 \u05d9\u05e9\u05d5\u05e2\u05d4</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"b5f92fa06704e2771b1d5e6c67997571\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/7184eda3-577e-4820-b547-aed9958e53e1/",
+      "type": "Annotation",
+      "created": "2023-07-20T23:07:37.164943+00:00",
+      "modified": "2026-05-28T17:13:56.415336+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/190/",
+      "target": {
+        "source": {
+          "id": "https://figgy.princeton.edu/concern/scanned_resources/621197ac-274b-4bde-a21d-f1322e3b8407/manifest/canvas/694a5576-adbc-4c77-9b97-78cdec324b1a",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/769/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:245.9562530517578,3511.237548828125,2841.218795776367,3036.287841796875",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto",
+          "value": "\n<ol><li><i>In your name, O Merciful&nbsp;</i></li>\n<li>My lord the <i>parnas</i>, may God support you, shall [r]eceive from the elder Abu\u02bel Ri\u1e0d\u0101 Solomon</li>\n<li>b. Mevorakh, may God watch over him forever, 60 waraq dirhems and</li>\n<li>pay them to the divorc&eacute;e of Abu\u02bel-Baq\u0101\u02be Samuel, telling her that this is <i>child </i></li>\n<li><i>support</i> for her daughter for two full months. He should direct her to desist from saying</li>\n<li>improper things about him and to have all her close and distant relatives stop interfering.</li>\n<li>She should be informed that the amount he is allocating her each month is more</li>\n<li>than what she should be given by law. She should be informed what that amount is and henceforth no one</li>\n<li>should protest. It is firmly established that each month my lord the <i>parnas</i> shall receive</li>\n<li>the prescribed amount and deliver it to her, if God wills. <i>Salvation</i>.&nbsp;</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"14a6f02daf0de8a24d3c6d0fbacefb64\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/256610ad-4e6c-46e5-b2e1-21963ffc0372/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:44:45.049450+00:00",
+      "modified": "2026-10-29T19:44:45.049462+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://figgy.princeton.edu/concern/scanned_resources/621197ac-274b-4bde-a21d-f1322e3b8407/manifest/canvas/694a5576-adbc-4c77-9b97-78cdec324b1a",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/769/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "ENA 4011, f. 17 ed. Gil, Palestine, Pt. 3, pp.336-337 (Doc. #537), C.B. 11-11-87 (p) Short letter from David b. Daniel to a parnas (leader of the Jewish community) written in his own hand. (Gil)",
+          "value": "\n<ol><li>\u05d1\u05e9\u05de\u05da \u05e8\u05d7\u05de\u05e0\u05d0</li>\n<li>\u0633\u064a\u062f\u064a \u0627\u0644\u0641\u0631\u0646\u0633 \u0627\u064a\u062f\u0629 \u0627\u0644\u0644\u0647 \u064a\u062a\u0633\u0644\u0645 \u0645\u0646 \u0627\u0644\u0634\u064a\u0643 \u0627\u0628\u064a \u0627\u0644\u0631\u0636\u064a \u05e9\u05dc\u05de\u05d4</li>\n<li>\u05d1\u05df \u05de\u05d1\u05e8\u05da \u0627\u062f\u0627\u0645 \u0627\u0644\u0644\u0647 \u062d\u0631\u0627\u0633\u062a\u0647 \u0645\u0646 \u0627\u0644\u0648\u0631\u0642 \u0633\u062a\u0648\u0646 \u062f\u0631\u0647\u0645\u0627 \u0648\u064a\u0645\u0636\u064a \u064a\u0633\u0644\u0645\u0647\u0627 \u0627\u0644\u0649 \u0645\u0637\u0644\u0642\u0629 \u0627\u0628\u064a \u0627\u0644\u0628\u0642\u0627 \u05e9\u05de\u05d5\u05d0\u05dc \u0648\u064a\u0639\u0631\u0641\u0647\u0627 \u0627\u0646\u0647\u0627 \u0628\u0645\u0648\u0648\u0646\u0629 \u0627\u0628\u0646\u062a\u0629 \u0644\u0645\u062f\u0629 \u0634\u0647\u0631\u064a\u0646 \u0643\u0627\u0645\u0644\u064a\u0646 \u062f\u0631\u0647\u0645\u0627 \u0648\u064a\u0645\u0636\u064a</li>\n<li>\u064a\u0633\u0644\u0645\u0647\u0627 \u0627\u0644\u0649 \u0645\u0637\u0644\u0642\u0629 \u0627\u0628\u064a \u0627\u0644\u0628\u0642\u0627 \u05e9\u05de\u05d5\u05d0\u05dc \u0648\u064a\u0639\u0631\u0641\u0647\u0627 \u0627\u0646\u0647\u0627 \u0628\u0645\u0648\u0648\u0646\u0629</li>\n<li>\u0627\u0628\u0646\u062a\u0647 \u0644\u0645\u062f\u0629 \u0634\u0647\u0631\u064a\u0646 \u0643\u0627\u0645\u0644\u064a\u0646 \u0648\u064a\u062a\u0642\u062f\u0645 \u0627\u0644\u064a\u0647\u0627 \u0628\u0627\u0644\u0628\u0639\u062f \u0639\u0646 \u0630\u0643\u0631\u0647</li>\n<li>\u0628\u0645\u0627 \u0644\u0627 \u064a\u0633\u0648\u063a \u0648\u0627\u0646 \u064a\u0632\u0648\u0644 \u0643\u0644 \u0645\u0646 \u0627\u0647\u0644\u0647\u0627 \u0648\u0639\u0634\u064a\u0631\u062a\u0647\u0627 \u0639\u0646 \u0627\u0639\u062a\u0631\u0627\u0636\u0647</li>\n<li>\u0648\u062a\u0639\u0631\u0641 \u0627\u0646 \u0647\u0630\u0627 \u0627\u0644\u0642\u062f\u0631 \u0627\u0644\u062a\u064a\u062f\u064a \u062c\u0639\u0644\u0647 \u0644\u0647\u0627 \u0641\u064a \u0643\u0644 \u0634\u0647\u0631 \u0647\u0648 \u0627\u0643\u062b\u0631</li>\n<li>\u0645\u0645\u0627 \u064a\u0639\u0637\u064a\u0647\u0627 \u0627\u0644\u062d\u0643\u0645 \u0641\u062a\u0639\u0631\u0641 \u0642\u062f\u0631 \u0630\u0644\u0643 \u0648\u0644\u0627 \u064a\u0639\u0627\u0648\u062f \u0627\u062d\u062f</li>\n<li>\u0627\u0644\u0649 \u0645\u0639\u0627\u0631\u0636\u062a\u0647 \u0641\u0627\u0646 \u0627\u0644\u0645\u0633\u062a\u0642\u0631 \u0627\u0646 \u064a\u0643\u0648\u0646 \u0641\u064a \u0643\u0644 \u0634\u0647\u0631 \u0633\u064a\u062f\u064a \u0627\u0644\u0641\u0631\u0646\u0633 \u064a\u062a\u0633\u0644\u0645</li>\n<li>\u0627\u0644\u0642\u062f\u0631 \u0627\u0644\u0645\u0642\u0631\u0631 \u0648\u064a\u0648\u0635\u0644\u0647 \u0627\u0644\u064a\u0647\u0627 \u0627\u0646 \u0634\u0627 \u0627\u0644\u0644\u0647</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
