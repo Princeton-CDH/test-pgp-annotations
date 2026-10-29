@@ -1,0 +1,111 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00008-J-00017-00030%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F1995%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"0953c615122cee65f51d0dc6091b0b7d\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/362e4789-dd31-4b36-99dd-dfcf30557921/",
+      "type": "Annotation",
+      "created": "2022-10-07T01:11:43.178370+00:00",
+      "modified": "2022-10-07T01:11:43.178391+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/737/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-J-00017-00030/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1995/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<ol>\n<li>\u05d5\u05ea\u05db\u05dc\u05d9 \u05d1\u05d9\u05ea\u05da \u05d5\u05d1\u05d9\u05ea \u05d0\u05dc\u05e9\u05de\u05e9 \u05e1\u05dc\u05d9\u05de\u05d0\u05df \u05d9\u05d2\u05d1\u05d5</li>\n<li>\u05de\u05df \u05d0\u05dc\u05e0\u05e9\u05d9\u05dd \u05d5\u05db\u05d3\u05dc\u05da \u05d0\u05dc\u05d2\u05d1\u05d0\u05d9\u05d4 \u05de\u05d0 \u05d9\u05d2\u05d1\u05d9\u05d4</li>\n<li>\u05d0\u05dc\u05d0 \u05d0\u05e0\u05ea \u05d5\u05ea\u05d2\u05ea\u05d4\u05d3 \u05e4\u05d9\u05d4\u05d0 \u05d5\u05de\u05d4\u05de\u05d0 \u05ea</li>\n<li>\u05de\u05df \u05d0\u05dc\u05d2\u05de\u05d9\u05e2 \u05ea\u05db\u05dc\u05d9\u05d4 \u05e2\u05e0\u05d3\u05da \u05d7\u05ea\u05d9 \u05e0\u05e2\u05e8\u05e4\u05da</li>\n<li>\u05d0\u05d9\u05e9 \u05ea\u05e2\u05de\u05dc \u05d5\u05de\u05d0 \u05e0\u05e2\u05e8\u05e3 \u05d4\u05d3\u05d4 \u05d0\u05dc\u05e7\u05e6\u05d9\u05d4</li>\n<li>\u05d0\u05dc\u05d0 \u05de\u05e0\u05da \u05e4\u05dc\u05d0 \u05ea\u05d7\u05d5\u05d2\u05e0\u05d0 \u05e0\u05e2\u05ea\u05d1 \u05e2\u05dc\u05d9\u05da</li>\n<li>\u05d5\u05d0\u05dc\u05d7\u05d3\u05e8 \u05de\u05df \u05d0\u05dc\u05de\u05db\u05d0\u05dc\u05e4\u05d4 \u05d5\u05d0\u05dc\u05d7\u05e7 \u05ea\u05e2 \u05d9\u05db\u05d5\u05df</li>\n<li>\u05e4\u05d9 \u05e2\u05d5\u05e0\u05da \u05d5\u05ea\u05db\u05ea\u05d1 \u05d1\u05e1\u05e4\u05e8 \u05d7\u05d9\u05d9\u05dd \u05d1\u05e1\u05e4\u05e8</li>\n<li>\u05d6\u05db\u05e8\u05d5\u05df \u05d5\u05e9\u05dc\u05d5\u05dd</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"9a6ba0a1442475545d05a799e9261598\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/2721d84f-f1d2-4298-afe5-9537beb8392b/",
+      "type": "Annotation",
+      "created": "2026-07-07T18:58:42.931120+00:00",
+      "modified": "2026-07-07T19:13:15.612546+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/190/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-J-00017-00030/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1995/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:247.08770751953125,439.26055908203125,2857.5736694335938,2835.3407592773438",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\n<ol><li>[. . .] let your &ldquo;<i>house</i>&rdquo; (i.e., wife) and the &ldquo;<i>house</i>&rdquo; (wife) of the <i>beadle</i> Sulaym\u0101n collect</li>\n<li>&ndash;3. from the women. In addition, you alone should make the collection. Exert yourself in this. Whatever is</li>\n<li></li>\n<li>obt[ained] from everyone, keep with you until we inform you</li>\n<li>what to do. We know about this matter</li>\n<li>only from you. Do not make it necessary for us to reprove you.</li>\n<li>Beware of being disobedient. May God the ex(alted) be</li>\n<li>your succor, and <i>may you be inscribed in the book of [lif]e, the book</i></li>\n<li><i>of remembrance. And peace.</i></li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"203b82761c5ea8404eaea978bdf86f1c\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/32851593-c2a7-4b13-b5a5-54d84cfc3b58/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:46:34.633177+00:00",
+      "modified": "2026-10-29T19:46:34.633188+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-J-00017-00030/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1995/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "",
+          "value": "\n<ol><li>\u0648\u062a\u0643\u0644\u0649 \u0628\u064a\u062a\u0643 \u0648\u0628\u064a\u062a \u0627\u0644\u0640\u05e9\u05de\u05e9 \u0633\u0644\u064a\u0645\u0627\u0646 \u064a\u062c\u0628\u0648</li>\n<li>\u0645\u0646 \u0627\u0644\u0646\u0634\u064a\u0645 \u0648\u0643\u0630\u0644\u0643 \u0627\u0644\u062c\u0628\u0627\u064a\u0629 \u0645\u0627 \u064a\u062c\u0628\u064a\u0647</li>\n<li>\u0627\u0644\u0627 \u0627\u0646\u062a \u0648\u062a\u062c\u062a\u0647\u062f \u0641\u064a\u0647\u0627 \u0648\u0645\u0647\u0645\u0627 \u062a</li>\n<li>\u0645\u0646 \u0627\u0644\u062c\u0645\u064a\u0639 \u062a\u0643\u0644\u064a\u0647 \u0639\u0646\u062f\u0643 \u062d\u062a\u0649 \u0646\u0639\u0631\u0641\u0643</li>\n<li>\u0627\u064a\u0634 \u062a\u0639\u0645\u0644 \u0648\u0645\u0627 \u0646\u0639\u0631\u0641 \u0647\u0630\u0647 \u0627\u0644\u0642\u0636\u064a\u0629</li>\n<li>\u0627\u0644\u0627 \u0645\u0646\u0643 \u0641\u0644\u0627 \u062a\u062d\u0648\u062c\u0646\u0627 \u0646\u0639\u062a\u0628 \u0639\u0644\u064a\u0643</li>\n<li>\u0648\u0627\u0644\u062d\u0630\u0631 \u0645\u0646 \u0627\u0644\u0645\u062e\u0627\u0644\u0641\u0629 \u0648\u0627\u0644\u062d\u0642 \u062a\u0639 \u064a\u0643\u0648\u0646</li>\n<li>\u0641\u064a \u0639\u0648\u0646\u0643 \u0648\u062a\u0643\u062a\u0628 \u05d1\u05e1\u05e4\u05e8 \u05d7\u05d9\u05d9\u05dd \u05d1\u05e1\u05e4\u05e8</li>\n<li>\u05d6\u05db\u05e8\u05d5\u05df \u05d5\u05e9\u05dc\u05d5\u05dd</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
