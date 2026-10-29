@@ -1,0 +1,112 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-J-00001-00032%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F1317%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"08e93a38fd86d89a5db1ee567e741e83\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/d889084f-c730-4d06-a2c3-d11283c1f5a2/",
+      "type": "Annotation",
+      "created": "2024-11-17T04:35:07.622292+00:00",
+      "modified": "2026-08-12T04:00:38.009744+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/38/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-J-00001-00032/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1317/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:231.40322875976562,405.9040222167969,1801.9103698730469,2522.674591064453",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso",
+          "value": "<p></p>\n\n<ol><li>(1-2, canceled) A mason, 2. Helpers, 7\u00bd.</li>\n<li>\u00a0</li>\n<li>(3-4, canceled) A meal, 1\u00bd. Removal of garbage, and clay, 3\u00bd.</li>\n<li>\u00a0</li>\n<li>(5-6) Allowance for Purim, 3. The guardian of the quarter, 2.</li>\n<li>\u00a0</li>\n<li>(7-8) Gypsum for D\u0101r Ab\u012b\u02bel-Mun\u0101, 5\u00bd + \u215b. Paid for collection to al-Shaykh Ab\u016b\u02bel-Faraj b. Daniel, 32.</li>\n<li>\u00a0</li>\n<li>(9-11) Removal of garbage, and clay, 3\u00bd. Removal of garbage, and clay, 3\u00bd.</li>\n<li>\u00a0</li>\n<li>\u00a0</li>\n<li>(12-13) \u2026.210. Ibn al-Daj\u0101j\u012b al-\u02beA\u1e6d\u1e6d\u0101r. Ibn al-J\u0101b\u012b Ab\u016b\u02bel-\u02bfIzz. \u00a0 \u00a0</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"69dcef6829e77c89be484461b8db1b00\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/e3d53cb4-ede8-4f87-869a-23f3e1d2957a/",
+      "type": "Annotation",
+      "created": "2024-12-18T20:19:27.370250+00:00",
+      "modified": "2024-12-18T20:19:27.370265+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/38/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-J-00001-00032/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1317/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:68.5832290649414,362.0158996582031,1983.3332748413086,2750.694305419922",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso",
+          "value": "<ol>\n<li>\u27e6\u05d1\u05e0\u05d0\u27e7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u27e6\u05e8\u05e7\u05d0\u05e6\u05d9\u05df\u27e7</li>\n<li>\u05d1' &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \u27e6\u05d6&gt;\u27e7</li>\n<li>\u27e6\u05d2\u05d3\u05d0\u27e7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u05e8\u05de\u05d9 \u05ea\u05e8\u05d0\u05d1 \u05d5\u05d8\u05d9\u05df</li>\n<li>\u27e6\u05d0&gt;\u27e7 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; \u27e6\u05d4'\u27e7'\u05d2&gt;</li>\n<li>\u05e8\u05e1\u05dd \u05d0\u05dc\u05e4\u05d5\u05e8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u05d7\u05d0\u05de\u05d9 \u05d0\u05dc\u05d7\u05d0\u05e8\u05d4</li>\n<li>\u05d2' &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \u05d1'</li>\n<li>\u05d2\u05d1\u05e1 \u05dc\u05d3\u05d0\u05e8 \u05d0\u05d1\u05d9 \u05d0\u05dc\u05de\u05e0\u05d0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u05d2\u05d1\u05d0\u05d9\u05d4 \u05d1\u05d9\u05d3 \u05d0\u05dc\u05e9\u05d9\u05da</li>\n<li>\u05d4'&gt; \u05d5\u05ea\u05de\u05df &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; \u05d0\u05d1\u05d5 \u05d0\u05dc\u05e4\u05e8\u05d2' \u05d1\u05df \u05d3\u05e0\u05d9\u05d0\u05dc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u05dc''\u05d1</li>\n<li>\u05e8\u05de\u05d9 \u05ea\u05e8\u05d0\u05d1 \u05d5\u05d8\u05d9\u05df&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u05d2'&gt;</li>\n<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u27e6\u05d7/\u05d0\\\u05de\u05d9 \u05d0\u05dc\u05d7\u27e7</li>\n<li>\u05e8\u05de\u05d9 \u05ea\u05e8\u05d0\u05d1 \u05d5\u05d8\u05d9\u05df&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u05d2'&gt;</li>\n</ol>\n<p>&nbsp;</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"cdd421af962cbc36726d0bb4c2e22a45\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/0527278a-ba11-4023-b329-f5a791f69bbe/",
+      "type": "Annotation",
+      "created": "2024-12-18T20:22:40.882702+00:00",
+      "modified": "2024-12-18T20:22:40.882717+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/38/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-J-00001-00032/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1317/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:210.24989318847656,3998.126953125,1829.861068725586,684.72216796875",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso, bottom margin",
+          "value": "<ol>\n<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u27e6&nbsp; \u27e7 \u05e8''\u05d9</li>\n<li>\u05d0\u05d1\u05df \u05d0\u05dc\u05d3\u05d2\u05d0\u05d2\u05d9 \u05d0\u05dc\u05e2\u05d8\u05d0\u05e8&nbsp;&nbsp;&nbsp;&nbsp; \u05d0\u05d1\u05df \u05d0&lt;\u05dc&gt;\u05d2\u05d0\u05e0\u05d9 \u05d0\u05d1&lt;\u05d5&gt; \u05d0\u05dc\u05e2\u05d6</li>\n</ol>\n<p>&nbsp;</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
+    }
+  ]
+}
