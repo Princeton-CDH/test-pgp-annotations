@@ -1,0 +1,113 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00008-J-00011-00004%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F1872%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"5a0a7421c34a121252ac837db3b36c72\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/36ed8a24-f0e0-49fb-a157-f0637be71611/",
+      "type": "Annotation",
+      "created": "2023-12-21T17:40:24.713088+00:00",
+      "modified": "2023-12-21T17:40:24.713102+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/38/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-J-00011-00004/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1872/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:196.13563537597656,431.671630859375,641.1614227294922,3823.406005859375",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso",
+          "value": "<ol>\n<li>\n<p>Also, collected from the parn\u0101s Bay\u0101n, one purse, 166. Another purse, 42. Collected from the keeper of the funduq for the rent of&nbsp;</p>\n</li>\n<li>\n<p>Rab\u012b\u02bf&nbsp; al-\u0101khir, 75. Total, 619 1/2.</p>\n</li>\n</ol>\n<p>&nbsp;</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"f56f711c20eb2dc9d965c9559749345b\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/d9717bc6-6fc6-43de-af3a-a2f373389f39/",
+      "type": "Annotation",
+      "created": "2022-10-07T02:11:44.019288+00:00",
+      "modified": "2022-10-07T02:11:44.019302+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/38/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-J-00011-00004/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1872/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso\nb",
+          "value": "<ol>\n<li>\u05d5\u05e7\u05d1\u05e5 \u05d0\u05d9\u05e6\u05d0 \u05de\u05df \u05d0\u05dc\u05e4\u05e8\u05e0\u05e1 \u05d1\u05d9\u05d0\u05df \u05e6\u05e8\u05d4 \u05e7\u05e1\u05d5 \u05d5\u05e6\u05e8\u05d4 \u05de\u05d1 \u05d5\u05e7\u05d1\u05e5 \u05de\u05df \u05d0\u05dc\u05e4\u05e0\u05d3\u05e7\u05d0\u05e0\u05d9 \u05e2\u05df \u05d0\u05d2\u05e8\u05d4</li>\n<li>\u05e8\u05d1\u05d9\u05e2 \u05d0\u05dc\u05d0\u05db\u05e8 \u05e2\u05d4 \u05d0\u05dc\u05d2\u05de\u05dc\u05d4 \u05ea\u05e8\u05d9\u05d8 \u00bd</li>\n</ol>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
+    },
+    {
+      "etag": "\"4fb66efb9fb5b5bb59bd3b59e01f198f\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/d30fff9f-e71e-43e4-a661-b0f1da9cec8f/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:46:22.704672+00:00",
+      "modified": "2026-10-29T19:46:22.704681+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-J-00011-00004/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/1872/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso\nb",
+          "value": "\n<ol><li>\u0648\u0642\u0628\u0636 \u0627\u064a\u0636\u0627 \u0645\u0646 \u0627\u0644\u0641\u0631\u0646\u0633 \u0628\u064a\u0627\u0646 \u0636\u0631\u0629 \u0642\u0633\u0648 \u0648\u0636\u0631\u0629 \u0645\u0628 \u0648\u0642\u0628\u0636 \u0645\u0646 \u0627\u0644\u0641\u0646\u062f\u0642\u0627\u0646\u064a \u0639\u0646 \u0627\u062c\u0631\u0647</li>\n<li>\u0631\u0628\u064a\u0639 \u0627\u0644\u0627\u062e\u0631 \u05e2\u05d4 \u0627\u0644\u062c\u0645\u0644\u0629</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 2
+    }
+  ]
+}
