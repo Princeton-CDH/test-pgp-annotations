@@ -4,11 +4,12 @@
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/18e4e1ae-4e45-48be-a75a-81d1f0067e62/",
+      "etag": "\"bdeb240a2416c24953605a09cd4c6925\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/618e8f45-57ce-4969-b536-53a98d266457/",
       "type": "Annotation",
-      "created": "2023-12-07T16:53:57.778989+00:00",
-      "modified": "2023-12-07T16:53:57.779014+00:00",
-      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "created": "2024-06-19T19:26:14.038383+00:00",
+      "modified": "2024-06-19T19:26:14.038396+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1120/",
       "target": {
         "source": {
           "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00007-00018/canvas/2",
@@ -18,22 +19,94 @@
           }
         },
         "selector": {
-          "type": "SvgSelector",
-          "value": "<svg><polygon points=\"1685.1267 1799.8212 1720.4173 1905.693 1695.7139 2348.5902 1122.2414 2396.2325 234.6826 2373.2936 199.392 2302.7124 222.3308 1858.0507 702.2832 1870.4024 751.69 1831.5827 741.1028 1764.5306\"></polygon></svg>"
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:199.84657287597656,1726.619140625,1515.514633178711,752.8369140625",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
         }
       },
       "body": [
         {
           "type": "TextualBody",
-          "value": "<ol>\n<li>\u05d0\u05dc\u05d9 \u05d0\u05dc\u05e9\u05d9 \u05d0\u05d7\u05d6\u05df</li>\n<li>\u05d0\u05db\u05d9 \u05de\u05d1\u05e9\u05e8 \u05d0\u05dc</li>\n<li>\u05de\u05e2\u05e8\u05d5\u05e3 \u05d0\u05d1\u05df \u05d9\u05d2\u05d5</li>\n<li>\u05de\u05df \u05d7\u05d2\u05d0\u05d2</li>\n</ol>",
-          "format": "text/html",
-          "TextInput": "rtl"
+          "label": "Verso, address:",
+          "value": "<p>&nbsp;</p>\n<ol>\n<li>\u05d0\u05dc\u05d9 \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05dc\u05d7\u05d6\u05df</li>\n<li>\u05d0\u05db\u05d9 \u05de\u05d1\u05e9\u05e8 \u05d0\u05dc</li>\n<li>\u05de\u05e2\u05e8\u05d5\u05e3 \u05d0\u05d1\u05df \u05d9\u05d2\u05d5\u05b9&nbsp;&nbsp;&nbsp;&nbsp; \u05de\u05df \u05d7\u05d2\u05b9\u05d0\u05d2\u05b9</li>\n</ol>",
+          "format": "text/html"
         }
       ],
       "motivation": [
         "sc:supplementing",
         "transcribing"
-      ]
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"abbc69a658bca8795a4f375fec395063\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/633e88b4-8a7f-4aa1-8f7b-57374b337eb9/",
+      "type": "Annotation",
+      "created": "2025-06-05T14:14:50.926024+00:00",
+      "modified": "2025-06-05T14:14:50.926038+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/8/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00007-00018/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/4737/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:198.10047912597656,1585.464111328125,1410.296371459961,833.0458984375",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso, address",
+          "value": "<ol>\n<li>To the Sheikh, the cantor,</li>\n<li>Mevass\u0113r\u2019s brother,</li>\n<li>known as Ibn Yij\u016b.</li>\n<li>From \u1e24ajj\u0101j.</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"1ad5db1ab7e40fb4112fc861b2237880\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/3678c677-a665-4a7f-b673-9cb09427686b/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:51:10.698919+00:00",
+      "modified": "2026-10-29T19:51:10.698928+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AR-00007-00018/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/4737/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:199.84657287597656,1726.619140625,1515.514633178711,752.8369140625",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso, address:",
+          "value": "<p> </p>\n\n<ol><li>\u0627\u0644\u0649 \u0627\u0644\u0634\u064a\u0643 \u0627\u0644\u062d\u0632\u0646</li>\n<li>\u0627\u062e\u064a \u0645\u0628\u0634\u0631 \u0627\u0644</li>\n<li>\u0645\u0639\u0631\u0648\u0641 \u0627\u0628\u0646 \u064a\u062c\u0648 \u0645\u0646 \u062d\u062c\u0627\u062c</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
     }
   ]
 }
