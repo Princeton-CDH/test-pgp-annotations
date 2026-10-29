@@ -1,0 +1,112 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-ADD-03420%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F5389%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"3303d8de24150376b142d9c4f844125c\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/344b813a-1ad1-4b98-99c6-37de8f31e4a7/",
+      "type": "Annotation",
+      "created": "2026-03-14T14:31:04.300391+00:00",
+      "modified": "2026-03-14T14:31:04.300402+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1121/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-ADD-03420/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5389/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:787.5631713867188,309.28399658203125,3124.5398559570312,3844.4122924804688",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso",
+          "value": "\n<ol><li>\u05de\u05df \u05d2\u05de\u05dc\u05d4 \u05ea\u05de\u05df \u05e0\u05d9\u05dc \u05d0\u05d1\u05ea\u05d0\u05e2\u05d4 \u05de\u05df \u05d3\u05d0\u05e8 \u05d0\u05dc\u05d6\u05d1\u05d9\u05d1</li>\n<li>\u05db\u05d0\u05e8\u05d2 \u05e2\u05df \u05d0\u05dc\u05d0\u05e8\u05d1\u05e2\u05d9\u05df \u05d3\u05d9\u05e0\u05d0\u05e8 \u05d0\u05dc\u05de\u05e7\u05d3\u05dd \u05d3\u05db\u05e8\u05d4\u05d0</li>\n<li>\u05d5\u05d3\u05db\u05e8 \u05de \u05d9\u05d5\u05e1\u05e3 \u05d3\u05e0\u05df \u05d0\u05d9\u05e6\u05d0 \u05d0\u05df \u05d4\u05d3\u05d4 \u05d0\u05dc\u05d0\u05e8\u05d1\u05e2\u05d9\u05df [\u05d3\u05d9]\u05e0\u05d0\u05e8</li>\n<li>\u05d0\u05dc\u05d3\u05d9 \u05d9\u05d8\u05d0\u05dc\u05d1\u05e0\u05d9 \u05d1\u05d4\u05d0 \u05de \u05d9\u05e7\u05d5\u05ea\u05d9\u05d0\u05dc \u05e7\u05d3 \u05d3\u05e4\u05e2\u05ea \u05dc\u05d4</li>\n<li>\u05de\u05d0\u05d9\u05d4 //\u05d3\u05d9\u05e0\u05d0\u05e8\\\\ \u05d0\u05dc\u05de\u05e7\u05d3\u05dd \u05d3\u05db\u05e8\u05d4\u05d0 \u05d5\u05db\u05ea\u05d1 \u05db\u05d8\u05d4 \u05d1\u05ea\u05dc\u05ea\u05d4</li>\n<li>\u05d5\u05ea\u05dc\u05ea\u05d9\u05df \u05d3\u05d9\u05e0\u05d0\u05e8 \u05d5\u05e1\u05d3\u05e1 \u05d5\u05e7\u05d9\u05e8\u05d0\u05d8 \u05dc\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d9 \u05e0\u05e6\u05e8</li>\n<li>\u05de\u05e0\u05e6\u05d5\u05e8 \u05d1\u05df \u05d0\u05d6\u05d4\u05e8 \u05d0\u05e0\u05d4\u05d0 \u05d3\u05d9\u05e0\u05d0 \u05dc\u05d4 \u05e2\u05dc\u05d9\u05d4</li>\n<li>\u05d5\u05d0\u05e0\u05d0 \u05d0\u05d1\u05e8\u05d9\u05d4 \u05de\u05df \u05d4\u05d3\u05d0 \u05d0\u05dc\u05d3\u05d9\u05df \u05d5\u05d0\u05e2\u05d9\u05d3 \u05d0\u05dc\u05d9\u05d4 \u05db\u05d8\u05d4</li>\n<li>\u05d0\u05dc\u05d3\u05d9 \u05db\u05ea\u05d1\u05d4 \u05dc\u05dc\u05e9\u05d9\u05da \u05d0\u05d1\u05d9 \u05e0\u05e6\u05e8 \u05d5\u05dc\u05d9 \u05e2\u05e0\u05d3\u05d4</li>\n<li>\u05d0\u05d2\u05e2\u05d0\u05dc \u05db\u05e1\u05e8\u05e0\u05d9 \u05d0\u05d9\u05d0\u05d4\u05d0 \u05d0\u05e8\u05d1\u05e2\u05d4 \u05d3\u05e0\u05d0\u05e0\u05d9\u05e8 \u05d0\u05dc\u05d1\u05d0\u05e7\u05d9</li>\n<li>\u05dc\u05d4 \u05d3\u05d9\u05e0\u05d0\u05e8\u05d9\u05df \u05d5\u05ea\u05dc\u05ea\u05d9 \u05d5\u05ea\u05de\u05df \u05d0\u05d3\u05d0 \u05d8\u05dc\u05d1\u05d4\u05d0 \u05d0\u05dc\u05e1\u05d0\u05e2\u05d4</li>\n<li>\u05d0\u05d7\u05e6\u05e8\u05ea\u05d4\u05d0 \u05dc\u05d4 \u05d5\u05de\u05d4 \u05d3\u05d4\u05d5\u05d4 \u05e7\u05d3\u05de\u05e0\u05d0 \u05db\u05ea\u05d1\u05e0\u05d0 \u05d5\u05d7\u05ea\u05de\u05e0\u05d0</li>\n<li>\u05dc\u05de\u05d4\u05d5\u05d9 \u05dc\u05d6\u05db\u05d5 \u05d5\u05dc\u05e8\u05d0\u05d9\u05d4 \u05e0\u05ea\u05e0\u05d0\u05dc \u05d1\u05d9\u05e8 \u05d9\u05e4\u05ea \u05e0\u05e2</li>\n<li>\u05d9\u05e6\u05d7\u05e7 \u05d1\u05e8 \u05e9\u05de\u05d5\u05d0\u05dc \u05e0\u05e2 \u05e0\u05e1\u05d9\u05dd \u05d1\u05e8\u05d1\u05d9 \u05e0\u05d4\u05e8\u05d0\u05d9 \u05d4\u05e8\u05d1 \u05d6\u05e6\u05dc</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"ac1a42c4db9a28fa21583f71faccb5d2\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/f8013de2-0f7b-4d62-9437-07b77c85ecc7/",
+      "type": "Annotation",
+      "created": "2026-03-14T14:37:56.308666+00:00",
+      "modified": "2026-03-14T14:37:56.308674+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/8/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-ADD-03420/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5389/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:742.4346923828125,247.20054626464844,3142.3150634765625,3961.9576568603516",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso",
+          "value": "\n<ol><li>\n<p>but they were the price of indigo which he had bought from the House of Raisins</p>\n</li>\n<li>\n<p>in addition to [indigo bought for] the aforementioned 40 dinars.&rdquo;</p>\n</li>\n<li>\n<p>Then Joseph, too, stated: &ldquo;As to the 40 dinars</p>\n</li>\n<li>\n<p>for which he sues me: The aforementioned 100 dinars</p>\n</li>\n<li>\n<p>I have paid to him. Moreover, he wrote a promissory note</p>\n</li>\n<li>\n<p>for 33 \u2159 dinars and one qir\u0101\u1e6d to Sheikh Ab\u016b Na\u1e63r</p>\n</li>\n<li>\n<p>Man\u1e63\u016br b. Azhar, which he had owed him.</p>\n</li>\n<li>\n<p>I shall clear him from this debt and return to him this note,</p>\n</li>\n<li>\n<p>which he wrote for Sheikh Ab\u016b Na\u1e63r. He (Jekuthiel) owes me</p>\n</li>\n<li>\n<p>four dinars for occasional payments made for him. There remains a debt to him</p>\n</li>\n<li>\n<p>of 2 \u2154 + \u215b dinars. As soon as he demands payment,</p>\n</li>\n<li>\n<p>I will pay in cash.&rdquo; The proceedings have been written down, etc.</p>\n</li>\n<li>\n<p>Nethanel b. Japheth&mdash;may he rest in Eden!&nbsp;</p>\n</li>\n<li>\n<p>Isaac b. Samuel&mdash;may he rest in Eden! Niss\u012bm, son of the Rav Nahray&mdash;may the memory of the righteous be blessed!</p>\n</li></ol>\n\n<p>&nbsp;</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"b92dbbb96a689fc641577f62ef785f11\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/c4d1f5b6-8971-4e33-9d30-b40a8a814e32/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:51:36.393118+00:00",
+      "modified": "2026-10-29T19:51:36.393126+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-ADD-03420/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/5389/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:787.5631713867188,309.28399658203125,3124.5398559570312,3844.4122924804688",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "verso",
+          "value": "\n<ol><li>\u0645\u0646 \u062c\u0645\u0644\u0629 \u062b\u0645\u0646 \u0646\u064a\u0644 \u0627\u0628\u062a\u0627\u0639\u0629 \u0645\u0646 \u062f\u0627\u0631 \u0627\u0644\u0632\u0628\u064a\u0628</li>\n<li>\u062e\u0627\u0631\u062c \u0639\u0646 \u0627\u0644\u0627\u0631\u0628\u0639\u064a\u0646 \u062f\u064a\u0646\u0627\u0631 \u0627\u0644\u0645\u0642\u062f\u0645 \u0630\u0643\u0631\u0647\u0627</li>\n<li>\u0648\u0630\u0643\u0631 \u05de \u05d9\u05d5\u05e1\u05e3 \u062f\u0646\u0646 \u0627\u064a\u0636\u0627 \u0627\u0646 \u0647\u0630\u0647 \u0627\u0644\u0627\u0631\u0628\u0639\u064a\u0646 \u062f\u064a\u0646\u0627\u0631</li>\n<li>\u0627\u0644\u0630\u064a \u064a\u0637\u0627\u0644\u0628\u0646\u064a \u0628\u0647\u0627 \u05de \u064a\u0642\u0648\u062a\u064a\u0627\u0644 \u0642\u062f \u062f\u0641\u0639\u062a \u0644\u0647</li>\n<li>\u0645\u0627\u0626\u0629 \u062f\u064a\u0646\u0627\u0631 \u0627\u0644\u0645\u0642\u062f\u0645 \u0630\u0643\u0631\u0647\u0627 \u0648\u0643\u062a\u0628 \u062e\u0637\u0647 \u0628\u062b\u0644\u062b\u0629</li>\n<li>\u0648\u062b\u0644\u062b\u064a\u0646 \u062f\u064a\u0646\u0627\u0631 \u0648\u0633\u062f\u0633 \u0648\u0642\u064a\u0631\u0627\u0637 \u0644\u0644\u0634\u064a\u0643 \u0627\u0628\u064a \u0646\u0635\u0631</li>\n<li>\u05de\u05e0\u05e6\u05d5\u05e8 \u05d1\u05df \u05d0\u05d6\u05d4\u05e8 \u0627\u0646\u0647\u0627 \u062f\u064a\u0646\u0627 \u0644\u0647 \u0639\u0644\u064a\u0647</li>\n<li>\u0648\u0627\u0646\u0627 \u0627\u0628\u0631\u064a\u0629 \u0645\u0646 \u0647\u0630\u0627 \u0627\u0644\u0630\u064a\u0646 \u0648\u0627\u0639\u064a\u062f \u0627\u0644\u064a\u0647 \u062e\u0637\u0629</li>\n<li>\u0627\u0644\u0630\u064a \u0643\u062a\u0628\u0647 \u0644\u0644\u0634\u064a\u0643 \u0627\u0628\u064a \u0646\u0635\u0631 \u0648\u0644\u0649 \u0639\u0646\u062f\u0647</li>\n<li>\u0627\u062c\u0639\u0627\u0644 \u0643\u0633\u0631\u0646\u064a \u0627\u064a\u0627\u0647\u0627 \u0627\u0631\u0628\u0639\u0629 \u062f\u0646\u0627\u0646\u064a\u0631 \u0627\u0644\u0628\u0627\u0642\u064a</li>\n<li>\u0644\u0647 \u062f\u064a\u0646\u0627\u0631\u064a\u0646 \u0648\u062b\u0644\u062b\u064a \u0648\u062b\u0645\u0646 \u0627\u0630\u0627 \u0637\u0644\u0628\u0647\u0627 \u0627\u0644\u0633\u0627\u0639\u0629</li>\n<li>\u0627\u062d\u0635\u0631\u062a\u0647\u0627 \u0644\u0647 \u0648\u0645\u0647 \u0630\u0647\u0648\u0629 \u0642\u062f\u0645\u0646\u0627 \u0643\u062a\u0628\u0646\u0627 \u0648\u062d\u062a\u0645\u0646\u0627</li>\n<li>\u0644\u0645\u0647\u0648\u0649 \u0644\u0632\u0643\u0648 \u0648\u0644\u0631\u0627\u064a\u0629 \u05e0\u05ea\u05e0\u05d0\u05dc \u05d1\u05d9\u05e8 \u05d9\u05e4\u05ea \u05e0\u05e2</li>\n<li>\u05d9\u05e6\u05d7\u05e7 \u05d1\u05e8 \u05e9\u05de\u05d5\u05d0\u05dc \u05e0\u05e2 \u05e0\u05e1\u05d9\u05dd \u05d1\u05e8\u05d1\u05d9 \u05e0\u05d4\u05e8\u05d0\u05d9 \u05d4\u05e8\u05d1</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
