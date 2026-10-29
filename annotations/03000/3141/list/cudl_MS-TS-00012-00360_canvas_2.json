@@ -1,0 +1,78 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00012-00360%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F3141%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"d8dfd5738116abaf20d753400dbc4c69\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/3c16eb8f-3671-42cb-9e16-be1504a7e299/",
+      "type": "Annotation",
+      "created": "2022-10-07T00:33:22.078349+00:00",
+      "modified": "2022-10-07T00:33:22.078365+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/735/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00012-00360/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/3141/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso, right margin, perpendicular lines. Address.",
+          "value": "<p>\u05d9\u05e6\u05dc \u05de\u05e0\u05d9\u05d4 \u05d6\u05e4\u05ea\u05d9 \u05db\u05d3\u05de\u05d4 \u05ea\u05d7\u05e6\u05e8 \u05d1\u05d9\u05df \u05d9\u05d3\u05d9\u05df \u05d4\u05d3</p>\n<p>\u05d9\u05e7\u05e8 \u05e6\u05e4 \u05ea\u05e4 \u05db\u05d2\u05e7 \u05de\u05e8\u05d9\u05e0\u05d5 \u05d5\u05e8\u05d1\u05d9\u05e0\u05d5 \u05de\u05e9\u05d4 \u05d4\u05d3\u05d9\u05d9\u05df \u05d4\u05de\u05d5\u05e4\u05dc\u05d0</p>\n<p>\u05d4\u05d7\u05d1\u05e8 \u05d4\u05de\u05e2\u05d5\u05dc\u05d4 \u05d1\u05d9\u05ea \u05d3\u05d9\u05df \u05d4\u05d2\u05d5\u05df \u05de\u05df \u05d0\u05dc\u05de\u05de\u05dc\u05d5\u05da \u05d0\u05d1\u05d5 [[\u05d0\u05dc]]</p>\n<p>\u05d0\u05dc\u05de\u05d2\u05d3 \u05d0\u05dc \u05de\u05df \u05d3\u05de\u05d9\u05e8\u05d4 \u05d5\u05e9\u05dc\u05d5\u05dd</p>",
+          "format": "text/html",
+          "TextInput": "rtl"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
+    },
+    {
+      "etag": "\"56f22c2b6b073a6da29ba1439922fef5\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/5590933d-7c40-4b9a-89bc-b29b4ca389e1/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:48:44.909419+00:00",
+      "modified": "2026-10-29T19:48:44.909427+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00012-00360/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/3141/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=percent:1,1,98,98",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso, right margin, perpendicular lines. Address.",
+          "value": "<p>\u064a\u0635\u0644 \u0645\u0646\u064a\u0629 \u0632\u0641\u062a\u064a \u062e\u062f\u0645\u0629 \u062a\u062d\u0635\u0631 \u0628\u064a\u0646 \u064a\u062f\u064a\u0646 \u0647\u0630</p>\n<p>\u064a\u0642\u0631 \u0635\u0641 \u062a\u0641 \u062e\u062c\u0642 \u0645\u0631\u064a\u0646\u0648 \u05d5\u05e8\u05d1\u05d9\u05e0\u05d5 \u05de\u05e9\u05d4 \u05d4\u05d3\u05d9\u05d9\u05df \u05d4\u05de\u05d5\u05e4\u05dc\u05d0</p>\n<p>\u05d4\u05d7\u05d1\u05e8 \u05d4\u05de\u05e2\u05d5\u05dc\u05d4 \u05d1\u05d9\u05ea \u05d3\u05d9\u05df \u05d4\u05d2\u05d5\u05df \u0645\u0646 \u0627\u0644\u0645\u0645\u0644\u0648\u0643 \u0627\u0628\u0648 \u0627\u0644</p>\n<p>\u0627\u0644\u0645\u062c\u062f \u0627\u0644 \u0645\u0646 \u062f\u0645\u064a\u0631\u0629</p>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 2
+    }
+  ]
+}
