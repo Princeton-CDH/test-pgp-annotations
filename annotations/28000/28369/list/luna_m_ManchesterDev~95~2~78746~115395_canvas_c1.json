@@ -1,0 +1,147 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fluna.manchester.ac.uk%2Fluna%2Fservlet%2Fiiif%2Fm%2FManchesterDev~95~2~78746~115395%2Fcanvas%2Fc1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F28369%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"fdfc732c8e250703b9eebbfda3e2dc02\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/ce491990-5ce7-4d38-af4f-4ffa99e9df4f/",
+      "type": "Annotation",
+      "created": "2022-10-10T19:31:30.352963+00:00",
+      "modified": "2022-10-10T19:31:30.352980+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/890/",
+      "target": {
+        "source": {
+          "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~95~2~78746~115395/canvas/c1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/28369/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:3316.6552734375,491.1658630371094,1781.23828125,2342.0946350097656",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto, right column:",
+          "value": "<ol>\n<li>] \u05d1\u05e0\u05ea \u05d7\u05e1\u05d9\u05db\u05d4</li>\n<li>] . . \u05d0\u05dc\u05e6\u05d1\u05d9\u05d0\u05df</li>\n<li>\u05de\u05e2\u05e8\u05e4\u05d4</li>\n<li>. \u05de .</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"cf5e89a2710e3569520187137131b8a1\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/89a4ae2b-b30f-42a4-a3a9-ced255f23f51/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:53:54.711202+00:00",
+      "modified": "2026-10-29T19:53:54.711210+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~95~2~78746~115395/canvas/c1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/28369/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:3316.6552734375,491.1658630371094,1781.23828125,2342.0946350097656",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto, right column:",
+          "value": "\n<ol><li>\u0628\u0646\u062a \u062d\u0633\u064a\u0643\u0629</li>\n<li>\u0627\u0644\u0635\u0628\u064a\u0627\u0646</li>\n<li>\u0645\u0639\u0631\u0641\u0629</li>\n<li>\u0645</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"09b89e1d9e87254b217b3ffa327c5524\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/df2218b3-2188-456b-8076-c683fb6160d9/",
+      "type": "Annotation",
+      "created": "2022-10-10T19:31:59.833919+00:00",
+      "modified": "2022-10-10T19:31:59.833934+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/890/",
+      "target": {
+        "source": {
+          "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~95~2~78746~115395/canvas/c1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/28369/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:1155.337890625,312.3691711425781,2120.986083984375,2505.908416748047",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto, left column:",
+          "value": "<ol>\n<li>\u05d0\u05d1\u05d5 \u05d4\u05dc\u05d0\u05dc \u05d0\u05dc\u05d1\u05d0\u05e0\u05d9\u05d0\u05e1\u05d9</li>\n<li>\u05de\u05e2\u05e8\u05e4\u05d4 \u05d0\u05d6\u05d4\u05e8</li>\n<li>\u05d0\u05dc\u05e2\u05d2\u05d5\u05d6 \u05d0\u05dc\u05d5\u05d2\u05e2\u05d4 [\u05e4\u05d9] \u05d3\u05d0\u05e8</li>\n<li>\u05d1\u05df \u05de\u05d2\u05df</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 2
+    },
+    {
+      "etag": "\"5f2ad82540ac7b812710b234308f4970\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/82fc841e-0928-40ca-ad45-ecb7ae84143a/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:53:54.713813+00:00",
+      "modified": "2026-10-29T19:53:54.713821+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~95~2~78746~115395/canvas/c1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/28369/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:1155.337890625,312.3691711425781,2120.986083984375,2505.908416748047",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto, left column:",
+          "value": "\n<ol><li>\u0627\u0628\u0648 \u0647\u0644\u0627\u0644 \u0627\u0644\u0628\u0627\u0646\u064a\u0627\u0633\u064a</li>\n<li>\u0645\u0639\u0631\u0641\u0629 \u0627\u0632\u0647\u0631</li>\n<li>\u0627\u0644\u0639\u062c\u0648\u0632 \u0627\u0644\u0648\u062c\u0639\u0629 \u0641\u064a \u062f\u0627\u0631</li>\n<li>\u0628\u0646 \u0645\u062c\u0646</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 2
+    }
+  ]
+}
