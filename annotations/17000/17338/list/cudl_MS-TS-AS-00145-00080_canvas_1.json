@@ -4,6 +4,7 @@
   "@type": "sc:AnnotationList",
   "resources": [
     {
+      "etag": "\"753313318445474110ca855181efe3a7\"",
       "id": "https://test-geniza.cdh.princeton.edu/annotations/a8a30af5-b1dd-4764-9089-f72e34aebf1f/",
       "type": "Annotation",
       "created": "2022-10-10T22:05:28.573042+00:00",
@@ -38,11 +39,12 @@
       "schema:position": 1
     },
     {
-      "id": "https://test-geniza.cdh.princeton.edu/annotations/4e61e394-fcd9-4e61-9831-4f227f42229a/",
+      "etag": "\"fd004af55dc7b93e0e58f82f8fce7810\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/cd164d16-0c08-41b7-8ca6-30117bac0186/",
       "type": "Annotation",
-      "created": "2023-12-07T17:38:12.842906+00:00",
-      "modified": "2023-12-07T17:38:12.842931+00:00",
-      "dc:source": "https://geniza.princeton.edu/sources/1024/",
+      "created": "2026-10-29T19:53:25.685382+00:00",
+      "modified": "2026-10-29T19:53:25.685391+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
       "target": {
         "source": {
           "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-AS-00145-00080/canvas/1",
@@ -52,22 +54,24 @@
           }
         },
         "selector": {
-          "type": "SvgSelector",
-          "value": "<svg><polygon points=\"2536.8365 231.3795 2557.6815 339.7735 2618.132 362.703 2659.822 475.266 2659.822 573.2375 2588.949 627.4345 2578.5265 717.068 2607.7095 1161.0665 2557.6815 1394.5305 2415.9355 1444.5585 1913.571 1473.7415 1444.5585 1394.5305 1092.278 1384.108 867.152 1323.6575 485.6885 1300.728 343.9425 1294.4745 241.802 1292.39 181.3515 1129.799 181.3515 564.8995 220.957 231.3795 758.758 202.1965\"></polygon></svg>"
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:59.42957305908203,63.95317077636719,2643.171501159668,1672.6214141845703",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
         }
       },
       "body": [
         {
           "type": "TextualBody",
-          "value": "<ol>\n<li>\u05d0\u05e0\u05d0 \u05d0\u05db\u05e6\u05d4\u05dd \u05d2\u05de\u05d9\u05e2 \u05d0\u05e4\u05e6\u05dc \u05e1\u05dc\u05d0\u05dd</li>\n<li>\u05d5\u05d0\u05db\u05ea\u05da</li>\n<li>\u05d5\u05de\u05d0 \u05ea\u05d7\u05ea\u05d0\u05d2 \u05d5\u05e6\u05d9\u05d4 \u05db\u05d5\u05d0\u05dc\u05d3\u05ea\u05da</li>\n<li>\u05d5\u05d0\u05db\u05d5\u05ea\u05da</li>\n<li>\u05d5\u05d0\u05dc\u05d0\u05dd \u05ea\u05db\u05e5 \u05e2\u05e0\u05d9 \u05de\u05d5\u05dc\u05d0\u05d9 \u05d0\u05dc\u05d7\u05d1\u05e8 \u05de\u05e2\u05dc\u05de\u05da</li>\n<li>\u05e4\u05e6\u05d0</li>\n<li>\u05e7\u05dc\u05d0\u05dd \u05d5\u05ea\u05e7\u05d5\u05dc \u05dc\u05d4 \u05d0\u05dc\u05d5\u05e6\u05d4 \u05d9\u05e4\u05de\u05d4\u05de\u05d0 \u05e4\u05e2\u05d0 \u05de\u05e2\u05d4</li>\n<li>\u05dc\u05de\u05d0 \u05d9\u05e6\u05d9\u05e2 \u05dc\u05d4 \u05e9\u05d9 \u05d0\u05df \u05e2\u05e9\u05d4 \u05d5\u05d0\u05dc\u05dc\u05d4</li>\n<li>\u05d0\u05dc\u05de\u05d0\u05d7[</li>\n<li>\u05e2\u05dc\u05d9 \u05db\u05dc \u05db\u05d9\u05e8</li>\n</ol>",
-          "format": "text/html",
-          "TextInput": "rtl"
+          "label": "Recto:",
+          "value": "\n<ol><li>\u0627\u0646\u0627 \u0627\u062e\u0635\u0643\u0645 \u062c\u0645\u064a\u0639 \u0627\u0641\u0636\u0644 \u0633\u0644\u0627\u0645</li>\n<li>\u0648\u0645\u0627 \u062a\u062d\u062a\u0627\u062c \u0648\u0635\u064a\u0629 \u0628\u0648\u0627\u0644\u062f\u062a\u0643 \u0648\u0627\u062e\u0648\u062a\u0643 \u0648\u0627\u062e\u062a\u0643</li>\n<li>\u0648\u0627\u0644\u0627\u0645 \u062a\u062e\u0635 \u0639\u0646\u0649 \u0645\u0648\u0644\u0627\u064a \u0627\u0644\u062d\u0628\u0631 \u0645\u0639\u0644\u0645\u0643 \u0627\u0641\u0636\u0644</li>\n<li>\u0633\u0644\u0627\u0645 \u0648\u062a\u0642\u0648\u0644 \u0644\u0647 \u0627\u0644\u0648\u0636\u064a\u0629 \u0641\u0645\u0647\u0645\u0627 \u0641\u0639\u0644 \u0645\u0639\u0643</li>\n<li>\u0641\u0645\u0627 \u064a\u0636\u064a\u0639 \u0644\u0647 \u0634\u064a \u0627\u0646 \u0639\u0634\u062a \u0648\u0627\u0644\u0644\u0647 \u0627\u0644\u0645</li>\n<li>\u0639\u0644\u0649 \u0643\u0644</li></ol>\n",
+          "format": "text/html"
         }
       ],
       "motivation": [
         "sc:supplementing",
-        "transcribing"
-      ]
+        "translating"
+      ],
+      "schema:position": 1
     }
   ]
 }
