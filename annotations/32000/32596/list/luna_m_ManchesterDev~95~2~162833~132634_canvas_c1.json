@@ -1,0 +1,77 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fluna.manchester.ac.uk%2Fluna%2Fservlet%2Fiiif%2Fm%2FManchesterDev~95~2~162833~132634%2Fcanvas%2Fc1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F32596%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"fa628a865721d47b865ee24d50b705ea\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/c536d654-fb49-408f-8619-b4c8fe77ecac/",
+      "type": "Annotation",
+      "created": "2022-10-07T18:10:52.680314+00:00",
+      "modified": "2022-10-07T18:42:19.505904+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/890/",
+      "target": {
+        "source": {
+          "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~95~2~162833~132634/canvas/c1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/32596/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:1245.4962158203125,810.896240234375,2447.8594970703125,3599.554443359375",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto:",
+          "value": "<ol>\n<li>\u05de]\u05de\u05dc\u05d5\u05db\u05d4\u05de\u05d0<span lang=\"en\"> \u05d0\u05dc\u05de\u05d2\u05e8\u05d1\u05d9 \u05d0\u05dc\u05e9\u05e2\u05d0\u05d1</span></li>\n<li>] \u05e9\u05e0\u05d9 \u05d4\u05d3\u05d9\u05d9\u05e0\u05d9\u05dd \u05d4\u05d4\u05d2\u05d5\u05e0\u05d9\u05dd</li>\n<li>] \u05db\u05d4\u05e4\u05d0 \u05dc\u05db\u05dc \u05de\u05dc\u05d4\u05d5\u05e3 \u05de\u05dc\u05db\u05d4\u05de\u05d0</li>\n<li>] . \u05d4\u05de\u05d0 \u05d5\u05dc\u05de\u05d0 \u05e7\u05d3 \u05d2\u05de\u05e2\u05d4</li>\n<li>]\u05de\u05d0 \u05d5\u05de\u05e8\u05d4 \u05d5\u05d7\u05d0\u05dc\u05d4 \u05d5\u05e7\u05dc\u05d4</li>\n<li>] \u05e4 . . \u05d5\u05d0\u05dc\u05e4\u05d0\u05e7\u05d4(?) \u05d5\u05d0\u05e0\u05d4</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"b7533e92a8b78737898de92c4cbe5837\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/606bd400-6201-4955-84a7-bba41072e9e7/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:54:04.599976+00:00",
+      "modified": "2026-10-29T19:54:04.599989+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://luna.manchester.ac.uk/luna/servlet/iiif/m/ManchesterDev~95~2~162833~132634/canvas/c1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/32596/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:1245.4962158203125,810.896240234375,2447.8594970703125,3599.554443359375",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Recto:",
+          "value": "\n<ol><li>\u0645\u0645\u0644\u0648\u0643\u0647\u0645\u0627 \u0627\u0644\u0645\u063a\u0631\u0628\u064a \u0627\u0644\u0634\u0639\u0627\u0628</li>\n<li>\u05e9\u05e0\u05d9 \u05d4\u05d3\u05d9\u05d9\u05e0\u05d9\u05dd \u05d4\u05d4\u05d2\u05d5\u05e0\u05d9\u05dd</li>\n<li>\u0643\u0647\u0641\u0627 \u0644\u0643\u0644 \u0645\u0644\u0647\u0648\u0641 \u0645\u0644\u0643\u0647\u0645\u0627</li>\n<li>\u0647\u0645\u0627 \u0648\u0644\u0645\u0627 \u0642\u062f \u062c\u0645\u0639\u0647</li>\n<li>\u0645\u0627 \u0648\u0645\u0631\u0647 \u0648\u062d\u0627\u0644\u0647 \u0648\u0642\u0644\u0647</li>\n<li>\u05e4 \u0648\u0627\u0644\u0641\u0627\u0642\u0629 \u0648\u0627\u0646\u0647</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
