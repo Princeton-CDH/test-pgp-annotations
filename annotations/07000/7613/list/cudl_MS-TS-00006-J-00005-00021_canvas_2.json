@@ -1,0 +1,77 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00006-J-00005-00021%2Fcanvas%2F2&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F7613%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"95f2ccdb50329fd8e96faefefc71fffc\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/622ae642-d475-4dbf-bd89-c3e21e05a3f4/",
+      "type": "Annotation",
+      "created": "2023-02-04T21:25:56.555802+00:00",
+      "modified": "2026-02-28T17:43:19.953758+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/953/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00006-J-00005-00021/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7613/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:122.85867309570312,3176.541259765625,3085.307586669922,1081.519287109375",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso, address:",
+          "value": "\n<ol><li>\u05d9\u05d2\u05d9\u05e2 \u05d0\u05dc\u05d9 \u05db\u05d2\u05e7 \u05de\u05e8\u05e0\u05d5 \u05d5\u05e8\u05d1\u05e0\u05d5 \u05e0\u05ea\u05df \u05d4\u05db\u05d4\u05df</li>\n<li>\u05d4\u05d7\u05d1\u05e8 \u05d4\u05de\u05e2\u05d5\u05dc\u05d4 \u05d4\u05d3\u05d9\u05df \u05d4\u05de\u05e9\u05db\u05d9\u05dc \u05d4\u05d7\u05db\u05dd</li>\n<li>\u05d5\u05d4\u05e0\u05d1\u05d5\u05df \u05d1\u05e8 \u05db\u05d2\u05e7 [\u05de\u05e8\u05e0\u05d5 \u05d5\u05e8\u05d1\u05e0\u05d5] \u05e9\u05dc\u05de\u05d4</li>\n<li>\u05d4\u05db\u05d4\u05df . . . .</li>\n<li>\u05de\u05df \u05d5\u05dc\u05d3[\u05d4</li>\n<li>\u05de\u05d1\u05d7\u05e8</li>\n<li>\u05d1\u05e8 \u05d9\u05e4\u05ea</li>\n<li>\u05e0\u05e2</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"eae5e37b9a517e91b208c27407b72c2e\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/2d529212-3c8e-4884-b654-f4e9c6f2c131/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:52:26.434655+00:00",
+      "modified": "2026-10-29T19:52:26.434663+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00006-J-00005-00021/canvas/2",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7613/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:122.85867309570312,3176.541259765625,3085.307586669922,1081.519287109375",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso, address:",
+          "value": "\n<ol><li>\u0627\u0644\u0649 \u0643\u062c\u0642 \u05de\u05e8\u05e0\u05d5 \u05d5\u05e8\u05d1\u05e0\u05d5 \u05e0\u05ea\u05df \u05d4\u05db\u05d4\u05df</li>\n<li>\u05d4\u05d7\u05d1\u05e8 \u05d4\u05de\u05e2\u05d5\u05dc\u05d4 \u05d4\u05d3\u05d9\u05df \u05d4\u05de\u05e9\u05db\u05d9\u05dc \u05d4\u05d7\u05db\u05dd</li>\n<li>\u05d5\u05d4\u05e0\u05d1\u05d5\u05df \u05d1\u05e8 \u05db\u05d2\u05e7 \u05de\u05e8\u05e0\u05d5 \u05d5\u05e8\u05d1\u05e0\u05d5 \u05e9\u05dc\u05de\u05d4</li>\n<li>\u05d4\u05db\u05d4\u05df</li>\n<li>\u0645\u0646 \u0648\u0644\u062f\u0647</li>\n<li>\u05de\u05d1\u05d7\u05e8</li>\n<li>\u05d1\u05e8 \u05d9\u05e4\u05ea</li>\n<li></li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
