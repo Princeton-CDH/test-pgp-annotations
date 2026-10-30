@@ -1,0 +1,110 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Fcudl.lib.cam.ac.uk%2Fiiif%2FMS-TS-00008-J-00027-00010%2Fcanvas%2F1&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F7709%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"12c961a7a195ee3380948fb38f4e10a5\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/10c7f013-b455-4a2f-884c-4abf41698011/",
+      "type": "Annotation",
+      "created": "2022-12-09T04:44:45.453076+00:00",
+      "modified": "2026-05-22T06:26:14.291536+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/890/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-J-00027-00010/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7709/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:115.78817749023438,82.3358383178711,3982.3006896972656,2690.064552307129",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\n<ol><li>\u05d0\u05dc[. .]\u05d0\u05dc \u05e7\u05d3\u05e8 \u05de\u05e2 \u05ea\u05dc\u05ea\u05d4 \u05d0\u05e8\u05d8\u05dc \u05e9\u05e8\u05d0\u05d1 \u05d2\u05dc\u05d0\u05d1 \u05d5\u05d9\u05d8\u05d1\u05da \u05d7\u05ea\u05d9</li>\n<li>\u05d9\u05e0\u05e2\u05e7\u05d3 \u05e9\u05e8\u05d0\u05d1 \u05d5\u05d9\u05e2\u05d2\u05df //\u05d1\u05d4// \u05de\u05df \u05d0\u05dc\u05d3\u05d5\u05d0 \u05e0\u05e6\u05e4\u05d4 \u05d5\u05d9\u05d3\u05e4\u05e2 \u05e4\u05d9 \u05d1\u05e8\u05e0\u05d9\u05d4</li>\n<li>\u05e7\u05d3 \u05d1\u05db\u05e8\u05ea \u05d1\u05e2\u05d5\u05d3 \u05e8\u05e4\u05d9\u05e2 \u05e4\u05d9\u05db\u05d5\u05df [[\u05d0]] \u05d4\u05d3\u05d0 \u05d0\u05dc\u05d3\u05d5\u05d0 \u05d9\u05e1\u05de\u05d0</li>\n<li>\u05de\u05e2\u05d2\u05d5\u05df \u05d0\u05dc\u05de\u05e1\u05da \u05d0\u05dc\u05d7\u05dc\u05d5 \u05d5\u05d9\u05d0\u05db\u05d3 \u05e0\u05e6\u05e3 \u05d0\u05dc\u05d7\u05d5\u05d0\u05d9\u05d2 \u05d0\u05dc\u05d1\u05d0\u05d8[\u05e0]\u05d4</li>\n<li>\u05d9\u05d6\u05d0\u05d3 \u05e4\u05d9\u05d4 \u05d5\u05d6\u05df \u05db\u05de\u05e1\u05d4 \u05d3\u05e8\u05d0\u05d4\u05dd \u05d0\u05e4\u05e1\u05e0\u05ea\u05d9\u05df \u05e8\u05d5\u05de\u05d9 \u05d5\u05d5\u05d6\u05df \u05db\u05de\u05e1[\u05d4]</li>\n<li>[\u05d3\u05e8]\u05d0\u05d4\u05dd \u05e6\u05d1\u05e8 \u05e1\u05e7\u05d8\u05e8\u05d9 \u05e4\u05d9\u05db\u05d5\u05df \u05d3\u05d5\u05d0 \u05d0\u05dc\u05de\u05e1\u05da \u05d0\u05dc\u05de\u05e8</li>\n<li>\u05e0\u05d0\u05e4\u05e2 \u05d0\u05df \u05e9\u05d0 \u05d0\u05dc\u05dc\u05d4</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"4fa99d57fe3de5abc44ec6c64bc5aca7\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/88d18ffe-f99e-4a56-a562-024109536992/",
+      "type": "Annotation",
+      "created": "2026-05-22T06:34:30.984553+00:00",
+      "modified": "2026-05-22T06:37:55.814952+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/1218/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-J-00027-00010/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7709/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:71.01776123046875,65.38103485107422,4189.451965332031,2790.277656555176",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\n<ol><li>[...] a quantity, with three ra\u1e6dls of juleb syrup, and cook it until</li>\n<li>the syrup comes together. Knead \\\\in this// half of the remedy and place it in a vessel</li>\n<li>that has been incensed with fine aromatic wood. This remedy is known as&nbsp;</li>\n<li>\"the sweet musk electuary.\" Take half of the ingredients above</li>\n<li>and add to them Greek absinthe weighing five <i>dirham</i>s and</li>\n<li>Socotran aloe weighing five&nbsp;<i>dirham</i>s. This is \"the bitter musk remedy.\"&nbsp;</li>\n<li>Effective, God willing.&nbsp;</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"798f4251311cebe2a107d73058420c4b\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/a32b0285-09fe-4226-9ca2-9f228972b9fe/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:52:27.524835+00:00",
+      "modified": "2026-10-29T19:52:27.524843+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://cudl.lib.cam.ac.uk/iiif/MS-TS-00008-J-00027-00010/canvas/1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/7709/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:115.78817749023438,82.3358383178711,3982.3006896972656,2690.064552307129",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "",
+          "value": "\n<ol><li>\u0642\u062f\u0631 \u0645\u0639 \u062b\u0644\u062b\u0629 \u0627\u0631\u0637\u0644 \u0634\u0631\u0627\u0628 \u063a\u0644\u0627\u0628 \u0648\u064a\u0637\u0628\u0643 \u062d\u062a\u0649</li>\n<li>\u064a\u0646\u0639\u0642\u062f \u0634\u0631\u0627\u0628 \u0648\u064a\u0639\u062c\u0646 \u0628\u0647 \u0645\u0646 \u0627\u0644\u062f\u0648\u0627 \u0646\u0635\u0641\u0647 \u0648\u064a\u062f\u0641\u0639 \u0641\u064a \u0628\u0631\u0646\u064a\u0629</li>\n<li>\u0642\u062f \u0628\u062e\u0631\u062a \u0628\u0639\u0648\u062f \u0631\u0641\u064a\u0639 \u0641\u064a\u0643\u0648\u0646 \u0647\u0630\u0627 \u0627\u0644\u0630\u0648\u0627 \u064a\u0633\u0645\u0627</li>\n<li>\u0645\u0639\u062c\u0648\u0646 \u0627\u0644\u0645\u0633\u062e \u0627\u0644\u062d\u0644\u0648 \u0648\u064a\u0627\u062e\u0630 \u0646\u0635\u0641 \u0627\u0644\u062d\u0648\u0627\u0626\u062c \u0627\u0644\u0628\u0627\u0637\u0646\u0629</li>\n<li>\u064a\u0632\u0627\u062f \u0641\u064a\u0647 \u0648\u0632\u0646 \u062e\u0645\u0633\u0629 \u062f\u0631\u0627\u0647\u0645 \u0627\u0641\u0633\u0646\u062a\u064a\u0646 \u0631\u0648\u0645\u064a \u0648\u0648\u0632\u0646 \u062e\u0645\u0633\u0629</li>\n<li>\u062f\u0631\u0627\u0647\u0645 \u0635\u0628\u0631 \u0633\u0642\u0637\u0631\u064a \u0641\u064a\u0643\u0648\u0646 \u0630\u0648\u0627 \u0627\u0644\u0645\u0633\u062e \u0627\u0644\u0645\u0631</li>\n<li>\u0646\u0627\u0641\u0639 \u0627\u0646 \u0634\u0627 \u0627\u0644\u0644\u0647</li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
