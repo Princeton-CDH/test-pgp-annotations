@@ -1,0 +1,77 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://test-geniza.cdh.princeton.edu/annotations/search/?uri=https%3A%2F%2Ffiggy.princeton.edu%2Fconcern%2Fscanned_resources%2Fca3fc906-8450-4426-a448-bec6b6fcbb1b%2Fmanifest%2Fcanvas%2F8014ee82-50e1-4b70-8a3d-8676eb1402bc&manifest=https%3A%2F%2Fgeniza.princeton.edu%2Fdocuments%2F6170%2Fiiif%2Fmanifest%2F",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "etag": "\"aed42d8c89780522e8b0b972533fb481\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/22c10b46-b703-4694-a643-a2b2c321eb6e/",
+      "type": "Annotation",
+      "created": "2022-12-26T21:29:19.249479+00:00",
+      "modified": "2022-12-26T21:32:05.459592+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/890/",
+      "target": {
+        "source": {
+          "id": "https://figgy.princeton.edu/concern/scanned_resources/ca3fc906-8450-4426-a448-bec6b6fcbb1b/manifest/canvas/8014ee82-50e1-4b70-8a3d-8676eb1402bc",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/6170/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:528.9985961914062,1014.4526977539062,4361.197692871094,1180.8319702148438",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso, address:",
+          "value": "<ol>\n<li>] \u05d0\u05dc\u05e9\u05d9\u05da \u05d0\u05dc\u05d2\u05dc\u05d9\u05dc \u05d0\u05d1\u05d9 \u05e1\u05e2\u05d9\u05d3 \u05d1\u05df&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\u05d6\u05dc</li>\n<li>\u05d0\u05dc\u05e2\u05d8\u05d0\u05e8 \u05d0\u05dc\u05de\u05e2\u05e8\u05d5\u05e3 \u05d1\u05d1\u05df \u05d0\u05dc\u05e2\u05e4\u05e6\u05d9 \u05d0\u05d3\u05d0\u05dd \u05e2\u05dc\u05dc\u05d4 [\u05e2\u05d6\u05d4]</li>\n<li>\u05e9\u05d0\u05db\u05e8 \u05ea\u05e4\u05e6\u05dc\u05d4 \u05de\u05d1\u05d0\u05e8\u05da</li>\n<li>\u05d1\u05df \u05d4\u05dc\u05dc \u05e0\u05e2</li>\n<li>\u05d0\u05dc\u05de\u05e8\u05d1\u05e2\u05d4</li>\n</ol>",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "transcribing"
+      ],
+      "schema:position": 1
+    },
+    {
+      "etag": "\"2f836e788945046fe2e80d787e00ad0c\"",
+      "id": "https://test-geniza.cdh.princeton.edu/annotations/5aedc010-fa17-4841-94b3-e4b5f20c237d/",
+      "type": "Annotation",
+      "created": "2026-10-29T19:52:13.359887+00:00",
+      "modified": "2026-10-29T19:52:13.359894+00:00",
+      "dc:source": "https://geniza.princeton.edu/sources/3916/",
+      "target": {
+        "source": {
+          "id": "https://figgy.princeton.edu/concern/scanned_resources/ca3fc906-8450-4426-a448-bec6b6fcbb1b/manifest/canvas/8014ee82-50e1-4b70-8a3d-8676eb1402bc",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://geniza.princeton.edu/documents/6170/iiif/manifest/"
+          }
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:528.9985961914062,1014.4526977539062,4361.197692871094,1180.8319702148438",
+          "conformsTo": "http://www.w3.org/TR/media-frags/"
+        }
+      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "label": "Verso, address:",
+          "value": "\n<ol><li>\u0627\u0644\u0634\u064a\u0643 \u0627\u0644\u062c\u0644\u064a\u0644 \u0627\u0628\u064a \u0633\u0639\u064a\u062f \u05d1\u05df \u05d6\u05dc</li>\n<li>\u0627\u0644\u0639\u0637\u0627\u0631 \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0628\u0646 \u0627\u0644\u0639\u0641\u0636\u064a \u0627\u062f\u0627\u0645 \u0639\u0644\u0644\u0647 \u0639\u0632\u0629</li>\n<li>\u0634\u0627\u062e\u0631 \u062a\u0641\u0636\u0644\u0647 \u0645\u0628\u0627\u0631\u0643</li>\n<li>\u05d1\u05df \u05d4\u05dc\u05dc \u0646\u0639</li>\n<li></li></ol>\n",
+          "format": "text/html"
+        }
+      ],
+      "motivation": [
+        "sc:supplementing",
+        "translating"
+      ],
+      "schema:position": 1
+    }
+  ]
+}
